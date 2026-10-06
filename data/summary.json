@@ -130,11 +130,11 @@
     "version": "1.0.88"
   },
   {
-    "change_file": "data/changes/Adventure Time Mash-up-1.0.75.json",
-    "etag": "\"0300ab99-0000-0800-0000-6ac460340000\"",
+    "change_file": null,
+    "etag": "\"030097ed-0000-0800-0000-6ac55d180000\"",
     "file_count": 3396,
     "icon_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/f9fee02b-edc3-46a8-ab17-875ffb057dfc/AdventureTime_packicon.jpg",
-    "last_checked": "2026-10-06T09:26:11.505847Z",
+    "last_checked": "2026-10-06T23:55:04.353249Z",
     "manifest_file": "data/manifests/Adventure Time Mash-up.json",
     "safe_name": "Adventure Time Mash-up",
     "thumbnail_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/8a21d431-32da-43c9-8628-1c7aa06d28e6/AdventureTime_Thumbnail.jpg",
