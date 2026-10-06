@@ -50,12 +50,14 @@
   "805c7b50-8bf5-42b1-9b09-01818023f5af": {
     "change_file": "data/changes/Pirates of the Caribbean-1.0.86.json",
     "etag": "\"4b003b3e-0000-0800-0000-6ac29e590000\"",
+    "file_count": 3204,
     "icon_url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/20a4e7f9-2548-46ea-a79b-f5391b393a14/PiratesoftheCaribbean_packicon_0.jpg",
-    "last_checked": "2026-10-06T09:00:26.908464Z",
-    "pack_dir": "data/packs/Pirates of the Caribbean",
+    "last_checked": "2026-10-06T09:25:38.263717Z",
+    "manifest_file": "data/manifests/Pirates of the Caribbean.json",
     "safe_name": "Pirates of the Caribbean",
     "thumbnail_url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/230eb2fa-2b0f-4790-8478-cee8a0e5486a/PiratesoftheCaribbean_thumbnail_800x450.jpg",
     "title": "Pirates of the Caribbean",
+    "total_bytes": 198635603,
     "version": "1.0.86"
   },
   "ef8b11e0-7b10-41ac-81f4-2a4b02d25727": {

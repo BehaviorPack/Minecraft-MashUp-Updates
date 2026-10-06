@@ -3205,15 +3205,16 @@
     "world_icon.jpeg",
     "world_resource_packs.json"
   ],
-  "detected_at": "2026-10-06T09:00:26.894461Z",
-  "engine": "1.21.30",
+  "detected_at": "2026-10-06T09:25:38.262435Z",
   "etag": "\"4b003b3e-0000-0800-0000-6ac29e590000\"",
   "icon_url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/20a4e7f9-2548-46ea-a79b-f5391b393a14/PiratesoftheCaribbean_packicon_0.jpg",
+  "modified": [],
   "pack": "Pirates of the Caribbean",
   "previous_version": null,
   "removed": [],
   "thumbnail_url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/230eb2fa-2b0f-4790-8478-cee8a0e5486a/PiratesoftheCaribbean_thumbnail_800x450.jpg",
-  "total_files": 3207,
+  "total_bytes": 198635603,
+  "total_files": 3204,
   "uuid": "805c7b50-8bf5-42b1-9b09-01818023f5af",
   "version": "1.0.86"
 }
