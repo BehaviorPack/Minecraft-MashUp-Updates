@@ -2,10 +2,10 @@ import json
 import os
 import datetime
 
-BASE_DIR   = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DATA_DIR   = os.path.join(BASE_DIR, "data")
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DATA_DIR = os.path.join(BASE_DIR, "data")
 STATE_PATH = os.path.join(DATA_DIR, "state.json")
-README     = os.path.join(BASE_DIR, "README.md")
+README = os.path.join(BASE_DIR, "README.md")
 
 HEADER = (
     "# Minecraft Marketplace Pack Monitor\n\n"
@@ -26,11 +26,13 @@ FOOTER = (
     '  "version": "1.0.75",\n'
     '  "added": ["textures/foo.png"],\n'
     '  "removed": [],\n'
-    '  "engine": "1.21.0"\n'
+    '  "engine": "1.21.0",\n'
+    '  "icon_url": "https://.../packicon_0.jpg",\n'
+    '  "thumbnail_url": "https://.../Thumbnail_0.jpg"\n'
     "}\n"
     "```\n\n"
     "## How it works\n\n"
-    "1. GitHub Action runs every 6 hours\n"
+    "1. GitHub Action runs every 24 hours\n"
     "2. Authenticates with PlayFab using repository secrets\n"
     "3. Fetches each tracked UUID from the catalog\n"
     "4. Compares ETag + version to last run\n"
@@ -38,6 +40,17 @@ FOOTER = (
     "6. Writes `data/changes/{pack}-{ver}.json` and updates this README\n"
     "7. Commits everything back to the repo\n"
 )
+
+
+def icon_md(icon_url: str, title: str, page_url: str | None = None) -> str:
+    """Render a small inline pack icon before the pack title."""
+    if not icon_url:
+        return title
+    label = title.replace("|", "\\|")
+    img = f'<img src="{icon_url}" width="20" height="20" alt="">'
+    if page_url:
+        return f'{img} [{label}]({page_url})'
+    return f'{img} {label}'
 
 
 def main():
@@ -50,21 +63,29 @@ def main():
 
     rows = []
     for uuid, entry in sorted(state.items(), key=lambda kv: kv[1].get("title", "")):
-        title       = entry.get("title", "?")
-        version     = entry.get("version", "?")
+        title = entry.get("title", "?")
+        version = entry.get("version", "?")
         change_file = entry.get("change_file")
+        icon_url = entry.get("icon_url", "")
 
         file_count = 0
         last_change = "-"
+
         if change_file and os.path.exists(os.path.join(BASE_DIR, change_file)):
             with open(os.path.join(BASE_DIR, change_file), "r", encoding="utf-8") as cf:
                 cdata = json.load(cf)
             file_count = cdata.get("total_files", 0)
             last_change = cdata.get("detected_at", "-")[:10]
+            # Prefer whatever is in the change file (in case state is stale)
+            icon_url = cdata.get("icon_url") or icon_url
+
+        pdp = f"https://www.minecraft.net/en-us/marketplace/pdp?id={uuid}"
+        name_cell = icon_md(icon_url, title, pdp)
 
         link = f"[`{os.path.basename(change_file)}`]({change_file})" if change_file else "-"
 
-        rows.append(f"| {title} | `{version}` | {file_count} | {last_change} | {link} |")
+        rows.append(
+            f"| {name_cell} | `{version}` | {file_count} | {last_change} | {link} |")
 
     content = HEADER.format(ts=datetime.datetime.utcnow().isoformat() + "Z")
     content += "\n".join(rows) if rows else "| _none yet_ | | | | |"

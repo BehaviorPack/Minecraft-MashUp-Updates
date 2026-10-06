@@ -12,7 +12,10 @@ from pf import LoginWithCustomId, GetEntityToken, PLAYFAB_SESSION
 
 WEBHOOK_URL = os.getenv("WEBHOOK_URL", "")  # optional
 
-PLAYFAB_CATALOG_URL = f"https://{os.getenv('TITLE_ID','20ca2').lower()}.playfabapi.com/Catalog/GetPublishedItem"
+PLAYFAB_CATALOG_URL = (
+    f"https://{os.getenv('TITLE_ID', '20ca2').lower()}.playfabapi.com"
+    "/Catalog/GetPublishedItem"
+)
 
 ASSET_HEADERS = {
     "Connection": "keep-alive",
@@ -52,14 +55,15 @@ UUIDS = [
 
 DELAY_SECONDS = 3
 
-BASE_DIR     = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DATA_DIR     = os.path.join(BASE_DIR, "data")
-SAVE_DIR     = os.path.join(DATA_DIR, "responses")
-PACKS_DIR    = os.path.join(DATA_DIR, "packs")
-CHANGES_DIR  = os.path.join(DATA_DIR, "changes")
-STATE_PATH   = os.path.join(DATA_DIR, "state.json")
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DATA_DIR = os.path.join(BASE_DIR, "data")
+SAVE_DIR = os.path.join(DATA_DIR, "responses")
+PACKS_DIR = os.path.join(DATA_DIR, "packs")
+CHANGES_DIR = os.path.join(DATA_DIR, "changes")
+STATE_PATH = os.path.join(DATA_DIR, "state.json")
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
+
 
 def safe_filename(name: str) -> str:
     keepchars = (" ", ".", "_", "-", "'", "™", "®")
@@ -75,7 +79,9 @@ def fetch_item(uuid: str) -> dict | None:
         "content-type": "application/json",
     }
     try:
-        r = PLAYFAB_SESSION.post(PLAYFAB_CATALOG_URL, json=payload, headers=headers, timeout=30)
+        r = PLAYFAB_SESSION.post(
+            PLAYFAB_CATALOG_URL, json=payload, headers=headers, timeout=30
+        )
         r.raise_for_status()
         return r.json()
     except Exception as exc:
@@ -97,13 +103,28 @@ def get_primary_zip_url(item: dict) -> str | None:
     return None
 
 
+def pick_images(item: dict) -> tuple[str, str]:
+    """
+    Return (icon_url, hero_url) from an item's Images list.
+    icon  = packicon  (small square)
+    hero  = Thumbnail -> panorama -> first screenshot (big banner)
+    """
+    imgs = {i.get("Tag"): i.get("Url")
+            for i in item.get("Images", []) if i.get("Url")}
+    icon = imgs.get("packicon", "")
+    hero = imgs.get("Thumbnail") or imgs.get(
+        "panorama") or imgs.get("screenshot", "")
+    return icon, hero
+
+
 def collect_existing_files(pack_dir: str) -> set:
     existing = set()
     if not os.path.exists(pack_dir):
         return existing
     for root, _, files in os.walk(pack_dir):
         for f in files:
-            rel = os.path.relpath(os.path.join(root, f), pack_dir).replace("\\", "/")
+            rel = os.path.relpath(os.path.join(root, f),
+                                  pack_dir).replace("\\", "/")
             existing.add(rel)
     return existing
 
@@ -118,6 +139,7 @@ def load_file_snapshot(pack_dir: str) -> set:
 
 def save_file_snapshot(pack_dir: str, files: list) -> None:
     snapshot_path = pack_dir.rstrip("/\\") + ".files.json"
+    os.makedirs(os.path.dirname(snapshot_path), exist_ok=True)
     with open(snapshot_path, "w", encoding="utf-8") as f:
         json.dump(sorted(files), f, indent=2)
 
@@ -129,7 +151,8 @@ def read_manifest_engine(pack_dir: str) -> str | None:
                 with open(os.path.join(root, "manifest.json"), "r", encoding="utf-8") as f:
                     data = json.load(f)
                 header = data.get("header", {})
-                v = header.get("min_engine_version") or header.get("base_game_version")
+                v = header.get("min_engine_version") or header.get(
+                    "base_game_version")
                 if v:
                     return ".".join(str(x) for x in v)
             except Exception:
@@ -154,7 +177,8 @@ def download_and_extract(primary_url: str, pack_dir: str) -> list:
     extracted_files = []
 
     with zipfile.ZipFile(io.BytesIO(r.content)) as primary_zip:
-        ppack_names = sorted(n for n in primary_zip.namelist() if n.endswith(".zip"))
+        ppack_names = sorted(
+            n for n in primary_zip.namelist() if n.endswith(".zip"))
         print(f"  [EXTRACT] Found inner zips: {ppack_names}")
 
         for ppack_name in ppack_names:
@@ -163,7 +187,8 @@ def download_and_extract(primary_url: str, pack_dir: str) -> list:
                 for member in ppack_zip.namelist():
                     if member.endswith("/"):
                         continue
-                    dest_path = os.path.join(pack_dir, member.replace("/", os.sep))
+                    dest_path = os.path.join(
+                        pack_dir, member.replace("/", os.sep))
                     os.makedirs(os.path.dirname(dest_path), exist_ok=True)
                     with ppack_zip.open(member) as src, open(dest_path, "wb") as dst:
                         dst.write(src.read())
@@ -187,7 +212,6 @@ def save_state(state: dict) -> None:
 
 
 def get_pack_version(item: dict) -> str:
-    """Extract version string from packIdentity."""
     dp = item.get("DisplayProperties", {})
     pack_ids = dp.get("packIdentity", [])
     if pack_ids:
@@ -196,10 +220,6 @@ def get_pack_version(item: dict) -> str:
 
 
 def write_change_file(pack_name: str, version: str, changes: dict) -> str:
-    """
-    Write {pack-name}-{ver}.json containing added/removed/modified files.
-    Returns the relative path to the file for README linking.
-    """
     os.makedirs(CHANGES_DIR, exist_ok=True)
     fname = f"{pack_name}-{version}.json"
     path = os.path.join(CHANGES_DIR, fname)
@@ -208,32 +228,53 @@ def write_change_file(pack_name: str, version: str, changes: dict) -> str:
     return f"data/changes/{fname}"
 
 
-def compute_diff(old_files: set, new_files: set) -> dict:
-    return {
-        "added":   sorted(new_files - old_files),
-        "removed": sorted(old_files - new_files),
+def build_embed(item: dict, engine: str | None, version: str,
+                added: list, removed: list) -> dict:
+    title = item.get("Title", {}).get("NEUTRAL", "Unknown")
+    item_id = item.get("Id", "")
+    desc = item.get("Description", {}).get("NEUTRAL", "")
+    tags = item.get("Tags", [])
+    rating = item.get("Rating", {}).get("Average", "N/A")
+    display = item.get("DisplayProperties", {})
+    price = display.get("price", "N/A")
+
+    icon_url, hero_url = pick_images(item)
+    page_url = f"https://www.minecraft.net/en-us/marketplace/pdp?id={item_id}"
+
+    embed = {
+        "title": title,
+        "url":   page_url,
+        "description": desc[:400],
+        "color": 7418248,
+        "author": {
+            "name":     title,
+            "url":      page_url,
+            "icon_url": icon_url or None,
+        },
+        "fields": [
+            {"name": "Version", "value": f"`{version}`",         "inline": True},
+            {"name": "Engine",  "value": f"`{engine or 'N/A'}`", "inline": True},
+            {"name": "Price",   "value": f"`{price}`",           "inline": True},
+            {"name": "Rating",  "value": f"`{rating}`",          "inline": True},
+            {"name": "Added",
+                "value": f"`{len(added)}`",      "inline": True},
+            {"name": "Removed",
+                "value": f"`{len(removed)}`",    "inline": True},
+        ],
+        "footer": {"text": ", ".join(tags[:8])},
     }
-
-
-def iso_to_discord_ts(iso: str) -> str:
-    try:
-        import re
-        normalized = re.sub(
-            r"\.(\d+)",
-            lambda m: "." + m.group(1).ljust(6, "0")[:6],
-            iso.replace("Z", "+00:00"),
-        )
-        dt   = datetime.datetime.fromisoformat(normalized)
-        unix = int(dt.timestamp())
-        return f"<t:{unix}:R>"
-    except Exception:
-        return iso
+    if icon_url:
+        embed["thumbnail"] = {"url": icon_url}
+    if hero_url:
+        embed["image"] = {"url": hero_url}
+    return embed
 
 
 def send_webhook(embed: dict, new_files: list = None) -> None:
     if not WEBHOOK_URL:
         return
-    payload = {"content": None, "embeds": [embed], "attachments": []}
+
+    content = None
     if new_files:
         sorted_files = sorted(new_files)
         header = f"### New Files Found ({len(sorted_files)}):\n"
@@ -245,10 +286,20 @@ def send_webhook(embed: dict, new_files: list = None) -> None:
                 body += f"*... and {remaining} more*"
                 break
             body += line
-        payload["content"] = header + body
+        content = header + body
+
+    # Discord rejects embeds with null image/icon fields — strip them
+    embed = {k: v for k, v in embed.items() if v is not None}
+    if "author" in embed:
+        embed["author"] = {k: v for k,
+                           v in embed["author"].items() if v is not None}
+
+    payload = {"content": content, "embeds": [embed], "attachments": []}
     try:
         r = requests.post(WEBHOOK_URL, json=payload, timeout=15)
         print(f"  [WEBHOOK] status {r.status_code}")
+        if r.status_code not in (200, 204):
+            print(f"  [WEBHOOK] {r.text[:200]}")
     except Exception as exc:
         print(f"  [WEBHOOK] Failed: {exc}")
 
@@ -269,7 +320,7 @@ def main():
     print(f"Token expires: {entity.get('TokenExpiration', '')}\n")
 
     state = load_state()
-    summary = []  # for README table
+    summary = []
 
     for i, uuid in enumerate(UUIDS):
         print(f"[{i+1}/{len(UUIDS)}] Checking UUID: {uuid}")
@@ -277,39 +328,47 @@ def main():
         response = fetch_item(uuid)
         if response is None:
             print("  Skipping (request failed).")
+            # Keep previous state so we don't lose it
+            if uuid in state:
+                summary.append(state[uuid])
             continue
 
         item = extract_item(response)
         if item is None:
             print("  No item found in response.")
+            if uuid in state:
+                summary.append(state[uuid])
             continue
 
-        title       = item.get("Title", {}).get("NEUTRAL", uuid)
-        safe_name   = safe_filename(title)
-        json_path   = os.path.join(SAVE_DIR, safe_name + ".json")
-        pack_dir    = os.path.join(PACKS_DIR, safe_name)
+        title = item.get("Title", {}).get("NEUTRAL", uuid)
+        safe_name = safe_filename(title)
+        json_path = os.path.join(SAVE_DIR, safe_name + ".json")
+        pack_dir = os.path.join(PACKS_DIR, safe_name)
         primary_url = get_primary_zip_url(item)
-        version     = get_pack_version(item)
-        etag        = item.get("ETag", "")
+        version = get_pack_version(item)
+        etag = item.get("ETag", "")
+        icon_url, hero_url = pick_images(item)
 
         prev = state.get(uuid, {})
-        prev_etag    = prev.get("etag")
+        prev_etag = prev.get("etag")
         prev_version = prev.get("version")
 
-        is_new     = not prev
+        is_new = not prev
         is_changed = (prev_etag != etag) or (prev_version != version)
 
-        change_rel_path = None
-        new_files = []
+        change_rel_path = prev.get("change_file")
+        added = []
+        removed = []
+        engine = None
 
         if is_new or is_changed:
             if is_new:
                 print(f"  New item '{title}' — saving.")
             else:
-                print(f"  Change detected in '{title}' ({prev_version} -> {version}).")
+                print(
+                    f"  Change detected in '{title}' ({prev_version} -> {version}).")
 
             # Save raw response
-            os.makedirs(SAVE_DIR, exist_ok=True)
             with open(json_path, "w", encoding="utf-8") as f:
                 json.dump(response, f, indent=4, ensure_ascii=False)
 
@@ -317,57 +376,46 @@ def main():
             all_extracted = []
             if primary_url:
                 all_extracted = download_and_extract(primary_url, pack_dir)
-                new_files = [f for f in all_extracted if f not in before]
                 save_file_snapshot(pack_dir, all_extracted)
 
-            # Build changes JSON
-            added   = sorted(new_files)
-            removed = []
-            if before and all_extracted:
-                removed = sorted(before - set(all_extracted))
+            new_set = set(all_extracted)
+            added = sorted(new_set - before) if before else sorted(new_set)
+            removed = sorted(before - new_set) if before else []
+
+            engine = read_manifest_engine(pack_dir)
 
             changes = {
-                "pack":         title,
-                "uuid":         uuid,
-                "version":      version,
+                "pack":             title,
+                "uuid":             uuid,
+                "version":          version,
                 "previous_version": prev_version,
-                "etag":         etag,
-                "detected_at":  datetime.datetime.utcnow().isoformat() + "Z",
-                "added":        added,
-                "removed":      removed,
-                "total_files":  len(all_extracted),
-                "engine":       read_manifest_engine(pack_dir),
+                "etag":             etag,
+                "detected_at":      datetime.datetime.utcnow().isoformat() + "Z",
+                "added":            added,
+                "removed":          removed,
+                "total_files":      len(all_extracted),
+                "engine":           engine,
+                "icon_url":         icon_url,
+                "thumbnail_url":    hero_url,
             }
-
             change_rel_path = write_change_file(safe_name, version, changes)
 
-            embed = {
-                "title": title,
-                "description": item.get("Description", {}).get("NEUTRAL", "")[:400],
-                "color": 7418248,
-                "fields": [
-                    {"name": "Version", "value": f"`{version}`", "inline": True},
-                    {"name": "Engine",  "value": f"`{changes['engine'] or 'N/A'}`", "inline": True},
-                    {"name": "Added",   "value": f"`{len(added)}`", "inline": True},
-                    {"name": "Removed", "value": f"`{len(removed)}`", "inline": True},
-                ],
-            }
-            send_webhook(embed, new_files or None)
+            embed = build_embed(item, engine, version, added, removed)
+            send_webhook(embed, new_files=added or None)
         else:
             print(f"  No changes for '{title}'.")
-            change_rel_path = prev.get("change_file")
 
-        # Update state entry
         state[uuid] = {
-            "title":        title,
-            "safe_name":    safe_name,
-            "version":      version,
-            "etag":         etag,
-            "last_checked": datetime.datetime.utcnow().isoformat() + "Z",
-            "change_file":  change_rel_path,
-            "pack_dir":     f"data/packs/{safe_name}",
+            "title":         title,
+            "safe_name":     safe_name,
+            "version":       version,
+            "etag":          etag,
+            "last_checked":  datetime.datetime.utcnow().isoformat() + "Z",
+            "change_file":   change_rel_path,
+            "pack_dir":      f"data/packs/{safe_name}",
+            "icon_url":      icon_url,
+            "thumbnail_url": hero_url,
         }
-
         summary.append(state[uuid])
 
         if i < len(UUIDS) - 1:
@@ -375,7 +423,6 @@ def main():
 
     save_state(state)
 
-    # Also emit a summary JSON for the README builder
     with open(os.path.join(DATA_DIR, "summary.json"), "w", encoding="utf-8") as f:
         json.dump(summary, f, indent=2, sort_keys=True)
 
