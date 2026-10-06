@@ -1,0 +1,624 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "Item": {
+            "SourceEntity": {
+                "Id": "B63A0803D3653643",
+                "Type": "namespace",
+                "TypeString": "namespace"
+            },
+            "SourceEntityKey": {
+                "Id": "B63A0803D3653643",
+                "Type": "namespace",
+                "TypeString": "namespace"
+            },
+            "Id": "805c7b50-8bf5-42b1-9b09-01818023f5af",
+            "Type": "bundle",
+            "AlternateIds": [
+                {
+                    "Type": "FriendlyId",
+                    "Value": "d70fb647-0a1e-4aff-8646-65c5017bd362"
+                }
+            ],
+            "FriendlyId": "d70fb647-0a1e-4aff-8646-65c5017bd362",
+            "Title": {
+                "NEUTRAL": "Pirates of the Caribbean",
+                "bg-BG": "Карибски пирати",
+                "cs-CZ": "Piráti z Karibiku",
+                "da-DK": "Pirates of the Caribbean",
+                "de-DE": "Fluch der Karibik",
+                "el-GR": "Οι Πειρατές της Καραϊβικής",
+                "en-GB": "Pirates of the Caribbean",
+                "en-US": "Pirates of the Caribbean",
+                "es-ES": "Piratas del Caribe",
+                "es-MX": "Piratas del Caribe",
+                "fi-FI": "Pirates of the Caribbean",
+                "fr-CA": "Pirates des Caraïbes",
+                "fr-FR": "Pirates des Caraïbes",
+                "hu-HU": "A Karib-tenger kalózai",
+                "id-ID": "Bajak Laut Karibia",
+                "it-IT": "Pirati dei Caraibi",
+                "ja-JP": "パイレーツ・オブ・カリビアン",
+                "ko-KR": "캐리비안의 해적",
+                "nb-NO": "Pirates of the Caribbean",
+                "nl-NL": "Pirates of the Caribbean",
+                "pl-PL": "Piraci z Karaibów",
+                "pt-BR": "Piratas do Caribe",
+                "pt-PT": "Piratas das Caraíbas",
+                "ru-RU": "Пираты Карибского моря",
+                "sk-SK": "Piráti z Karibiku",
+                "sv-SE": "Pirates of the Caribbean",
+                "tr-TR": "Karayip Korsanları",
+                "uk-UA": "Пірати Карибського моря",
+                "zh-CN": "加勒比海盗",
+                "zh-TW": "神鬼奇航",
+                "neutral": "Pirates of the Caribbean"
+            },
+            "Description": {
+                "NEUTRAL": "Take what you can. Give nothing back! Join Jack and his crew in the Pirates of the Caribbean Mash-up, featuring many of your favorite rogues and rascals. Plot a course from Tortuga to Shipwreck Cove and all the way down to Davy Jones’ Locker. This is the day you will always remember as the day you sailed with Captain Jack Sparrow.",
+                "bg-BG": "Вземете каквото можете. Не връщайте нищо! Присъединете се към Джак и неговия екипаж в пакета с гости от Карибски пирати - микс, включващ много от любимите ви мошеници и разбойници. Поемете курс от Тортуга до Залива на корабокрушенците, та чак до сандъка на Дейви Джоунс. Винаги ще помните този ден като онзи, в който сте плавали заедно с капитан Джак Спароу.",
+                "cs-CZ": "Poberte, co můžete. Ničeho se nevzdávejte! Přidejte se k Jackovi a jeho posádce v mash-upu Piráti z Karibiku, v němž najdete řadu svých oblíbených lotrů a darebáků. Určete směr z Tortugy do Zátoky vraků a pak dál až ke skříňce Davyho Jonese. Dnešní den si budete navždy pamatovat jako den, kdy jste vypluli s kapitánem Jackem Sparrowem.",
+                "da-DK": "Tag, hvad du kan. Giv ingenting tilbage! Slut dig til Jack og hans besætning i mashuppen Pirates of the Caribbean, og sæt kursen fra Tortuga til Shipwreck Cove og hele vejen til Davy Jones’ kiste. Det her bliver dagen, du altid vil huske som dagen, hvor du sejlede med kaptajn Jack Sparrow.",
+                "de-DE": "Nimm dir, was du kannst. Gib nichts zurück! Begleite im Pirates of the Caribbean Mash-Up Jack und seine Crew – und triff viele der bösen Schurken. Setze Kurs von Tortuga zur Schiffbruch-Bay und besuche das Land der Toten. Dies ist der Tag, an den du dich immer als den Tag erinnern wirst, an dem du (beinahe) mit Käpt'n Jack Sparrow gesegelt bist.",
+                "el-GR": "Άρπαξε ό,τι μπορείς. Χωρίς ανταλλάγματα! Γίνε μέλος του πληρώματος του Τζακ στο πακέτο Πειρατές της Καραϊβικής - Ποτ-πουρί, που περιλαμβάνει πολλούς από τους αγαπημένους σου τυχοδιώκτες και κακοποιούς. Σχεδίασε το ταξίδι σου από την Τορτούγα ως τον όρμο του Ναυάγιου και από εκεί μέχρι τον βυθό της θάλασσας. Θα θυμάσαι για πάντα αυτήν τη μέρα ως τη μέρα που άνοιξες πανιά με τον Καπετάν Τζακ Σπάροου.",
+                "en-GB": "Take what you can. Give nothing back! Join Jack and his crew in the Pirates of the Caribbean Mash-up, featuring many of your favorite rogues and rascals. Plot a course from Tortuga to Shipwreck Cove and all the way down to Davy Jones’ Locker. This is the day you will always remember as the day you sailed with Captain Jack Sparrow.",
+                "en-US": "Take what you can. Give nothing back! Join Jack and his crew in the Pirates of the Caribbean Mash-up, featuring many of your favorite rogues and rascals. Plot a course from Tortuga to Shipwreck Cove and all the way down to Davy Jones’ Locker. This is the day you will always remember as the day you sailed with Captain Jack Sparrow.",
+                "es-ES": "Arrasa con lo veas. ¡Y generoso no seas! Únete a Jack y a su tripulación en el Mash-up de Piratas del Caribe, con muchos de tus canallas y truhanes preferidos. Traza un rumbo de Tortuga a la Cala de los Naufragios, y de allí al reino de Davy Jones. Siempre recordarás este día como el día en el que te hiciste a la mar con el capitán Jack Sparrow.",
+                "es-MX": "¡Toma todo lo que puedas y no devuelvas nada! Acompaña a Jack y su tripulación en el popurrí Pirates of the Caribbean Mash-Up, que incluye a muchos de tus bribones y rebeldes favoritos. Traza una ruta desde Tortuga hasta la Bahía del Naufragio y hasta el escondite de Davy Jones. Recordarás este día por siempre como el día en que navegaste con el capitán Jack Sparrow.",
+                "fi-FI": "Nappaa kaikki, mitä saat. Älä anna mitään takaisin! Liity Jackin ja hänen miehistönsä mukaan Pirates of the Caribbean Mash-Up, joka sisältää useimmat suosikkirosmosi ja -veijarisi. Suunnittele reitti Tortugalta Hylkypoukamaen ja aina alas Davy Jonesin loukkuun asti. Tämä on päivä, jonka tulet aina muistamaan kapteeni Jack Sparrow'n kanssa seilaamisesta.",
+                "fr-CA": "Prenez ce que vous pouvez. Ne laissez rien en retour! Faites équipe avec Jack et son équipage dans ce Mash Up Pirates des Caraïbes, mettant en vedette plusieurs de vos fripons et bandits préférés. Tracez une route de Tortuga à l'Anse aux épaves et jusqu'au coffre de Davy Jones. Vous vous rappellerez toujours de cette journée où vous avez partagé le pont avec le capitaine Jack Sparrow.",
+                "fr-FR": "Empochez tout ce que vous pouvez. Ne lâchez rien ! Rejoignez Jack et son équipage dans le mash-up Pirates des Caraïbes, où vous retrouverez tous vos bandits et lascars préférés. Voyagez de Tortuga à la Baie des Naufragés jusqu'au coffre de Davy Jones. Cette journée, celle où vous avez navigué avec le capitaine Jack Sparrow, restera gravée dans votre mémoire à tout jamais.",
+                "hu-HU": "Húzd azt a kötelet! És el ne engedd! Csatlakozz Jackhez és legénységéhez A Karib-tenger kalózai mixben, ahol számos kedvenc kalózoddal és szereplőddel is találkozhatsz. Tervezd meg útvonalad Tortugáról a Roncs-öbölig és azon túl, egészen a tenger fenekéig. Erre a napra mindig úgy emlékezel majd vissza, hogy aznap hajóztál együtt Jack Sparrow kapitánnyal.",
+                "id-ID": "Ambil sebanyak mungkin. Jangan kembalikan apa pun! Bergabunglah dengan Jack dan krunya di Gabungan Para Perompak Karibia, yang menampilkan banyak penipu dan penjahat favoritmu. Rencanakan pelayaran dari Tortuga ke Teluk Shipwreck dan jauh hingga ke Loker Davy Jones. Ini adalah hari yang akan selalu kamu ingat sebagai hari pelayaranmu dengan Kapten Jack Sparrow.",
+                "it-IT": "Dritti alla meta… e conquista la preda! Unisciti a Jack e alla sua ciurma nel Pirati dei Caraibi Mash-up, con tutti i tuoi furfanti e filibustieri preferiti. Naviga tra Tortuga e la Baia dei Relitti, fino agli abissi noti come lo Scrigno di Davy Jones. Ricorderai per sempre questo giorno come il giorno in cui hai navigato con il Capitan Jack Sparrow.",
+                "ja-JP": "力で奪え、情けは無用！ パイレーツ・オブ・カリビアンで人気の海賊や悪党たちが多数登場するこのマッシュアップで、ジャック・スパロウの仲間に加わりましょう。トルトゥーガ島から難破船入り江へ至る海路や、デイヴィ・ジョーンズ・ロッカーの深淵までの道のりを描きましょう。今日という日を忘れるな。共に旅をしたな、キャプテン・ジャック・スパロウと！",
+                "ko-KR": "세상은 넓고 보물은 많습니다! 여러분이 좋아하는 악당과 사기꾼으로 가득한 캐리비안의 해적 매시업에서 잭과 선원들에게 합류하세요. 토르투가 섬부터 난파선 만까지 항로를 그리며 데비 존스의 함으로 나아가세요. 잭 스패로우 선장과 함께 항해했던 날로 영원히 기억될, 잊지 못할 하루가 될 겁니다.",
+                "nb-NO": "Ta det du kan. Ikke gi noe tilbake! Bli med Jack og mannskapet hans i en Pirates of the Caribbean mash-up, der alle favorittkjeltringene og slynglene dine er med. Sett en kurs fra Tortuga til Skipsvraksbukta, hele veien til Davy Jones’ skap. Dette er dagen du alltid vil huske som dagen du seilte med kaptein Jack Sparrow.",
+                "nl-NL": "Pak wat je kunt, geef niks weg! Ga mee met Jack en zijn groep in de mashup Pirates of the Caribbean, met veel van je favoriete schavuiten en deugnieten. Zet een koers uit van Tortuga naar Shipwreck Cove en Davy Jones' Locker. Dit is de dag die je altijd bij zal blijven als de dag dat je hebt gevaren met kapitein Jack Sparrow.",
+                "pl-PL": "Bierz, co możesz – i nie oddawaj! Dołącz do Jacka i jego załogi w Minecraft Piraci z Karaibów - zestaw miks, gdzie spotkasz swoich ulubionych łotrów i nicponiów. Wyznacz kurs z Tortugi do Zatoki Rozbitków i dalej, aż do Luku Davy'ego Jonesa. Ten dzień zapamiętasz jako wielką przygodę morską u boku kapitana Jacka Sparrowa.",
+                "pt-BR": "Leve tudo que puder. Não dê nada em troca. Junte-se a Jack e sua tripulação no Pirates of the Caribbean Mash-up, que vem com seus ladrões e trapaceiros favoritos. Planeje uma rota de Tortuga para Baía Naufrágio, indo até o Baú de Davy Jones. Você vai se lembrar para sempre deste dia como o dia em que você navegou com o Capitão Jack Sparrow.",
+                "pt-PT": "Agarra o que conseguires. Não devolvas nada! Junta-te a Jack e à sua tripulação no Mash-up Piratas das Caraíbas, com muitos dos teus trapaceiros e patifes favoritos. Traça um percurso de Tortuga até Shipwreck Cove e finalmente até Davy Jones' Locker. Este é o dia que para sempre te vai recordar do dia que navegaste com o Capitão Jack Sparrow.",
+                "ru-RU": "Бери что хочешь. И не отдавай обратно! Присоединитесь к Джеку и его команде с миксом «Пираты Карибского моря», в котором есть многие из ваших любимых плутов и проказников. Проложите курс с Тортуги до Бухты кораблекрушения и Тайника Дейви Джонса. Этот день запомнится вам навсегда, ведь вы отправитесь в плавание с Капитаном Джеком Воробьем!",
+                "sk-SK": "Zoberte si, čo môžete. Nič tam nenechajte! Pridajte sa k Jackovi a jeho posádke v mash-upe Piráti z Karibiku, v ktorej nájdete svojich mnohých obľúbených darebákov a gaunerov. Vyznačte kurz z Tortugy do Zátoky vrakov a ďalej, až k truhlici Davyho Jonesa. Tento deň si už navždy zapamätáte ako deň, keď ste vyplávali s kapitánom Jackom Sparrowom.",
+                "sv-SE": "Ta allt du kan. Ge inget tillbaka! Häng med Jack och hans besättning i Pirates of the Caribbean-mixpaketet, som har många av dina favoritrövare. Styr kosan från Tortuga till Shipwreck Cove och hela vägen ner till havets botten. Den här dagen kommer du alltid minnas som dagen du seglade med kapten Jack Sparrow.",
+                "tr-TR": "Alabildiklerinizi alın. Hiçbir şeyi geri vermeyin! Sevdiğiniz birçok hilebaz ve serseriyi içeren Karayip Korsanları Eklentisinde Jack ve tayfasına katılın. Tortuga'dan Gemi Enkazı Koyu'na ve Davy Jones'un Dolabına giden bir yol çizin. Bu günü, Kaptan Jack Sparrow ile yelken açtığınız gün olarak her zaman hatırlayacaksınız.",
+                "uk-UA": "Беріть, скільки можете нести. Нічого не повертайте! Приєднайтеся до Джека та його команди в збірному пакеті \"Пірати Карибського моря\", що ввібрав у себе ваших улюблених розбійників і шахраїв. Прямуйте з Тортуґи до бухти Загиблих кораблів і прямо до скрині Деві Джонса. Цей день ви назавжди запам’ятаєте як день, коли ви йшли під одним вітрилом із капітаном Джеком Горобцем.",
+                "zh-CN": "能拿多少拿多少，什么都不要留下！使用加勒比海盗混搭包加入杰克和他的海盗团伙，这里有您喜欢的所有流氓无赖。规划一条航线，从托尔图加航行到沉船湾，然后一直航行到海底坟场。与杰克·斯帕罗船长一起航行的这一天会让你永生难忘。",
+                "zh-TW": "全部都拿走，一件都不留！在神鬼奇航混搭中，與傑克船長和他的船員一起踏上冒險旅程！特別加入許多您最喜愛的盜賊和流氓。規劃從土圖嘉到沉船灣的航線，並一路航向海底。您永遠會記得這一天，因為這一天您與傑克船長一起揚帆出海。",
+                "neutral": "Take what you can. Give nothing back! Join Jack and his crew in the Pirates of the Caribbean Mash-up, featuring many of your favorite rogues and rascals. Plot a course from Tortuga to Shipwreck Cove and all the way down to Davy Jones’ Locker. This is the day you will always remember as the day you sailed with Captain Jack Sparrow."
+            },
+            "Keywords": {
+                "NEUTRAL": {
+                    "Values": [
+                        "Survival",
+                        "Open World",
+                        "Exploration",
+                        "Pirates",
+                        "Adventures"
+                    ]
+                },
+                "bg-BG": {
+                    "Values": [
+                        "Оцеляване",
+                        "Отворен свят",
+                        "Изследване",
+                        "Пирати",
+                        "Приключения"
+                    ]
+                },
+                "cs-CZ": {
+                    "Values": [
+                        "Hry o přežití",
+                        "Otevřený svět",
+                        "Průzkum",
+                        "Piráti",
+                        "Dobrodružství"
+                    ]
+                },
+                "da-DK": {
+                    "Values": [
+                        "Overlevelse",
+                        "Åben verden",
+                        "Udforskning",
+                        "Pirater",
+                        "Eventyr"
+                    ]
+                },
+                "de-DE": {
+                    "Values": [
+                        "Survival",
+                        "Open World",
+                        "Erkundung",
+                        "Piraten",
+                        "Abenteuer"
+                    ]
+                },
+                "el-GR": {
+                    "Values": [
+                        "Επιβίωση",
+                        "Ανοιχτός κόσμος",
+                        "Εξερεύνηση",
+                        "Πειρατές",
+                        "Περιπέτειες"
+                    ]
+                },
+                "en-GB": {
+                    "Values": [
+                        "Survival",
+                        "Open World",
+                        "Exploration",
+                        "Pirates",
+                        "Adventures"
+                    ]
+                },
+                "en-US": {
+                    "Values": [
+                        "Survival",
+                        "Open World",
+                        "Exploration",
+                        "Pirates",
+                        "Adventures"
+                    ]
+                },
+                "es-ES": {
+                    "Values": [
+                        "Supervivencia",
+                        "Mundo abierto",
+                        "Exploración",
+                        "Piratas",
+                        "Aventuras"
+                    ]
+                },
+                "es-MX": {
+                    "Values": [
+                        "Supervivencia",
+                        "Mundo abierto",
+                        "Exploración",
+                        "Piratas",
+                        "Aventuras"
+                    ]
+                },
+                "fi-FI": {
+                    "Values": [
+                        "Selviytyminen",
+                        "Avoin maailma",
+                        "Tutkimus",
+                        "Merirosvoja",
+                        "Seikkailuja"
+                    ]
+                },
+                "fr-CA": {
+                    "Values": [
+                        "Survie",
+                        "Monde ouvert",
+                        "Exploration",
+                        "Pirates",
+                        "Aventures"
+                    ]
+                },
+                "fr-FR": {
+                    "Values": [
+                        "Survie",
+                        "Monde ouvert",
+                        "Exploration",
+                        "Pirates",
+                        "Aventures"
+                    ]
+                },
+                "hu-HU": {
+                    "Values": [
+                        "Túlélés",
+                        "Nyílt világ",
+                        "Felfedezés",
+                        "Kalózok",
+                        "Kalandok"
+                    ]
+                },
+                "id-ID": {
+                    "Values": [
+                        "Bertahan Hidup",
+                        "Dunia Terbuka",
+                        "Penjelajahan",
+                        "Bajak Laut",
+                        "Petualangan"
+                    ]
+                },
+                "it-IT": {
+                    "Values": [
+                        "Sopravvivenza",
+                        "Mondo aperto",
+                        "Esplorazione",
+                        "Pirati",
+                        "Avventure"
+                    ]
+                },
+                "ja-JP": {
+                    "Values": [
+                        "サバイバル",
+                        "オープン ワールド",
+                        "探検",
+                        "海賊",
+                        "アドベンチャー"
+                    ]
+                },
+                "ko-KR": {
+                    "Values": [
+                        "서바이벌",
+                        "오픈 월드",
+                        "탐험",
+                        "해적들",
+                        "모험"
+                    ]
+                },
+                "nb-NO": {
+                    "Values": [
+                        "Overlevelse",
+                        "Åpen verden",
+                        "Utforskning",
+                        "Sjørøvere",
+                        "Eventyr"
+                    ]
+                },
+                "nl-NL": {
+                    "Values": [
+                        "Survival",
+                        "Open wereld",
+                        "Verkenning",
+                        "Piraten",
+                        "Avonturen"
+                    ]
+                },
+                "pl-PL": {
+                    "Values": [
+                        "Przetrwanie",
+                        "Otwarty świat",
+                        "Eksploracja",
+                        "Piraci",
+                        "Przygody"
+                    ]
+                },
+                "pt-BR": {
+                    "Values": [
+                        "Sobrevivência",
+                        "Mundo Aberto",
+                        "Exploração",
+                        "Piratas",
+                        "Aventuras"
+                    ]
+                },
+                "pt-PT": {
+                    "Values": [
+                        "Sobrevivência",
+                        "Mundo Aberto",
+                        "Exploração",
+                        "Piratas",
+                        "Aventuras"
+                    ]
+                },
+                "ru-RU": {
+                    "Values": [
+                        "Выживание",
+                        "Открытый мир",
+                        "Исследование",
+                        "Пираты",
+                        "Приключения"
+                    ]
+                },
+                "sk-SK": {
+                    "Values": [
+                        "Prežitie",
+                        "Otvorený svet",
+                        "Prieskum",
+                        "Piráti",
+                        "Dobrodružstvá"
+                    ]
+                },
+                "sv-SE": {
+                    "Values": [
+                        "Överlevnad",
+                        "Öppen värld",
+                        "Utforskning",
+                        "Pirater",
+                        "Äventyr"
+                    ]
+                },
+                "tr-TR": {
+                    "Values": [
+                        "Hayatta Kalma",
+                        "Açık Dünya",
+                        "Keşif",
+                        "Korsanlar",
+                        "Maceralar"
+                    ]
+                },
+                "uk-UA": {
+                    "Values": [
+                        "Виживання",
+                        "Відкритий світ",
+                        "Дослідження",
+                        "Пірати",
+                        "Пригоди"
+                    ]
+                },
+                "zh-CN": {
+                    "Values": [
+                        "生存",
+                        "开放世界",
+                        "探索",
+                        "海盗",
+                        "冒险"
+                    ]
+                },
+                "zh-TW": {
+                    "Values": [
+                        "生存",
+                        "開放世界",
+                        "勘探",
+                        "海盜",
+                        "冒險之旅"
+                    ]
+                },
+                "neutral": {
+                    "Values": [
+                        "Survival",
+                        "Open World",
+                        "Exploration",
+                        "Pirates",
+                        "Adventures"
+                    ]
+                }
+            },
+            "ContentType": "MarketplaceDurableCatalog_V1.2",
+            "CreatorEntityKey": {
+                "Id": "301F442C3B63DC20",
+                "Type": "master_player_account",
+                "TypeString": "master_player_account"
+            },
+            "CreatorEntity": {
+                "Id": "301F442C3B63DC20",
+                "Type": "master_player_account",
+                "TypeString": "master_player_account"
+            },
+            "IsStackable": false,
+            "Platforms": [
+                "android.amazonappstore",
+                "android.googleplay",
+                "b.store",
+                "ios.store",
+                "nx.store",
+                "oculus.store.gearvr",
+                "oculus.store.rift",
+                "uwp.store",
+                "uwp.store.mobile",
+                "xboxone.store",
+                "title.bedrockvanilla",
+                "nx2.store",
+                "ps5.store"
+            ],
+            "Tags": [
+                "805c7b50-8bf5-42b1-9b09-01818023f5af",
+                "9e14abd1-41cc-4a64-8dd8-b8d1fb9184dc",
+                "f4f1416e-375a-483b-a997-5e83839f323c",
+                "ea743928-989c-468f-a5ba-e566ef84115d",
+                "mashup",
+                "has_skinpack",
+                "survival_spawn_world",
+                "genre.survival",
+                "subgenre.open_world",
+                "playercount.1-4",
+                "tag.exploration",
+                "tag.pirates",
+                "tag.adventures",
+                "video_trailer",
+                "1P"
+            ],
+            "CreationDate": "2018-10-10T03:36:01.821Z",
+            "LastModifiedDate": "2026-06-11T03:49:40.925Z",
+            "StartDate": "2018-09-25T07:00:00Z",
+            "Contents": [
+                {
+                    "Id": "1aa83d09-3dfa-4aa0-bc13-22213be61c0f",
+                    "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/1aa83d09-3dfa-4aa0-bc13-22213be61c0f/primary.zip",
+                    "MaxClientVersion": "65535.65535.65535",
+                    "MinClientVersion": "1.6.0",
+                    "Tags": [],
+                    "Type": "resourcebinary"
+                },
+                {
+                    "Id": "102abc36-d5c8-4658-bf59-9a7febd64884",
+                    "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/102abc36-d5c8-4658-bf59-9a7febd64884/secondary.zip",
+                    "MaxClientVersion": "65535.65535.65535",
+                    "MinClientVersion": "1.6.0",
+                    "Tags": [],
+                    "Type": "skinbinary"
+                }
+            ],
+            "Images": [
+                {
+                    "Id": "20a4e7f9-2548-46ea-a79b-f5391b393a14",
+                    "Tag": "packicon",
+                    "Type": "Screenshot",
+                    "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/20a4e7f9-2548-46ea-a79b-f5391b393a14/PiratesoftheCaribbean_packicon_0.jpg"
+                },
+                {
+                    "Id": "0c483f36-c22c-49ce-bddb-aaf3448d274a",
+                    "Tag": "panorama",
+                    "Type": "Screenshot",
+                    "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/0c483f36-c22c-49ce-bddb-aaf3448d274a/PiratesoftheCaribbean_panorama_0.jpg"
+                },
+                {
+                    "Id": "b3ebfd5e-0b63-4164-b092-e1c44d0a4455",
+                    "Tag": "screenshot",
+                    "Type": "Screenshot",
+                    "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/b3ebfd5e-0b63-4164-b092-e1c44d0a4455/PiratesOfTheCaribbean_Screenshot_0.jpg"
+                },
+                {
+                    "Id": "611a58eb-3631-4963-a26f-e1ae3ddfb766",
+                    "Tag": "screenshot",
+                    "Type": "Screenshot",
+                    "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/611a58eb-3631-4963-a26f-e1ae3ddfb766/PiratesoftheCaribbean_Screenshot_1.jpg"
+                },
+                {
+                    "Id": "916b84b3-4158-4bbc-b9d1-390636ebb1e8",
+                    "Tag": "screenshot",
+                    "Type": "Screenshot",
+                    "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/916b84b3-4158-4bbc-b9d1-390636ebb1e8/PiratesoftheCaribbean_Screenshot_2.jpg"
+                },
+                {
+                    "Id": "4d551734-c983-41b0-b0b9-0a9dfd86c515",
+                    "Tag": "screenshot",
+                    "Type": "Screenshot",
+                    "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/4d551734-c983-41b0-b0b9-0a9dfd86c515/PiratesoftheCaribbean_Screenshot_3.jpg"
+                },
+                {
+                    "Id": "f098da0c-9adb-4bf0-aec2-87620aa27619",
+                    "Tag": "screenshot",
+                    "Type": "Screenshot",
+                    "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/f098da0c-9adb-4bf0-aec2-87620aa27619/PiratesoftheCaribbean_Screenshot_4.jpg"
+                },
+                {
+                    "Id": "230eb2fa-2b0f-4790-8478-cee8a0e5486a",
+                    "Tag": "Thumbnail",
+                    "Type": "Thumbnail",
+                    "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/230eb2fa-2b0f-4790-8478-cee8a0e5486a/PiratesoftheCaribbean_thumbnail_800x450.jpg"
+                }
+            ],
+            "ItemReferences": [
+                {
+                    "Id": "78ac0917-4f2a-4519-ad62-e9e6f6b77eac",
+                    "Amount": 1
+                },
+                {
+                    "Id": "78f88bc2-d562-4047-8311-993b0c5b3a98",
+                    "Amount": 1
+                },
+                {
+                    "Id": "60b4144c-737b-4831-8016-506d615bb02a",
+                    "Amount": 1
+                }
+            ],
+            "Price": {
+                "Prices": [
+                    {
+                        "Amounts": [
+                            {
+                                "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                "Amount": 990
+                            }
+                        ]
+                    },
+                    {
+                        "Amounts": [
+                            {
+                                "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                "Amount": 990
+                            }
+                        ]
+                    }
+                ],
+                "RealPrices": []
+            },
+            "PriceOptions": {
+                "Prices": [
+                    {
+                        "Amounts": [
+                            {
+                                "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                "Amount": 990
+                            }
+                        ]
+                    },
+                    {
+                        "Amounts": [
+                            {
+                                "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                "Amount": 990
+                            }
+                        ]
+                    }
+                ],
+                "RealPrices": []
+            },
+            "Rating": {
+                "Average": 4.7,
+                "TotalCount": 16247,
+                "Count5Star": 13707,
+                "Count4Star": 1209,
+                "Count3Star": 445,
+                "Count2Star": 158,
+                "Count1Star": 728
+            },
+            "DeepLinks": [],
+            "DisplayProperties": {
+                "creatorName": "Minecraft",
+                "offerId": "d70fb647-0a1e-4aff-8646-65c5017bd362",
+                "originalCreatorId": "2535448579972708",
+                "price": 990,
+                "purchasable": true,
+                "packIdentity": [
+                    {
+                        "type": "skinpack",
+                        "uuid": "9e14abd1-41cc-4a64-8dd8-b8d1fb9184dc",
+                        "version": "1.0.86"
+                    },
+                    {
+                        "type": "resourcepack",
+                        "uuid": "f4f1416e-375a-483b-a997-5e83839f323c",
+                        "version": "1.0.86"
+                    },
+                    {
+                        "type": "worldtemplate",
+                        "uuid": "ea743928-989c-468f-a5ba-e566ef84115d",
+                        "version": "1.0.86"
+                    }
+                ],
+                "skinPack": {
+                    "count": 45
+                },
+                "publicChangelog": {
+                    "neutral": "",
+                    "en-US": "",
+                    "bg-BG": "",
+                    "cs-CZ": "",
+                    "da-DK": "",
+                    "de-DE": "",
+                    "el-GR": "",
+                    "en-GB": "",
+                    "es-ES": "",
+                    "es-MX": "",
+                    "fi-FI": "",
+                    "fr-CA": "",
+                    "fr-FR": "",
+                    "hu-HU": "",
+                    "id-ID": "",
+                    "it-IT": "",
+                    "ja-JP": "",
+                    "ko-KR": "",
+                    "nb-NO": "",
+                    "nl-NL": "",
+                    "pl-PL": "",
+                    "pt-BR": "",
+                    "pt-PT": "",
+                    "ru-RU": "",
+                    "sk-SK": "",
+                    "sv-SE": "",
+                    "tr-TR": "",
+                    "uk-UA": "",
+                    "zh-CN": "",
+                    "zh-TW": ""
+                },
+                "videoUrl": "https://www.youtube.com/watch?v=8BhbzHlvE38"
+            },
+            "ETag": "\"4b003b3e-0000-0800-0000-6ac29e590000\""
+        }
+    }
+}
