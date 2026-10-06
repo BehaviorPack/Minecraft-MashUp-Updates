@@ -52,6 +52,19 @@
     "version": "1.0.74"
   },
   {
+    "change_file": "data/changes/Greek Mythology Mash-up-1.0.89.json",
+    "etag": "\"2c00f022-0000-0800-0000-6ac3bfc90000\"",
+    "file_count": 3698,
+    "icon_url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/b3a4a9b6-120b-4fb6-8589-ef45480f9c1c/MCPE_Greek_packicon_0.jpg",
+    "last_checked": "2026-10-06T09:26:06.398260Z",
+    "manifest_file": "data/manifests/Greek Mythology Mash-up.json",
+    "safe_name": "Greek Mythology Mash-up",
+    "thumbnail_url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/be900a4c-0556-4822-8cb5-33d1c3e6341d/GreekMythology_thumbnail_800x450.jpg",
+    "title": "Greek Mythology Mash-up",
+    "total_bytes": 85318183,
+    "version": "1.0.89"
+  },
+  {
     "change_file": "data/changes/Halloween Mash-up-1.0.76.json",
     "etag": "\"1d0750ff-0000-0800-0000-6ac4987b0000\"",
     "file_count": 3161,
@@ -193,16 +206,16 @@
     "version": "1.0.80"
   },
   {
-    "change_file": "data/changes/Greek Mythology Mash-up-1.0.89.json",
-    "etag": "\"2c00f022-0000-0800-0000-6ac3bfc90000\"",
-    "file_count": 3698,
-    "icon_url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/b3a4a9b6-120b-4fb6-8589-ef45480f9c1c/MCPE_Greek_packicon_0.jpg",
-    "last_checked": "2026-10-06T09:26:06.398260Z",
-    "manifest_file": "data/manifests/Greek Mythology Mash-up.json",
-    "safe_name": "Greek Mythology Mash-up",
-    "thumbnail_url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/be900a4c-0556-4822-8cb5-33d1c3e6341d/GreekMythology_thumbnail_800x450.jpg",
-    "title": "Greek Mythology Mash-up",
-    "total_bytes": 85318183,
-    "version": "1.0.89"
+    "change_file": "data/changes/STAR WARS-1.0.107.json",
+    "etag": "\"9a01180a-0000-0800-0000-6ac4987b0000\"",
+    "file_count": 5176,
+    "icon_url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/e8e231d1-a8e5-4372-ae52-749dd2238373/Star_Wars_packicon_0.jpg",
+    "last_checked": "2026-10-06T09:26:09.229140Z",
+    "manifest_file": "data/manifests/STAR WARS.json",
+    "safe_name": "STAR WARS",
+    "thumbnail_url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/2dedf086-4687-4158-a8b3-4662fa9277c0/Star_Wars_Thumbnail_0.jpg",
+    "title": "STAR WARS",
+    "total_bytes": 203705017,
+    "version": "1.0.107"
   }
 ]
