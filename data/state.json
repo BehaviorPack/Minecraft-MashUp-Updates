@@ -312,11 +312,11 @@
     "version": "1.0.58"
   },
   "d858a668-0db7-4440-aa9c-cf1aab5e7553": {
-    "change_file": "data/changes/Chinese Mythology Mash-up-1.0.64.json",
-    "etag": "\"af0374ff-0000-0800-0000-6ac3d30f0000\"",
+    "change_file": null,
+    "etag": "\"1004b5cb-0000-0800-0000-6ac55d190000\"",
     "file_count": 2500,
     "icon_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/480e8521-acb7-4639-abba-30b79587493c/ChineseMythologyMash-up_packicon_0.jpg",
-    "last_checked": "2026-10-06T09:25:44.418531Z",
+    "last_checked": "2026-10-06T23:54:49.243786Z",
     "manifest_file": "data/manifests/Chinese Mythology Mash-up.json",
     "safe_name": "Chinese Mythology Mash-up",
     "thumbnail_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/26605585-1590-4bec-82c4-cdb1ab4e75d7/ChineseMythologyMash-up_Thumbnail_0.jpg",
