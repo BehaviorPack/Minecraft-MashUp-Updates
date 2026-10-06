@@ -89,6 +89,19 @@
     "version": "1.0.5"
   },
   {
+    "change_file": "data/changes/Toy Story Mash-up-1.0.96.json",
+    "etag": "\"22024dd6-0000-0800-0000-6ac4b45f0000\"",
+    "file_count": 3643,
+    "icon_url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/861a22de-bbc7-4c50-98bc-7c572add6a8d/ToyStory_packicon_0.jpg",
+    "last_checked": "2026-10-06T09:26:01.797312Z",
+    "manifest_file": "data/manifests/Toy Story Mash-up.json",
+    "safe_name": "Toy Story Mash-up",
+    "thumbnail_url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/c893c612-dd42-44c5-9617-3bcd6fd5c2c8/ToyStory_Thumbnail_0.jpg",
+    "title": "Toy Story Mash-up",
+    "total_bytes": 93483133,
+    "version": "1.0.96"
+  },
+  {
     "change_file": "data/changes/Pirates of the Caribbean-1.0.86.json",
     "etag": "\"4b003b3e-0000-0800-0000-6ac29e590000\"",
     "file_count": 3204,
@@ -167,16 +180,16 @@
     "version": "1.0.80"
   },
   {
-    "change_file": "data/changes/Toy Story Mash-up-1.0.96.json",
-    "etag": "\"22024dd6-0000-0800-0000-6ac4b45f0000\"",
-    "file_count": 3643,
-    "icon_url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/861a22de-bbc7-4c50-98bc-7c572add6a8d/ToyStory_packicon_0.jpg",
-    "last_checked": "2026-10-06T09:26:01.797312Z",
-    "manifest_file": "data/manifests/Toy Story Mash-up.json",
-    "safe_name": "Toy Story Mash-up",
-    "thumbnail_url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/c893c612-dd42-44c5-9617-3bcd6fd5c2c8/ToyStory_Thumbnail_0.jpg",
-    "title": "Toy Story Mash-up",
-    "total_bytes": 93483133,
-    "version": "1.0.96"
+    "change_file": "data/changes/Master Chief Mash-up-1.0.79.json",
+    "etag": "\"3a029d52-0000-0800-0000-6ac40bfa0000\"",
+    "file_count": 3104,
+    "icon_url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/0e9a47c7-eaeb-4589-8df2-da828e630647/MCHalo_packicon_0.jpg",
+    "last_checked": "2026-10-06T09:26:03.848753Z",
+    "manifest_file": "data/manifests/Master Chief Mash-up.json",
+    "safe_name": "Master Chief Mash-up",
+    "thumbnail_url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/41492644-4d77-4455-82e1-94255eb6c53d/MCHalo_Thumbnail_0.jpg",
+    "title": "Master Chief Mash-up",
+    "total_bytes": 83657007,
+    "version": "1.0.79"
   }
 ]

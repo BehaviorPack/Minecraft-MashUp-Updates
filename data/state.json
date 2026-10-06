@@ -140,6 +140,19 @@
     "total_bytes": 86824397,
     "version": "1.0.63"
   },
+  "a9725e69-66b2-4002-805a-c26867fe467b": {
+    "change_file": "data/changes/Master Chief Mash-up-1.0.79.json",
+    "etag": "\"3a029d52-0000-0800-0000-6ac40bfa0000\"",
+    "file_count": 3104,
+    "icon_url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/0e9a47c7-eaeb-4589-8df2-da828e630647/MCHalo_packicon_0.jpg",
+    "last_checked": "2026-10-06T09:26:03.848753Z",
+    "manifest_file": "data/manifests/Master Chief Mash-up.json",
+    "safe_name": "Master Chief Mash-up",
+    "thumbnail_url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/41492644-4d77-4455-82e1-94255eb6c53d/MCHalo_Thumbnail_0.jpg",
+    "title": "Master Chief Mash-up",
+    "total_bytes": 83657007,
+    "version": "1.0.79"
+  },
   "d858a668-0db7-4440-aa9c-cf1aab5e7553": {
     "change_file": "data/changes/Chinese Mythology Mash-up-1.0.64.json",
     "etag": "\"af0374ff-0000-0800-0000-6ac3d30f0000\"",
