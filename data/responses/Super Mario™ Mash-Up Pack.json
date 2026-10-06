@@ -1,0 +1,592 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "Item": {
+            "SourceEntity": {
+                "Id": "B63A0803D3653643",
+                "Type": "namespace",
+                "TypeString": "namespace"
+            },
+            "SourceEntityKey": {
+                "Id": "B63A0803D3653643",
+                "Type": "namespace",
+                "TypeString": "namespace"
+            },
+            "Id": "523e1367-4547-409d-9f71-d11bdf93c382",
+            "Type": "bundle",
+            "AlternateIds": [
+                {
+                    "Type": "FriendlyId",
+                    "Value": "f354899a-e726-44ed-a545-651bd7f679b6"
+                }
+            ],
+            "FriendlyId": "f354899a-e726-44ed-a545-651bd7f679b6",
+            "Title": {
+                "NEUTRAL": "Super Mario™ Mash-Up Pack",
+                "en-US": "Super Mario™ Mash-Up Pack",
+                "neutral": "Super Mario™ Mash-Up Pack"
+            },
+            "Description": {
+                "NEUTRAL": "Super Mario meets Minecraft! This Mash-Up Pack contains a Super Mario-style Texture Pack, Skin Pack and a Super Mario-themed world to explore!",
+                "en-US": "Super Mario meets Minecraft! This Mash-Up Pack contains a Super Mario-style Texture Pack, Skin Pack and a Super Mario-themed world to explore!",
+                "neutral": "Super Mario meets Minecraft! This Mash-Up Pack contains a Super Mario-style Texture Pack, Skin Pack and a Super Mario-themed world to explore!"
+            },
+            "Keywords": {
+                "NEUTRAL": {
+                    "Values": [
+                        "Classic",
+                        "Retro",
+                        "Movie",
+                        "Survival",
+                        "Platformer",
+                        "Vibrant Visuals"
+                    ]
+                },
+                "bg-BG": {
+                    "Values": [
+                        "Класически",
+                        "Ретро",
+                        "Филм",
+                        "Оцеляване",
+                        "Платформена игра",
+                        "Ярки ефекти"
+                    ]
+                },
+                "cs-CZ": {
+                    "Values": [
+                        "Klasické",
+                        "Retro",
+                        "Film",
+                        "Hry o přežití",
+                        "Plošinovky",
+                        "Zářivý vzhled"
+                    ]
+                },
+                "da-DK": {
+                    "Values": [
+                        "Klassisk",
+                        "Retro",
+                        "Film",
+                        "Overlevelse",
+                        "Platformer",
+                        "Vibrant Visuals"
+                    ]
+                },
+                "de-DE": {
+                    "Values": [
+                        "Klassisch",
+                        "Retro",
+                        "Film",
+                        "Survival",
+                        "Jump 'n' Run",
+                        "Lebendige Grafik"
+                    ]
+                },
+                "el-GR": {
+                    "Values": [
+                        "Κλασικό",
+                        "Ρετρό",
+                        "Ταινία",
+                        "Επιβίωση",
+                        "Πλατφόρμα",
+                        "Ζωντανά Γραφικά"
+                    ]
+                },
+                "en-GB": {
+                    "Values": [
+                        "Classic",
+                        "Retro",
+                        "Film",
+                        "Survival",
+                        "Platformer",
+                        "Vibrant Visuals"
+                    ]
+                },
+                "en-US": {
+                    "Values": [
+                        "Classic",
+                        "Retro",
+                        "Movie",
+                        "Survival",
+                        "Platformer",
+                        "Vibrant Visuals"
+                    ]
+                },
+                "es-ES": {
+                    "Values": [
+                        "Clásico",
+                        "Retro",
+                        "Película",
+                        "Supervivencia",
+                        "Plataformas",
+                        "Visuales vibrantes"
+                    ]
+                },
+                "es-MX": {
+                    "Values": [
+                        "Clásico",
+                        "Retro",
+                        "Película",
+                        "Supervivencia",
+                        "Plataformas",
+                        "Visuales vibrantes"
+                    ]
+                },
+                "fi-FI": {
+                    "Values": [
+                        "Klassinen",
+                        "Retro",
+                        "Elokuva",
+                        "Selviytyminen",
+                        "Tasohyppely",
+                        "Eloisa ilme"
+                    ]
+                },
+                "fr-CA": {
+                    "Values": [
+                        "Classique",
+                        "Rétro",
+                        "Film",
+                        "Survie",
+                        "Plateforme",
+                        "Graphismes éclatants"
+                    ]
+                },
+                "fr-FR": {
+                    "Values": [
+                        "Classique",
+                        "Rétro",
+                        "Film",
+                        "Survie",
+                        "Plateformes",
+                        "Graphismes éclatants"
+                    ]
+                },
+                "hu-HU": {
+                    "Values": [
+                        "Klasszikus",
+                        "Retró",
+                        "Film",
+                        "Túlélés",
+                        "Platformer",
+                        "Lenyűgöző látvány"
+                    ]
+                },
+                "id-ID": {
+                    "Values": [
+                        "Klasik",
+                        "Retro",
+                        "Film",
+                        "Bertahan Hidup",
+                        "Platformer",
+                        "Visual Cerah"
+                    ]
+                },
+                "it-IT": {
+                    "Values": [
+                        "Classico",
+                        "Retrò",
+                        "Film",
+                        "Sopravvivenza",
+                        "Platform",
+                        "Grafica vivace"
+                    ]
+                },
+                "ja-JP": {
+                    "Values": [
+                        "クラシック",
+                        "レトロ",
+                        "映画",
+                        "サバイバル",
+                        "プラットフォーマー",
+                        "バイブラントビジュアルズ"
+                    ]
+                },
+                "ko-KR": {
+                    "Values": [
+                        "클래식",
+                        "복고풍",
+                        "영화",
+                        "서바이벌",
+                        "플랫포머",
+                        "선명한 비주얼"
+                    ]
+                },
+                "nb-NO": {
+                    "Values": [
+                        "Klassisk",
+                        "Retro",
+                        "Film",
+                        "Overlevelse",
+                        "Plattformspill",
+                        "Livlig grafikk"
+                    ]
+                },
+                "nl-NL": {
+                    "Values": [
+                        "Klassiek",
+                        "Retro",
+                        "Film",
+                        "Survival",
+                        "Platformspel",
+                        "Levendige beelden"
+                    ]
+                },
+                "pl-PL": {
+                    "Values": [
+                        "Klasyczny",
+                        "Retro",
+                        "Film",
+                        "Przetrwanie",
+                        "Platformówka",
+                        "Odświeżona szata graficzna"
+                    ]
+                },
+                "pt-BR": {
+                    "Values": [
+                        "Clássico",
+                        "Retrô",
+                        "Filme",
+                        "Sobrevivência",
+                        "Plataforma",
+                        "Visuais Vibrantes"
+                    ]
+                },
+                "pt-PT": {
+                    "Values": [
+                        "Clássico",
+                        "Retro",
+                        "Filme",
+                        "Sobrevivência",
+                        "De Plataforma",
+                        "Visuais Vibrantes"
+                    ]
+                },
+                "ru-RU": {
+                    "Values": [
+                        "Классика",
+                        "Ретро",
+                        "Фильм",
+                        "Выживание",
+                        "Платформер",
+                        "Яркие визуальные эффекты"
+                    ]
+                },
+                "sk-SK": {
+                    "Values": [
+                        "Klasické",
+                        "Retro",
+                        "Film",
+                        "Prežitie",
+                        "Plošinovka",
+                        "Živé vizuály"
+                    ]
+                },
+                "sv-SE": {
+                    "Values": [
+                        "Klassisk",
+                        "Retro",
+                        "Film",
+                        "Överlevnad",
+                        "Plattformsspel",
+                        "Färgglad grafik"
+                    ]
+                },
+                "tr-TR": {
+                    "Values": [
+                        "Klasik",
+                        "Retro",
+                        "Film",
+                        "Hayatta Kalma",
+                        "Platform",
+                        "Canlı Görseller"
+                    ]
+                },
+                "uk-UA": {
+                    "Values": [
+                        "Класичний",
+                        "Ретро",
+                        "Кіно",
+                        "Виживання",
+                        "Платформер",
+                        "Яскраві візуальні ефекти"
+                    ]
+                },
+                "zh-CN": {
+                    "Values": [
+                        "经典",
+                        "复古",
+                        "电影",
+                        "生存",
+                        "平台游戏",
+                        "灵动视效"
+                    ]
+                },
+                "zh-TW": {
+                    "Values": [
+                        "經典",
+                        "復古",
+                        "電影",
+                        "生存",
+                        "平台",
+                        "絢麗視覺"
+                    ]
+                },
+                "neutral": {
+                    "Values": [
+                        "Classic",
+                        "Retro",
+                        "Movie",
+                        "Survival",
+                        "Platformer",
+                        "Vibrant Visuals"
+                    ]
+                }
+            },
+            "ContentType": "MarketplaceDurableCatalog_V1.2",
+            "CreatorEntityKey": {
+                "Id": "301F442C3B63DC20",
+                "Type": "master_player_account",
+                "TypeString": "master_player_account"
+            },
+            "CreatorEntity": {
+                "Id": "301F442C3B63DC20",
+                "Type": "master_player_account",
+                "TypeString": "master_player_account"
+            },
+            "IsHidden": false,
+            "Platforms": [
+                "nx2.store",
+                "title.bedrockvanilla"
+            ],
+            "Tags": [
+                "523e1367-4547-409d-9f71-d11bdf93c382",
+                "47ca6989-81db-404b-a9f1-f3391258b8a2",
+                "7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
+                "c5e0d6e9-29b7-3b04-9408-032cc8a386c6",
+                "tag.classic",
+                "tag.retro",
+                "tag.movie",
+                "1P",
+                "mashup",
+                "has_skinpack",
+                "survival_spawn_world",
+                "genre.survival",
+                "subgenre.platformer",
+                "playercount.1-10",
+                "tag.vibrantvisuals",
+                "vvenhanced"
+            ],
+            "CreationDate": "2026-09-22T22:16:57.238Z",
+            "LastModifiedDate": "2026-10-05T17:17:27.464Z",
+            "StartDate": "2026-09-25T17:42:00Z",
+            "Contents": [
+                {
+                    "Id": "08b87ff5-58cc-45a9-a0ea-da6c30a964a9",
+                    "Url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/08b87ff5-58cc-45a9-a0ea-da6c30a964a9/primary.zip",
+                    "MaxClientVersion": "65535.65535.65535",
+                    "MinClientVersion": "1.26.60",
+                    "Tags": [],
+                    "Type": "resourcebinary"
+                },
+                {
+                    "Id": "aba93ecb-29a3-4299-b3fe-f6760591277e",
+                    "Url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/aba93ecb-29a3-4299-b3fe-f6760591277e/secondary.zip",
+                    "MaxClientVersion": "65535.65535.65535",
+                    "MinClientVersion": "1.26.60",
+                    "Tags": [],
+                    "Type": "skinbinary"
+                }
+            ],
+            "Images": [
+                {
+                    "Id": "3422c08e-9358-4aad-a847-2742aeab5ee3",
+                    "Tag": "panorama",
+                    "Type": "Screenshot",
+                    "Url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/3422c08e-9358-4aad-a847-2742aeab5ee3/MCPE_MarioVV_panorama_0.jpg"
+                },
+                {
+                    "Id": "84a5e266-d2c9-4644-a916-5ac4ffb3ed2f",
+                    "Tag": "packicon",
+                    "Type": "Screenshot",
+                    "Url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/84a5e266-d2c9-4644-a916-5ac4ffb3ed2f/MC_MarioVV_packicon_0.jpg"
+                },
+                {
+                    "Id": "28434e90-f4e3-411d-a480-3040feaf81c9",
+                    "Tag": "screenshot",
+                    "Type": "Screenshot",
+                    "Url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/28434e90-f4e3-411d-a480-3040feaf81c9/MC_MarioVV_Screenshot_0.jpg"
+                },
+                {
+                    "Id": "d31a8426-f35b-475f-9bda-590f452894cb",
+                    "Tag": "screenshot",
+                    "Type": "Screenshot",
+                    "Url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/d31a8426-f35b-475f-9bda-590f452894cb/MC_MarioVV_Screenshot_1.jpg"
+                },
+                {
+                    "Id": "6998a39e-c5dc-4bf5-84df-2cd1603b7790",
+                    "Tag": "screenshot",
+                    "Type": "Screenshot",
+                    "Url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/6998a39e-c5dc-4bf5-84df-2cd1603b7790/MC_MarioVV_Screenshot_2.jpg"
+                },
+                {
+                    "Id": "6c1e9db6-54a7-4815-911f-ef1e9257fe30",
+                    "Tag": "Thumbnail",
+                    "Type": "Thumbnail",
+                    "Url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/6c1e9db6-54a7-4815-911f-ef1e9257fe30/MC_MarioVV_Thumbnail_0.jpg"
+                },
+                {
+                    "Id": "83a30174-2901-4a22-87aa-57639dc12768",
+                    "Tag": "screenshot",
+                    "Type": "Screenshot",
+                    "Url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/83a30174-2901-4a22-87aa-57639dc12768/MC_MarioVV_Screenshot_3.jpg"
+                },
+                {
+                    "Id": "cb0a4f4c-784f-4b43-9deb-8bbcd6bea23f",
+                    "Tag": "screenshot",
+                    "Type": "Screenshot",
+                    "Url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/cb0a4f4c-784f-4b43-9deb-8bbcd6bea23f/MC_MarioVV_Screenshot_4.jpg"
+                }
+            ],
+            "ItemReferences": [
+                {
+                    "Id": "9fedfa9c-76b2-482b-8f83-f485a64e18d9",
+                    "Amount": 1
+                },
+                {
+                    "Id": "cc25dec9-e2e8-434e-81f6-fb38f79c3dca",
+                    "Amount": 1
+                },
+                {
+                    "Id": "740ea428-e5de-417a-a11d-53bc4517e981",
+                    "Amount": 1
+                }
+            ],
+            "Price": {
+                "Prices": [
+                    {
+                        "Amounts": [
+                            {
+                                "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                "Amount": 0
+                            }
+                        ]
+                    },
+                    {
+                        "Amounts": [
+                            {
+                                "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                "Amount": 0
+                            }
+                        ]
+                    }
+                ],
+                "RealPrices": []
+            },
+            "PriceOptions": {
+                "Prices": [
+                    {
+                        "Amounts": [
+                            {
+                                "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                "Amount": 0
+                            }
+                        ]
+                    },
+                    {
+                        "Amounts": [
+                            {
+                                "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                "Amount": 0
+                            }
+                        ]
+                    }
+                ],
+                "RealPrices": []
+            },
+            "Rating": {
+                "Average": 5.0,
+                "TotalCount": 1,
+                "Count5Star": 1,
+                "Count4Star": 0,
+                "Count3Star": 0,
+                "Count2Star": 0,
+                "Count1Star": 0
+            },
+            "DeepLinks": [],
+            "DisplayProperties": {
+                "creatorName": "Minecraft",
+                "offerId": "f354899a-e726-44ed-a545-651bd7f679b6",
+                "originalCreatorId": "2535448579972708",
+                "price": 0,
+                "purchasable": true,
+                "packIdentity": [
+                    {
+                        "type": "skinpack",
+                        "uuid": "47ca6989-81db-404b-a9f1-f3391258b8a2",
+                        "version": "1.0.5"
+                    },
+                    {
+                        "type": "resourcepack",
+                        "uuid": "7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
+                        "version": "1.0.5"
+                    },
+                    {
+                        "type": "worldtemplate",
+                        "uuid": "c5e0d6e9-29b7-3b04-9408-032cc8a386c6",
+                        "version": "1.0.5"
+                    }
+                ],
+                "skinPack": {
+                    "count": 40
+                },
+                "publicChangelog": {
+                    "neutral": "",
+                    "en-US": "",
+                    "bg-BG": "",
+                    "cs-CZ": "",
+                    "da-DK": "",
+                    "de-DE": "",
+                    "el-GR": "",
+                    "en-GB": "",
+                    "es-ES": "",
+                    "es-MX": "",
+                    "fi-FI": "",
+                    "fr-CA": "",
+                    "fr-FR": "",
+                    "hu-HU": "",
+                    "id-ID": "",
+                    "it-IT": "",
+                    "ja-JP": "",
+                    "ko-KR": "",
+                    "nb-NO": "",
+                    "nl-NL": "",
+                    "pl-PL": "",
+                    "pt-BR": "",
+                    "pt-PT": "",
+                    "ru-RU": "",
+                    "sk-SK": "",
+                    "sv-SE": "",
+                    "tr-TR": "",
+                    "uk-UA": "",
+                    "zh-CN": "",
+                    "zh-TW": ""
+                },
+                "maxClientVersion": "65535.65535.65535",
+                "minClientVersion": "1.21.120",
+                "hardwareMemoryTier": 0,
+                "totalContentFileSize": 90306584
+            },
+            "ETag": "\"f708740a-0000-0800-0000-6ac3dba90000\""
+        }
+    }
+}
