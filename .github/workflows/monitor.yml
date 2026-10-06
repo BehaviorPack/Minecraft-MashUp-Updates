@@ -1,0 +1,62 @@
+name: Monitor Minecraft Marketplace Packs
+
+on:
+  schedule:
+    # Every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:        # manual trigger
+  push:
+    branches: [main]
+    paths-ignore:
+      - "README.md"
+      - "data/**"
+
+permissions:
+  contents: write           # needed to push commits
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Run monitor
+        env:
+          TITLE_ID:            ${{ secrets.TITLE_ID }}
+          TITLE_SHARED_SECRET: ${{ secrets.TITLE_SHARED_SECRET }}
+          PLAYER_SECRET:       ${{ secrets.PLAYER_SECRET }}
+          CUSTOM_ID:           ${{ secrets.CUSTOM_ID }}
+          WEBHOOK_URL:         ${{ secrets.WEBHOOK_URL }}
+        working-directory: src
+        run: python mashup_monitor.py
+
+      - name: Update README
+        working-directory: src
+        run: python update_readme.py
+
+      - name: Commit & push changes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md data/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore(monitor): update pack data [skip ci]"
+            git push
+          fi
