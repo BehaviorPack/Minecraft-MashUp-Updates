@@ -1,5 +1,18 @@
 [
   {
+    "change_file": "data/changes/Ice Age-1.0.50.json",
+    "etag": "\"5c0042dc-0000-0800-0000-6ac4276e0000\"",
+    "file_count": 2977,
+    "icon_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a1f6c62b-fb6f-4261-ac34-98039bbc5bc7/IceAge_packicon_0.jpg",
+    "last_checked": "2026-10-06T09:26:15.012123Z",
+    "manifest_file": "data/manifests/Ice Age.json",
+    "safe_name": "Ice Age",
+    "thumbnail_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/aef50838-9d13-4244-82d1-b06db86e8ff7/IceAge_Thumbnail_0.jpg",
+    "title": "Ice Age",
+    "total_bytes": 228528218,
+    "version": "1.0.50"
+  },
+  {
     "change_file": "data/changes/Egyptian Mythology Mash-up-1.0.65.json",
     "etag": "\"13024bdb-0000-0800-0000-6ac1846e0000\"",
     "file_count": 2589,
@@ -232,16 +245,16 @@
     "version": "1.0.80"
   },
   {
-    "change_file": "data/changes/Ice Age-1.0.50.json",
-    "etag": "\"5c0042dc-0000-0800-0000-6ac4276e0000\"",
-    "file_count": 2977,
-    "icon_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a1f6c62b-fb6f-4261-ac34-98039bbc5bc7/IceAge_packicon_0.jpg",
-    "last_checked": "2026-10-06T09:26:15.012123Z",
-    "manifest_file": "data/manifests/Ice Age.json",
-    "safe_name": "Ice Age",
-    "thumbnail_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/aef50838-9d13-4244-82d1-b06db86e8ff7/IceAge_Thumbnail_0.jpg",
-    "title": "Ice Age",
-    "total_bytes": 228528218,
-    "version": "1.0.50"
+    "change_file": "data/changes/Plastic Texture Pack-1.0.89.json",
+    "etag": "\"b803c01b-0000-0800-0000-6ac3bf4d0000\"",
+    "file_count": 3754,
+    "icon_url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/3ebf0033-8fd9-412a-8407-aa547f5d3f4d/PlasticTexturePack_packicon_0.jpg",
+    "last_checked": "2026-10-06T09:26:17.032914Z",
+    "manifest_file": "data/manifests/Plastic Texture Pack.json",
+    "safe_name": "Plastic Texture Pack",
+    "thumbnail_url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/21c77a7d-fe3c-4020-9d8d-9d887487b6bb/PlasticTexturePack_Thumbnail_0.jpg",
+    "title": "Plastic Texture Pack",
+    "total_bytes": 85528357,
+    "version": "1.0.89"
   }
 ]

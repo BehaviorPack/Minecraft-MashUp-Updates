@@ -205,6 +205,19 @@
     "total_bytes": 83657007,
     "version": "1.0.79"
   },
+  "aedadd28-b7bb-46b4-a367-f31e203a7c77": {
+    "change_file": "data/changes/Plastic Texture Pack-1.0.89.json",
+    "etag": "\"b803c01b-0000-0800-0000-6ac3bf4d0000\"",
+    "file_count": 3754,
+    "icon_url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/3ebf0033-8fd9-412a-8407-aa547f5d3f4d/PlasticTexturePack_packicon_0.jpg",
+    "last_checked": "2026-10-06T09:26:17.032914Z",
+    "manifest_file": "data/manifests/Plastic Texture Pack.json",
+    "safe_name": "Plastic Texture Pack",
+    "thumbnail_url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/21c77a7d-fe3c-4020-9d8d-9d887487b6bb/PlasticTexturePack_Thumbnail_0.jpg",
+    "title": "Plastic Texture Pack",
+    "total_bytes": 85528357,
+    "version": "1.0.89"
+  },
   "d858a668-0db7-4440-aa9c-cf1aab5e7553": {
     "change_file": "data/changes/Chinese Mythology Mash-up-1.0.64.json",
     "etag": "\"af0374ff-0000-0800-0000-6ac3d30f0000\"",
