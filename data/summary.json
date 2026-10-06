@@ -52,6 +52,19 @@
     "version": "1.0.91"
   },
   {
+    "change_file": "data/changes/Cartoon Texture Pack-1.0.49.json",
+    "etag": "\"7601b435-0000-0800-0000-6abd90b50000\"",
+    "file_count": 2490,
+    "icon_url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/7c6aa27e-736b-4a0d-842a-a30346ed77af/CartoonTexturePack_packicon_0.jpg",
+    "last_checked": "2026-10-06T09:26:31.642656Z",
+    "manifest_file": "data/manifests/Cartoon Texture Pack.json",
+    "safe_name": "Cartoon Texture Pack",
+    "thumbnail_url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/93ebf0ca-9149-41c2-973d-59cb77e31c8b/CartoonTexturePack_Thumbnail_0.jpg",
+    "title": "Cartoon Texture Pack",
+    "total_bytes": 15267715,
+    "version": "1.0.49"
+  },
+  {
     "change_file": "data/changes/Steven Universe Mash-up-1.0.80.json",
     "etag": "\"2200dfa6-0000-0800-0000-6ac211a60000\"",
     "file_count": 3169,
@@ -336,16 +349,16 @@
     "version": "1.0.80"
   },
   {
-    "change_file": "data/changes/Cartoon Texture Pack-1.0.49.json",
-    "etag": "\"7601b435-0000-0800-0000-6abd90b50000\"",
-    "file_count": 2490,
-    "icon_url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/7c6aa27e-736b-4a0d-842a-a30346ed77af/CartoonTexturePack_packicon_0.jpg",
-    "last_checked": "2026-10-06T09:26:31.642656Z",
-    "manifest_file": "data/manifests/Cartoon Texture Pack.json",
-    "safe_name": "Cartoon Texture Pack",
-    "thumbnail_url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/93ebf0ca-9149-41c2-973d-59cb77e31c8b/CartoonTexturePack_Thumbnail_0.jpg",
-    "title": "Cartoon Texture Pack",
-    "total_bytes": 15267715,
-    "version": "1.0.49"
+    "change_file": "data/changes/Candy Texture Pack-1.1.58.json",
+    "etag": "\"40026ed1-0000-0800-0000-6ac1a0fc0000\"",
+    "file_count": 3005,
+    "icon_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/666995e5-09c7-4bf8-9130-c18a465d0b36/CandyTexturePack_packicon_0.jpg",
+    "last_checked": "2026-10-06T09:26:33.464789Z",
+    "manifest_file": "data/manifests/Candy Texture Pack.json",
+    "safe_name": "Candy Texture Pack",
+    "thumbnail_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/bc3757fa-eebb-4377-aebd-7d380774ebd7/CandyTexturePack_Thumbnail_0.jpg",
+    "title": "Candy Texture Pack",
+    "total_bytes": 40009221,
+    "version": "1.1.58"
   }
 ]
