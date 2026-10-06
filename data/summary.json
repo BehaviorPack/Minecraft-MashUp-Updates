@@ -143,11 +143,11 @@
     "version": "1.0.75"
   },
   {
-    "change_file": "data/changes/Halloween Mash-up-1.0.76.json",
-    "etag": "\"1d0750ff-0000-0800-0000-6ac4987b0000\"",
+    "change_file": null,
+    "etag": "\"8107c11a-0000-0800-0000-6ac579830000\"",
     "file_count": 3161,
     "icon_url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/ab857116-12c1-49de-b519-22e33cab106d/Halloween_packicon_0.jpg",
-    "last_checked": "2026-10-06T09:25:52.457214Z",
+    "last_checked": "2026-10-06T23:54:52.930578Z",
     "manifest_file": "data/manifests/Halloween Mash-up.json",
     "safe_name": "Halloween Mash-up",
     "thumbnail_url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/d3ce4a51-7f02-450d-ad90-098c190b84a2/Halloween_Thumbnail_0.jpg",
