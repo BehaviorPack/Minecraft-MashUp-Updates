@@ -1,5 +1,16 @@
 [
   {
+    "change_file": "data/changes/Egyptian Mythology Mash-up-1.0.65.json",
+    "etag": "\"13024bdb-0000-0800-0000-6ac1846e0000\"",
+    "icon_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/aa82349c-7eb3-4032-8c4a-5dbf5cfeacd2/EgyptianMythology_packicon_0.jpg",
+    "last_checked": "2026-10-06T08:55:49.651954Z",
+    "pack_dir": "data/packs/Egyptian Mythology Mash-up",
+    "safe_name": "Egyptian Mythology Mash-up",
+    "thumbnail_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/e4ded0f8-2be3-441f-be60-455aed28702b/EgyptianMythology_thumbnail_800x450.jpg",
+    "title": "Egyptian Mythology Mash-up",
+    "version": "1.0.65"
+  },
+  {
     "change_file": "data/changes/Super Mario\u2122 Mash-Up Pack-1.0.5.json",
     "etag": "\"f708740a-0000-0800-0000-6ac3dba90000\"",
     "icon_url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/84a5e266-d2c9-4644-a916-5ac4ffb3ed2f/MC_MarioVV_packicon_0.jpg",
@@ -22,14 +33,14 @@
     "version": "1.0.53"
   },
   {
-    "change_file": "data/changes/Egyptian Mythology Mash-up-1.0.65.json",
-    "etag": "\"13024bdb-0000-0800-0000-6ac1846e0000\"",
-    "icon_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/aa82349c-7eb3-4032-8c4a-5dbf5cfeacd2/EgyptianMythology_packicon_0.jpg",
-    "last_checked": "2026-10-06T08:55:49.651954Z",
-    "pack_dir": "data/packs/Egyptian Mythology Mash-up",
-    "safe_name": "Egyptian Mythology Mash-up",
-    "thumbnail_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/e4ded0f8-2be3-441f-be60-455aed28702b/EgyptianMythology_thumbnail_800x450.jpg",
-    "title": "Egyptian Mythology Mash-up",
-    "version": "1.0.65"
+    "change_file": "data/changes/Dragonborn Mash-up-1.0.60.json",
+    "etag": "\"b903c89a-0000-0800-0000-6ac3d30e0000\"",
+    "icon_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/da2729a6-3bd5-4033-8bb4-acbc09008f05/skyrim_packicon.jpg",
+    "last_checked": "2026-10-06T08:57:29.720970Z",
+    "pack_dir": "data/packs/Dragonborn Mash-up",
+    "safe_name": "Dragonborn Mash-up",
+    "thumbnail_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a0c4e312-8bd3-4c09-b9ee-bf5f2a8fab24/skyrim_thumbnail_800x450.jpg",
+    "title": "Dragonborn Mash-up",
+    "version": "1.0.60"
   }
 ]

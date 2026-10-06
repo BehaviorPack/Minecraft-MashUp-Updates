@@ -1,0 +1,625 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "Item": {
+            "SourceEntity": {
+                "Id": "B63A0803D3653643",
+                "Type": "namespace",
+                "TypeString": "namespace"
+            },
+            "SourceEntityKey": {
+                "Id": "B63A0803D3653643",
+                "Type": "namespace",
+                "TypeString": "namespace"
+            },
+            "Id": "1a4a7be1-b4c4-4f19-8924-99eff553b029",
+            "Type": "bundle",
+            "AlternateIds": [
+                {
+                    "Type": "FriendlyId",
+                    "Value": "c3ca3c17-6f2a-4ff6-97f2-d9e0ba0960d0"
+                }
+            ],
+            "FriendlyId": "c3ca3c17-6f2a-4ff6-97f2-d9e0ba0960d0",
+            "Title": {
+                "NEUTRAL": "Dragonborn Mash-up",
+                "bg-BG": "Пакет с гости Dragonborn",
+                "cs-CZ": "Mash-up Drakorozený",
+                "da-DK": "Dragonborn – mashup",
+                "de-DE": "Dragonborn Mash-up",
+                "el-GR": "Συνδυαστικό πακέτο Dragonborn",
+                "en-GB": "Dragonborn Mash-up",
+                "en-US": "Dragonborn Mash-up",
+                "es-ES": "Popurrí de Dragonborn",
+                "es-MX": "Popurrí Dragonborn",
+                "fi-FI": "Dragonborn-yhdistelmä",
+                "fr-CA": "Mash-up Enfant de Dragon",
+                "fr-FR": "Mash-up Enfant de Dragon",
+                "hu-HU": "Sárkányszülött mix",
+                "id-ID": "Perpaduan Dragonborn",
+                "it-IT": "Mash-up Dragonborn",
+                "ja-JP": "ドラゴンボーン マッシュアップ",
+                "ko-KR": "드래곤본 매시업",
+                "nb-NO": "Dragonborn – mash-up",
+                "nl-NL": "Mashup Dragonborn",
+                "pl-PL": "Dragonborn – miks",
+                "pt-BR": "Mash-up Dragonborn",
+                "pt-PT": "Mash-Up Dragonborn",
+                "ru-RU": "Микс «Драконорожденный»",
+                "sk-SK": "Mash-up Dragonborn",
+                "sv-SE": "Dragonborn-mix",
+                "tr-TR": "Dragonborn Karışımı",
+                "uk-UA": "Збірний пакет \"Дракононароджений\"",
+                "zh-CN": "龙裔混搭包",
+                "zh-TW": "《龍裔》混搭套件",
+                "neutral": "Dragonborn Mash-up"
+            },
+            "Description": {
+                "NEUTRAL": "The Dragonborn meets Minecraft in a clash of epic proportions. Build your own worlds in the land of Tamriel and experience adventure with many of its most iconic characters. Fus Ro Dah!",
+                "bg-BG": "Dragonborn среща Minecraft в сблъсък с епични размери. Изградете свои собствени светове в земята на Tamriel и изживейте приключения с много от най-емблематичните ѝ герои. Fus Ro Dah!",
+                "cs-CZ": "Když se Drakorozený ocitne v Minecraftu, bude to bitka epických rozměrů. Vytvářejte si své vlastní světy v zemi Tamriel a zažijte dobrodružství s mnoha jejími ikonickými postavami. Fus Ro Dah!",
+                "da-DK": "Dragonborn møder Minecraft i et sammenstød af episke dimensioner. Byg dine egne verdener i Tamriel, og tag på eventyr med landets mest ikoniske figurer. Fus Ro Dah!",
+                "de-DE": "Das Drachenblut und Minecraft treffen in spektakulärer Weise aufeinander. Baue deine eigenen Welten im Land Tamriel, und ziehe mit vielen der beliebtesten Figuren in ein Abenteuer. Fus Ro Dah!",
+                "el-GR": "Ο Dragonborn συναντά το Minecraft σε μια σύγκρουση επικών διαστάσεων. Χτίσε τους δικούς σου κόσμους στη γη της Tamriel και ζήσε την περιπέτεια με πολλούς από τους πιο εμβληματικούς χαρακτήρες. Fus Ro Dah!",
+                "en-GB": "The Dragonborn meets Minecraft in a clash of epic proportions. Build your own worlds in the land of Tamriel and experience adventure with many of its most iconic characters. Fus Ro Dah!",
+                "en-US": "The Dragonborn meets Minecraft in a clash of epic proportions. Build your own worlds in the land of Tamriel and experience adventure with many of its most iconic characters. Fus Ro Dah!",
+                "es-ES": "Dragonborn se encuentra con Minecraft en un enfrentamiento de proporciones épicas. Construye tus propios mundos en la tierra de Tamriel y disfruta de aventuras con muchos de sus personajes más emblemáticos. ¡Fus Ro Dah!",
+                "es-MX": "El Dragonborn se une a Minecraft en un encuentro de proporciones épicas. Construye tus propios mundos en la tierra de Tamriel y vive una gran aventura con muchos de los personajes más emblemáticos del juego. ¡Fus Ro Dah!",
+                "fi-FI": "Dragonbornit ja Minecraft kohtaavat eeppisessä kaksinkamppailussa. Rakenna omia maailmojasi Tamrielin maassa ja seikkaile yhdessä tunnetuimpien hahmojen kanssa. Fus Ro Dah!",
+                "fr-CA": "L'Enfant de Dragon débarque dans Minecraft dans un affrontement aux proportions épiques. Construisez vos propres mondes dans Tamriel et vivez l’aventure avec plusieurs de ses personnages les plus emblématiques. Fus Ro Dah!",
+                "fr-FR": "L'Enfant de Dragon rencontre Minecraft dans un affrontement aux proportions épiques. Construisez vos propres mondes au pays de Tamriel et vivez l'aventure avec plusieurs de ses personnages les plus emblématiques. Fus Ro Dah !",
+                "hu-HU": "A Sárkányszülött eposzi találkozása a Minecrafttal! Építsd fel a saját világaidat Tamriel világában, és kalandozz a legikonikusabb karakterekkel. Fus Ro Dah!",
+                "id-ID": "Dragonborn bertemu Minecraft dalam bentrokan bagian yang epik. Bangun duniamu sendiri di negeri Tamriel dan rasakan petualangan bersama banyak karakter yang paling ikonis. Fus Ro Dah!",
+                "it-IT": "Il Dragonborn incontra Minecraft in uno scontro di proporzioni epiche. Crea mondi nella terra di Tamriel e incontra i suoi personaggi più famosi nel corso dell'avventura. Fus Ro Dah!",
+                "ja-JP": "Dragonborn と Minecraft が引き起こす壮大なアドベンチャー！ あの人気キャラクターとともにタムリエルの大地に自分だけの世界を築き上げましょう。揺るぎなき力があなたを待っています。Fus Ro Dah！",
+                "ko-KR": "드래곤본이 Minecraft와 만났습니다. 탐리엘의 지형에서 자신만의 월드를 만들고 대표 캐릭터들과 모험을 즐겨 보세요. Fus Ro Dah!",
+                "nb-NO": "Dragonborn møter Minecraft i en brudulje av episke proporsjoner. Bygg dine egne verdener i landet Tamriel, og legg ut på eventyr sammen med mange av de velkjente heltene derfra. Fus Ro Dah!",
+                "nl-NL": "De Dragonborn en Minecraft levert een conflict van epische proporties op. Bouw je eigen werelden in het land Tamriel en ga op avontuur met een groot aantal van de meest iconische personages. Fus Ro Dah!",
+                "pl-PL": "Spotkanie gier Dragonborn i Minecraft o epickim rozmachu. Twórz własne światy w realiach krainy Tamriel i przeżywaj przygody z wieloma sławnymi postaciami u boku. Fus Ro Dah!",
+                "pt-BR": "The Dragonborn encontra Minecraft em um confronto épico. Construa seus próprios mundos na terra de Tamriel e experimente uma aventura com seus personagens mais icônicos. Fus Ro Dah!",
+                "pt-PT": "O Dragonborn encontra-se com o Minecraft num choque de proporções épicas. Constrói os teus próprios mundos na terra de Tamriel e experimenta a aventura com muitas das personagens mais icónicas. Fus Ro Dah!",
+                "ru-RU": "Встреча эпических масштабов: Драконорожденный теперь в Minecraft. Стройте собственные миры на земле Тамриэль и отправляйтесь на поиски приключений с множеством ее самых знаковых персонажей. Фус Ро Да!",
+                "sk-SK": "Dragonborn a Minecraft sa spájajú v konflikte epických proporcií. Budujte vlastné svety v krajine Tamriel a zažívajte dobrodružstvá s množstvom charakteristických postáv. Fus Ro Dah!",
+                "sv-SE": "Dragonborn möter Minecraft i en riktigt episk konflikt. Bygg dina egna världar i landet Tamriel och äventyra med dess mest ikoniska karaktärer. Fus Ro Dah!",
+                "tr-TR": "Dragonborn, Minecraft ile destansı büyüklükte bir çatışmada buluşuyor. Tamriel ülkesinde kendi dünyalarınızı inşa edin ve en ikonik karakterlerinin birçoğuyla macera yaşayın. Fus Ro Dah!",
+                "uk-UA": "Дракононароджений потрапляє у світ Minecraft у битві епічних масштабів. Будуйте власні світи в землях Тамріелю та відправляйтеся на пошуки пригод із багатьма знайомими персонажами. Фус Ро Да!",
+                "zh-CN": "龙裔与《我的世界》难得一回的相遇。在泰姆瑞大地上建立您专属的世界以及和最具代表性的人物一起体验冒险。Fus Ro Dah！",
+                "zh-TW": "《龍裔》與 Minecraft 在史詩般的衝突中相遇。在泰姆瑞爾的土地上建立自己的世界，並與許多最具代表性的角色一起體驗冒險。力量、平衡、推動！",
+                "neutral": "The Dragonborn meets Minecraft in a clash of epic proportions. Build your own worlds in the land of Tamriel and experience adventure with many of its most iconic characters. Fus Ro Dah!"
+            },
+            "Keywords": {
+                "NEUTRAL": {
+                    "Values": [
+                        "Roleplaying Game",
+                        "Action-Adventure",
+                        "Exploration",
+                        "Fantasy",
+                        "Dragon"
+                    ]
+                },
+                "bg-BG": {
+                    "Values": [
+                        "Ролева игра",
+                        "Екшън-приключение",
+                        "Изследване",
+                        "Фентъзи",
+                        "Дракон"
+                    ]
+                },
+                "cs-CZ": {
+                    "Values": [
+                        "Hraní rolí",
+                        "Akční dobrodružství",
+                        "Průzkum",
+                        "Fantasy",
+                        "Drak"
+                    ]
+                },
+                "da-DK": {
+                    "Values": [
+                        "Rollespil",
+                        "Action-adventure",
+                        "Udforskning",
+                        "Fantasy",
+                        "Drage"
+                    ]
+                },
+                "de-DE": {
+                    "Values": [
+                        "Rollenspiel",
+                        "Action-Abenteuer",
+                        "Erkundung",
+                        "Fantasy",
+                        "Drache"
+                    ]
+                },
+                "el-GR": {
+                    "Values": [
+                        "Παιχνίδι ρόλων",
+                        "Δράση-Περιπέτεια",
+                        "Εξερεύνηση",
+                        "Φαντασία",
+                        "Δράκος"
+                    ]
+                },
+                "en-GB": {
+                    "Values": [
+                        "Roleplaying Game",
+                        "Action-Adventure",
+                        "Exploration",
+                        "Fantasy",
+                        "Dragon"
+                    ]
+                },
+                "en-US": {
+                    "Values": [
+                        "Roleplaying Game",
+                        "Action-Adventure",
+                        "Exploration",
+                        "Fantasy",
+                        "Dragon"
+                    ]
+                },
+                "es-ES": {
+                    "Values": [
+                        "Juego de rol",
+                        "Acción y aventura",
+                        "Exploración",
+                        "Fantasía",
+                        "Dragón"
+                    ]
+                },
+                "es-MX": {
+                    "Values": [
+                        "Juego de roles",
+                        "Acción y aventura",
+                        "Exploración",
+                        "Fantasía",
+                        "Dragón"
+                    ]
+                },
+                "fi-FI": {
+                    "Values": [
+                        "Roolipeli",
+                        "Toimintaseikkailu",
+                        "Tutkimus",
+                        "Fantasia",
+                        "Lohikäärme"
+                    ]
+                },
+                "fr-CA": {
+                    "Values": [
+                        "Jeu de rôle",
+                        "Action-aventure",
+                        "Exploration",
+                        "Fantastique",
+                        "Dragon"
+                    ]
+                },
+                "fr-FR": {
+                    "Values": [
+                        "Jeu de rôle",
+                        "Action-Aventure",
+                        "Exploration",
+                        "Fantasy",
+                        "Dragon"
+                    ]
+                },
+                "hu-HU": {
+                    "Values": [
+                        "Szerepjáték",
+                        "Akció-kaland",
+                        "Felfedezés",
+                        "Fantasy",
+                        "Sárkány"
+                    ]
+                },
+                "id-ID": {
+                    "Values": [
+                        "Permainan Peran",
+                        "Petualangan Aksi",
+                        "Penjelajahan",
+                        "Fantasi",
+                        "Naga"
+                    ]
+                },
+                "it-IT": {
+                    "Values": [
+                        "Partita di gioco di ruolo",
+                        "Azione-Avventura",
+                        "Esplorazione",
+                        "Fantasy",
+                        "Drago"
+                    ]
+                },
+                "ja-JP": {
+                    "Values": [
+                        "ロールプレイング ゲーム",
+                        "アクション アドベンチャー",
+                        "探検",
+                        "ファンタジー",
+                        "ドラゴン"
+                    ]
+                },
+                "ko-KR": {
+                    "Values": [
+                        "롤플레잉 게임",
+                        "액션 어드벤처",
+                        "탐험",
+                        "판타지",
+                        "용"
+                    ]
+                },
+                "nb-NO": {
+                    "Values": [
+                        "Rollespilling",
+                        "Actioneventyr",
+                        "Utforskning",
+                        "Fantasy",
+                        "Drage"
+                    ]
+                },
+                "nl-NL": {
+                    "Values": [
+                        "Rollenspel",
+                        "Actie-avontuur",
+                        "Verkenning",
+                        "Fantasie",
+                        "Draak"
+                    ]
+                },
+                "pl-PL": {
+                    "Values": [
+                        "Gra fabularna",
+                        "Akcja i przygoda",
+                        "Eksploracja",
+                        "Fantasy",
+                        "Smok"
+                    ]
+                },
+                "pt-BR": {
+                    "Values": [
+                        "Jogo de roleplay",
+                        "Ação e Aventura",
+                        "Exploração",
+                        "Fantasia",
+                        "Dragão"
+                    ]
+                },
+                "pt-PT": {
+                    "Values": [
+                        "Jogo de Simulação",
+                        "Ação-Aventura",
+                        "Exploração",
+                        "Fantasia",
+                        "Dragão"
+                    ]
+                },
+                "ru-RU": {
+                    "Values": [
+                        "Ролевая игра",
+                        "Остросюжетные приключения",
+                        "Исследование",
+                        "Фэнтези",
+                        "Дракон"
+                    ]
+                },
+                "sk-SK": {
+                    "Values": [
+                        "Hra na hranie rolí",
+                        "Akcia-Dobrodružstvo",
+                        "Prieskum",
+                        "Fantasy",
+                        "Drak"
+                    ]
+                },
+                "sv-SE": {
+                    "Values": [
+                        "Rollspel",
+                        "Actionäventyr",
+                        "Utforskning",
+                        "Fantasy",
+                        "Drake"
+                    ]
+                },
+                "tr-TR": {
+                    "Values": [
+                        "Rol Yapma Oyunu",
+                        "Aksiyon-Macera",
+                        "Keşif",
+                        "Fantastik",
+                        "Ejderha"
+                    ]
+                },
+                "uk-UA": {
+                    "Values": [
+                        "Рольова гра",
+                        "Екшн-пригода",
+                        "Дослідження",
+                        "Фентезі",
+                        "Дракон"
+                    ]
+                },
+                "zh-CN": {
+                    "Values": [
+                        "角色扮演游戏",
+                        "动作冒险",
+                        "探索",
+                        "魔幻",
+                        "龙"
+                    ]
+                },
+                "zh-TW": {
+                    "Values": [
+                        "角色扮演遊戲",
+                        "動作冒險",
+                        "勘探",
+                        "奇幻",
+                        "龍"
+                    ]
+                },
+                "neutral": {
+                    "Values": [
+                        "Roleplaying Game",
+                        "Action-Adventure",
+                        "Exploration",
+                        "Fantasy",
+                        "Dragon"
+                    ]
+                }
+            },
+            "ContentType": "MarketplaceDurableCatalog_V1.2",
+            "CreatorEntityKey": {
+                "Id": "301F442C3B63DC20",
+                "Type": "master_player_account",
+                "TypeString": "master_player_account"
+            },
+            "CreatorEntity": {
+                "Id": "301F442C3B63DC20",
+                "Type": "master_player_account",
+                "TypeString": "master_player_account"
+            },
+            "IsStackable": false,
+            "Platforms": [
+                "android.amazonappstore",
+                "android.googleplay",
+                "b.store",
+                "ios.store",
+                "nx.store",
+                "oculus.store.gearvr",
+                "oculus.store.rift",
+                "uwp.store",
+                "uwp.store.mobile",
+                "xboxone.store",
+                "title.bedrockvanilla",
+                "nx2.store",
+                "ps5.store"
+            ],
+            "Tags": [
+                "1a4a7be1-b4c4-4f19-8924-99eff553b029",
+                "eb258083-fb5c-4780-bca7-7f3fb9065539",
+                "d1bea604-839d-4e53-8c1f-4732b419ab1f",
+                "fe4121ea-6c6d-4887-8b81-2174642187a1",
+                "mashup",
+                "has_skinpack",
+                "survival_spawn_world",
+                "genre.roleplaying_game",
+                "subgenre.action_adventure",
+                "playercount.1-4",
+                "tag.exploration",
+                "tag.fantasy",
+                "tag.dragon",
+                "video_trailer",
+                "1P"
+            ],
+            "CreationDate": "2018-07-31T20:54:34.451Z",
+            "LastModifiedDate": "2026-06-10T23:49:31.86Z",
+            "StartDate": "2017-05-13T05:07:28Z",
+            "Contents": [
+                {
+                    "Id": "76ba7a3d-c44d-4621-8350-39cf9a966f35",
+                    "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/76ba7a3d-c44d-4621-8350-39cf9a966f35/primary.zip",
+                    "MaxClientVersion": "65535.65535.65535",
+                    "MinClientVersion": "1.2.0",
+                    "Tags": [],
+                    "Type": "resourcebinary"
+                },
+                {
+                    "Id": "0cc30c10-7b0b-4d4b-995e-ccfc7b0b5a94",
+                    "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/0cc30c10-7b0b-4d4b-995e-ccfc7b0b5a94/secondary.zip",
+                    "MaxClientVersion": "65535.65535.65535",
+                    "MinClientVersion": "1.2.0",
+                    "Tags": [],
+                    "Type": "skinbinary"
+                }
+            ],
+            "Images": [
+                {
+                    "Id": "da2729a6-3bd5-4033-8bb4-acbc09008f05",
+                    "Tag": "packicon",
+                    "Type": "Screenshot",
+                    "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/da2729a6-3bd5-4033-8bb4-acbc09008f05/skyrim_packicon.jpg"
+                },
+                {
+                    "Id": "75414320-0630-4a60-a1a8-3804d33cc156",
+                    "Tag": "panorama",
+                    "Type": "Screenshot",
+                    "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/75414320-0630-4a60-a1a8-3804d33cc156/skyrim_panorama.jpg"
+                },
+                {
+                    "Id": "6a120f42-0cc8-4b54-ad50-ccddce2e09bf",
+                    "Tag": "screenshot",
+                    "Type": "Screenshot",
+                    "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/6a120f42-0cc8-4b54-ad50-ccddce2e09bf/skyrim_screenshot_01.jpg"
+                },
+                {
+                    "Id": "cfada4ba-0edb-423b-b3f9-136d4c8aec6e",
+                    "Tag": "screenshot",
+                    "Type": "Screenshot",
+                    "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/cfada4ba-0edb-423b-b3f9-136d4c8aec6e/skyrim_screenshot_02.jpg"
+                },
+                {
+                    "Id": "8ff32285-089e-4bf4-8ddb-f5066a382755",
+                    "Tag": "screenshot",
+                    "Type": "Screenshot",
+                    "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/8ff32285-089e-4bf4-8ddb-f5066a382755/skyrim_screenshot_03.jpg"
+                },
+                {
+                    "Id": "a51a3f29-1004-4767-a15b-4e07e3123ba5",
+                    "Tag": "screenshot",
+                    "Type": "Screenshot",
+                    "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a51a3f29-1004-4767-a15b-4e07e3123ba5/skyrim_screenshot_04.jpg"
+                },
+                {
+                    "Id": "cdbc9e93-f2a4-4b16-9401-070f76d491c5",
+                    "Tag": "screenshot",
+                    "Type": "Screenshot",
+                    "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/cdbc9e93-f2a4-4b16-9401-070f76d491c5/skyrim_screenshot_05.jpg"
+                },
+                {
+                    "Id": "a0c4e312-8bd3-4c09-b9ee-bf5f2a8fab24",
+                    "Tag": "Thumbnail",
+                    "Type": "Thumbnail",
+                    "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a0c4e312-8bd3-4c09-b9ee-bf5f2a8fab24/skyrim_thumbnail_800x450.jpg"
+                }
+            ],
+            "ItemReferences": [
+                {
+                    "Id": "1ecb9702-f974-4a0c-85f6-b1a228a8d88e",
+                    "Amount": 1
+                },
+                {
+                    "Id": "e2be0f6b-da72-4140-8700-6429447c8b76",
+                    "Amount": 1
+                },
+                {
+                    "Id": "fcf9061b-5e78-4173-95f0-46799ee4e76d",
+                    "Amount": 1
+                }
+            ],
+            "Price": {
+                "Prices": [
+                    {
+                        "Amounts": [
+                            {
+                                "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                "Amount": 990
+                            }
+                        ]
+                    },
+                    {
+                        "Amounts": [
+                            {
+                                "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                "Amount": 990
+                            }
+                        ]
+                    }
+                ],
+                "RealPrices": []
+            },
+            "PriceOptions": {
+                "Prices": [
+                    {
+                        "Amounts": [
+                            {
+                                "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                "Amount": 990
+                            }
+                        ]
+                    },
+                    {
+                        "Amounts": [
+                            {
+                                "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                "Amount": 990
+                            }
+                        ]
+                    }
+                ],
+                "RealPrices": []
+            },
+            "Rating": {
+                "Average": 4.6,
+                "TotalCount": 11912,
+                "Count5Star": 9589,
+                "Count4Star": 991,
+                "Count3Star": 517,
+                "Count2Star": 211,
+                "Count1Star": 604
+            },
+            "DeepLinks": [],
+            "DisplayProperties": {
+                "creatorName": "Minecraft",
+                "offerId": "c3ca3c17-6f2a-4ff6-97f2-d9e0ba0960d0",
+                "originalCreatorId": "2535448579972708",
+                "price": 990,
+                "purchasable": true,
+                "packIdentity": [
+                    {
+                        "type": "skinpack",
+                        "uuid": "eb258083-fb5c-4780-bca7-7f3fb9065539",
+                        "version": "1.0.60"
+                    },
+                    {
+                        "type": "resourcepack",
+                        "uuid": "d1bea604-839d-4e53-8c1f-4732b419ab1f",
+                        "version": "1.0.60"
+                    },
+                    {
+                        "type": "worldtemplate",
+                        "uuid": "fe4121ea-6c6d-4887-8b81-2174642187a1",
+                        "version": "1.0.60"
+                    }
+                ],
+                "skinPack": {
+                    "count": 40
+                },
+                "publicChangelog": {
+                    "neutral": "",
+                    "en-US": "",
+                    "bg-BG": "",
+                    "cs-CZ": "",
+                    "da-DK": "",
+                    "de-DE": "",
+                    "el-GR": "",
+                    "en-GB": "",
+                    "es-ES": "",
+                    "es-MX": "",
+                    "fi-FI": "",
+                    "fr-CA": "",
+                    "fr-FR": "",
+                    "hu-HU": "",
+                    "id-ID": "",
+                    "it-IT": "",
+                    "ja-JP": "",
+                    "ko-KR": "",
+                    "nb-NO": "",
+                    "nl-NL": "",
+                    "pl-PL": "",
+                    "pt-BR": "",
+                    "pt-PT": "",
+                    "ru-RU": "",
+                    "sk-SK": "",
+                    "sv-SE": "",
+                    "tr-TR": "",
+                    "uk-UA": "",
+                    "zh-CN": "",
+                    "zh-TW": ""
+                },
+                "lastUpdated": "1.19.51",
+                "videoUrl": "https://www.youtube.com/watch?v=8CgbfTtL7pM"
+            },
+            "ETag": "\"b903c89a-0000-0800-0000-6ac3d30e0000\""
+        }
+    }
+}
