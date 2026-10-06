@@ -21,6 +21,17 @@
     "title": "Dragonborn Mash-up",
     "version": "1.0.60"
   },
+  "4d7590d6-8f7f-4f53-989a-2df76b6b015b": {
+    "change_file": "data/changes/LittleBigPlanet\u2122 Mash-up-1.0.75.json",
+    "etag": "\"c300f13a-0000-0800-0000-6ac443e00000\"",
+    "icon_url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/996f2a21-835f-4de9-b771-a7c6f3e0c91f/LittleBigPlanet_packicon_0.jpg",
+    "last_checked": "2026-10-06T09:05:44.952938Z",
+    "pack_dir": "data/packs/LittleBigPlanet\u2122 Mash-up",
+    "safe_name": "LittleBigPlanet\u2122 Mash-up",
+    "thumbnail_url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/3bf3c1b4-a053-44c4-af4a-8ed7eb9560e4/LittleBigPlanet_Thumbnail_0.jpg",
+    "title": "LittleBigPlanet\u2122 Mash-up",
+    "version": "1.0.75"
+  },
   "523e1367-4547-409d-9f71-d11bdf93c382": {
     "change_file": "data/changes/Super Mario\u2122 Mash-Up Pack-1.0.5.json",
     "etag": "\"f708740a-0000-0800-0000-6ac3dba90000\"",
