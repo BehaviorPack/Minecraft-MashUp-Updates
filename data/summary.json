@@ -104,6 +104,19 @@
     "version": "1.0.89"
   },
   {
+    "change_file": "data/changes/City Texture Pack-1.0.88.json",
+    "etag": "\"3c021003-0000-0800-0000-6ac4b45e0000\"",
+    "file_count": 3776,
+    "icon_url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/e5175026-7cd0-46fd-89e1-40c087122045/CityTexturePack_packicon_0.jpg",
+    "last_checked": "2026-10-06T09:26:30.084480Z",
+    "manifest_file": "data/manifests/City Texture Pack.json",
+    "safe_name": "City Texture Pack",
+    "thumbnail_url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/36f633e7-e1f0-4a1d-939e-871ebb10e66a/CityTexturePack_Thumbnail_0.jpg",
+    "title": "City Texture Pack",
+    "total_bytes": 147790384,
+    "version": "1.0.88"
+  },
+  {
     "change_file": "data/changes/Adventure Time Mash-up-1.0.75.json",
     "etag": "\"0300ab99-0000-0800-0000-6ac460340000\"",
     "file_count": 3396,
@@ -323,16 +336,16 @@
     "version": "1.0.80"
   },
   {
-    "change_file": "data/changes/City Texture Pack-1.0.88.json",
-    "etag": "\"3c021003-0000-0800-0000-6ac4b45e0000\"",
-    "file_count": 3776,
-    "icon_url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/e5175026-7cd0-46fd-89e1-40c087122045/CityTexturePack_packicon_0.jpg",
-    "last_checked": "2026-10-06T09:26:30.084480Z",
-    "manifest_file": "data/manifests/City Texture Pack.json",
-    "safe_name": "City Texture Pack",
-    "thumbnail_url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/36f633e7-e1f0-4a1d-939e-871ebb10e66a/CityTexturePack_Thumbnail_0.jpg",
-    "title": "City Texture Pack",
-    "total_bytes": 147790384,
-    "version": "1.0.88"
+    "change_file": "data/changes/Cartoon Texture Pack-1.0.49.json",
+    "etag": "\"7601b435-0000-0800-0000-6abd90b50000\"",
+    "file_count": 2490,
+    "icon_url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/7c6aa27e-736b-4a0d-842a-a30346ed77af/CartoonTexturePack_packicon_0.jpg",
+    "last_checked": "2026-10-06T09:26:31.642656Z",
+    "manifest_file": "data/manifests/Cartoon Texture Pack.json",
+    "safe_name": "Cartoon Texture Pack",
+    "thumbnail_url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/93ebf0ca-9149-41c2-973d-59cb77e31c8b/CartoonTexturePack_Thumbnail_0.jpg",
+    "title": "Cartoon Texture Pack",
+    "total_bytes": 15267715,
+    "version": "1.0.49"
   }
 ]

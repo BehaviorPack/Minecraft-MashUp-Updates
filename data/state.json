@@ -51,6 +51,19 @@
     "total_bytes": 170576354,
     "version": "1.0.91"
   },
+  "1767460d-9f27-4fd6-8d06-af9a3daa61b0": {
+    "change_file": "data/changes/Cartoon Texture Pack-1.0.49.json",
+    "etag": "\"7601b435-0000-0800-0000-6abd90b50000\"",
+    "file_count": 2490,
+    "icon_url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/7c6aa27e-736b-4a0d-842a-a30346ed77af/CartoonTexturePack_packicon_0.jpg",
+    "last_checked": "2026-10-06T09:26:31.642656Z",
+    "manifest_file": "data/manifests/Cartoon Texture Pack.json",
+    "safe_name": "Cartoon Texture Pack",
+    "thumbnail_url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/93ebf0ca-9149-41c2-973d-59cb77e31c8b/CartoonTexturePack_Thumbnail_0.jpg",
+    "title": "Cartoon Texture Pack",
+    "total_bytes": 15267715,
+    "version": "1.0.49"
+  },
   "1814821e-1786-44a0-99f5-a950222fb6b3": {
     "change_file": "data/changes/Steven Universe Mash-up-1.0.80.json",
     "etag": "\"2200dfa6-0000-0800-0000-6ac211a60000\"",
