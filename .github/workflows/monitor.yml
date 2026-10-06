@@ -14,10 +14,14 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: pack-monitor
+  cancel-in-progress: false
+
 jobs:
   monitor:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
 
     steps:
       - name: Checkout
@@ -35,28 +39,41 @@ jobs:
       - name: Install deps
         run: pip install -r requirements.txt
 
-      - name: Run monitor
+      - name: Configure git identity
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Scan all packs (manifest-only, one commit per pack)
         env:
           TITLE_ID: ${{ secrets.TITLE_ID }}
           TITLE_SHARED_SECRET: ${{ secrets.TITLE_SHARED_SECRET }}
           PLAYER_SECRET: ${{ secrets.PLAYER_SECRET }}
           CUSTOM_ID: ${{ secrets.CUSTOM_ID }}
-          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
         working-directory: src
-        run: python scan_pack.py
+        run: python scan_pack.py --all
 
-      - name: Update README
+      - name: Rebuild README from state.json
         working-directory: src
         run: python update_readme.py
 
-      - name: Commit & push changes
+      - name: Commit README if it changed
         run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md data/
+          git add README.md
           if git diff --cached --quiet; then
-            echo "No changes to commit."
+            echo "README unchanged."
           else
-            git commit -m "chore(monitor): update pack data [skip ci]"
+            git commit -m "chore(readme): refresh pack table [skip ci]"
             git push
           fi
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "### Pack monitor run" >> $GITHUB_STEP_SUMMARY
+          if [ -f data/state.json ]; then
+            count=$(python -c "import json;print(len(json.load(open('data/state.json'))))")
+            echo "- Tracked packs: **$count**" >> $GITHUB_STEP_SUMMARY
+          fi
+          echo "- Manifests: \`data/manifests/\`" >> $GITHUB_STEP_SUMMARY
+          echo "- Changes:   \`data/changes/\`" >> $GITHUB_STEP_SUMMARY
