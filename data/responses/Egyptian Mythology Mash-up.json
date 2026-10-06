@@ -1,0 +1,627 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "Item": {
+            "SourceEntity": {
+                "Id": "B63A0803D3653643",
+                "Type": "namespace",
+                "TypeString": "namespace"
+            },
+            "SourceEntityKey": {
+                "Id": "B63A0803D3653643",
+                "Type": "namespace",
+                "TypeString": "namespace"
+            },
+            "Id": "157e815f-46ce-41c2-baa1-e702b9d15648",
+            "Type": "bundle",
+            "AlternateIds": [
+                {
+                    "Type": "FriendlyId",
+                    "Value": "56422834-6fb7-4bf9-a1bd-e85036716982"
+                }
+            ],
+            "FriendlyId": "56422834-6fb7-4bf9-a1bd-e85036716982",
+            "Title": {
+                "NEUTRAL": "Egyptian Mythology Mash-up",
+                "bg-BG": "Пакет с гости от египетската митология",
+                "cs-CZ": "Mash-up egyptské mytologie",
+                "da-DK": "Mashuppen Egyptisk mytologi",
+                "de-DE": "Mash-up Ägyptische Mythologie",
+                "el-GR": "Συνδυαστικό πακέτο Αιγυπτιακή μυθολογία",
+                "en-GB": "Egyptian Mythology Mash-up",
+                "en-US": "Egyptian Mythology Mash-up",
+                "es-ES": "Popurrí de mitología egipcia",
+                "es-MX": "Popurrí Mitología egipcia",
+                "fi-FI": "Egyptiläisen mytologian yhdistelmä",
+                "fr-CA": "Mash-up Mythologie égyptienne",
+                "fr-FR": "Mash-up Mythologie égyptienne",
+                "hu-HU": "Egyiptomi mitológiai mix",
+                "id-ID": "Perpaduan Mitologi Mesir",
+                "it-IT": "Mash-up Mitologia egizia",
+                "ja-JP": "エジプト神話マッシュアップ",
+                "ko-KR": "이집트 신화 매시업",
+                "nb-NO": "Egyptisk mytologi-mash-up",
+                "nl-NL": "Mashup Egyptische mythologie",
+                "pl-PL": "Mity egipskie – miks",
+                "pt-BR": "Mash-up Mitologia Egípcia",
+                "pt-PT": "Mash-up Mitologia Egípcia",
+                "ru-RU": "Микс «Египетская мифология»",
+                "sk-SK": "Balík mash-up Egyptská mytológia",
+                "sv-SE": "Egyptisk mytologi-mix",
+                "tr-TR": "Mısır Mitolojisi Karışımı",
+                "uk-UA": "Збірний пакет \"Давньоєгипетська міфологія\"",
+                "zh-CN": "埃及神话混搭包",
+                "zh-TW": "埃及神話混搭套件",
+                "neutral": "Egyptian Mythology Mash-up"
+            },
+            "Description": {
+                "NEUTRAL": "Will you survive the perils of the Pyramids? Journey through the Valley of the Kings, dodge deadly traps and explore the ancient tombs below! The fourth pack in the Mythology series, this Egyptian-themed Mash-up comes with textures fit for a Pharaoh, legendary mobs, a pantheon of skins and an epic soundtrack!",
+                "bg-BG": "Ще оцелеете ли през опасностите, които крият пирамидите? Пътувайте през Долината на царете, избягвайте смъртоносни капани и изследвайте древните гробници отдолу! Четвъртият пакет от серията на митологиите, този пакет с гости с египетски мотиви се предлага с текстури като за фараон, легендарни мобове, цял пантеон от скинове, както и епичен саундтрак!",
+                "cs-CZ": "Dokážete přežít nástrahy pyramid? Procestujte Údolí králů, vyhněte se smrtícím pastem a prozkoumejte starověké podzemní hrobky! Tento mash-up s tematikou starověkého Egypta je čtvrtou sadou z mytologické řady a obsahuje textury vhodné pro faraona, legendární stvoření, celou řadu skinů a velkolepý soundtrack!",
+                "da-DK": "Kan du stå distancen i pyramidernes land? Udforsk oldtidens gravkamre i Kongernes Dal, men pas på – de bevogtes af udspekulerede fælder! Som den fjerde pakke i mytologiserien får du en egyptisk inspireret mashup, fyldt med legendariske væsner, et panteon af skins, et episk soundtrack og teksturer, der er passende for en farao!",
+                "de-DE": "Kannst du die Gefahren der Pyramiden überleben? Reise durch das Tal der Könige, weiche tödlichen Fallen aus und erkunde die alten Gräber. Als viertes Paket in der Mythologie-Reihe enthält dieses ägyptische Mash-up-Texturen für Pharaonen, legendäre Kreaturen, einen Pantheon von Skins und einen epischen Soundtrack.",
+                "el-GR": "Θα καταφέρεις να βγεις αλώβητος από τους κινδύνους των πυραμίδων; Ταξίδεψε στην Κοιλάδα των Βασιλέων, απόφυγε θανάσιμες παγίδες και εξερεύνησε το εσωτερικό αρχαίων τύμβων! Το Συνδυαστικό αυτό πακέτο, το τέταρτο στη σειρά της Μυθολογίας, με θέμα την Αίγυπτο περιέχει υφές ιδανικές για έναν Φαραώ, θρυλικά πλάσματα, ένα πάνθεον από εμφανίσεις και επική μουσική!",
+                "en-GB": "Will you survive the perils of the Pyramids? Journey through the Valley of the Kings, dodge deadly traps and explore the ancient tombs below! The fourth pack in the Mythology series, this Egyptian-themed Mash-up comes with textures fit for a Pharaoh, legendary mobs, a pantheon of skins and an epic soundtrack!",
+                "en-US": "Will you survive the perils of the Pyramids? Journey through the Valley of the Kings, dodge deadly traps and explore the ancient tombs below! The fourth pack in the Mythology series, this Egyptian-themed Mash-up comes with textures fit for a Pharaoh, legendary mobs, a pantheon of skins and an epic soundtrack!",
+                "es-ES": "¿Sobrevivirás a los peligros de las pirámides? Aventúrate por el Valle de los Reyes, esquiva trampas mortales y explora las tumbas ancestrales de las profundidades. Este popurrí de temática egipcia, el cuarto pack de la serie de mitología, viene repleto de texturas perfectas para un faraón, criaturas legendarias, un panteón completo de aspectos y una banda sonora épica.",
+                "es-MX": "¿Podrás sobrevivir a los peligros de las pirámides? ¡Aventúrate en el Valle de los Reyes, esquiva trampas mortales y explora las tumbas antiguas bajo la superficie! ¡Este pack de popurrí de temática egipcia, el cuarto de la serie de mitología, llega con texturas dignas de un faraón, criaturas legendarias, un panteón de aspectos y una banda sonora épica!",
+                "fi-FI": "Selviätkö pyramidien vaaroista? Kulje halki Kuninkaiden laakson, väistele vaarallisia ansoja ja tutki maanalaisia hautoja! Tämä Egypti-aiheinen yhdistelmä sisältää faaraon arvoisia tekstuureja, legendaarisia hirviöitä, kasoittain olemuksia ja eeppisen soundtrackin!",
+                "fr-CA": "Survivrez-vous aux dangers des pyramides? Aventurez-vous le long de la vallée des rois, évitez les pièges et explorez les anciens tombeaux enfouis sous vos pieds! Ce quatrième pack de la série mythologie, un mash-up de thématique égyptienne, vient avec des textures dignes d’un pharaon, des créatures légendaires, un panthéon de skins et une bande sonore du tonnerre!",
+                "fr-FR": "Saurez-vous vous jouer des dangers des pyramides ? Voyagez à travers la vallée des rois, évitez les pièges mortels et explorez les tombes antiques ! Quatrième pack de la série Mythologie, ce mash-up sur le thème de l'Égypte comprend des textures dignes d'un pharaon, des créatures légendaires, un panthéon de skins et une bande-son épique !",
+                "hu-HU": "Túl tudod élni a piramisok rád leselkedő veszélyeit? Kalandozz keresztül a Királyok völgyén, kerüld el a halálos csapdákat, és fedezd fel a mélyben meghúzódó ősi sírhelyeket! Ez az egyiptomi témájú mixcsomag – a mitológiai sorozat negyedik darabja – a fáraókhoz illő textúrákat, legendás mobokat és a felületek egész panteonját tartalmazza, ráadásul még a háttérzenéje is egészen parádés!",
+                "id-ID": "Akankah kamu bertahan hidup dari bahaya Piramida? Perjalanan melalui Lembah Para Raja, hindari jebakan mematikan, dan jelajahi makam kuno di bawah! Paket keempat dalam seri Mitologi, perpaduan bertema Mesir ini hadir dengan tekstur yang cocok untuk Firaun, mob legendaris, rangkaian skin, dan lagu pengiring yang epik!",
+                "it-IT": "Riuscirai a sopravvivere ai mille pericoli delle piramidi? Addentrati nella Valle dei Re, evita le trappole mortali ed esplora le antiche tombe nei sotterranei! Il quarto pacchetto della serie mitologica, il mash-up ispirato all’antico Egitto, arriva carico di texture da faraone, di creature leggendarie, di un pantheon di skin e di una colonna sonora epica!",
+                "ja-JP": "王家の谷に足を踏み入れ、危険な罠を潜り抜けながらピラミッドの奥深くを探索しましょう。神話シリーズ第 4 段となるエジプト神話マッシュアップ パックでは、ファラオ、伝説上のモブ、神々のスキンに加えて、壮大なサウンドトラックが楽しめます！ あなたは、古代の墓から生きて帰ってこれるでしょうか？",
+                "ko-KR": "피라미드의 위협에서 살아남을 수 있을까요? 왕의 협곡을 가로질러 여행하고 위험천만한 함정을 피해 아래에 있는 고대 왕릉을 탐험하세요! 신화 시리즈의 네 번째 팩인 이집트 테마 매시업에서는 파라오에 알맞은 텍스처와 전설 몹, 스킨의 판테온 신전과 장대한 사운드 트랙을 제공합니다!",
+                "nb-NO": "Kan du overleve pyramidenes farer? Dra gjennom Kongenes dal, unngå dødelige feller, og utforsk de eldgamle gravkamrene under bakken! Denne mash-up-pakken med egyptisk tema er den fjerde i mytologiserien, og den inneholder teksturer en farao verdig, legendariske vesener, en guddommelig samling skall og storslått musikk!",
+                "nl-NL": "Overleef jij de perikelen van de piramides? Reis door de Vallei der Koningen, ontwijk levensgevaarlijke vallen en ontdek oude ondergrondse tombes! Deze Egyptische mashup is het vierde pakket in de mythologieserie en bevat textures geschikt voor een farao, legendarische mobs, een veelvoud aan skins en een epische soundtrack!",
+                "pl-PL": "Uda Ci się pokonać niebezpieczeństwa skrywane przez piramidy? Przemierzaj Dolinę Królów, unikaj zabójczych pułapek i przeszukuj starożytne grobowce! Czwarty mitologiczny pakiet łączony, tym razem o tematyce egipskiej, zawiera tekstury godne faraona, legendarne moby, cały panteon skórek i niesamowitą ścieżkę dźwiękową!",
+                "pt-BR": "Você sobreviverá aos perigos das Pirâmides? Viaje pelo Vale dos Reis, desvie de armadilhas mortais e explore as tumbas antigas subterrâneas! O quarto pacote da série Mitologia, esse Mash-up com tema Egípcio acompanha texturas adequadas para um Faraó, criaturas lendárias, um conjunto de capas e uma trilha sonora épica!",
+                "pt-PT": "Sobreviverás aos perigos das Pirâmides? Viaja através do Vale dos Reis, evita armadilhas mortais e explora os túmulos ancestrais abaixo! Sendo o quarto pack na série da Mitologia, este Mash-up de temática Egípcia vem com texturas aptas para um Faraó, criaturas lendárias, um panteão de skins e uma banda sonora épica!",
+                "ru-RU": "Справитесь ли вы со всеми опасностями пирамид? Пройдите по Долине царей, избегите смертоносных ловушек и исследуйте древние усыпальницы! Четвертая часть мифологической серии, микс в тематике Древнего Египта: текстуры, достойные самого фараона, легендарные мобы, пантеон скинов и эпическое музыкальное сопровождение!",
+                "sk-SK": "Prežijete úskalia pyramíd? Cestujte cez Údolie kráľov, vyhnite sa smrtiacim pasciam a preskúmajte staroveké hrobky pod zemou. Štvrtý balík zo série Mytológia, mash-up s egyptskou tematikou, prichádza s textúrami vhodnými pre faraóna, legendárnymi tvormi, panteónom vzhľadov a impozantnou zvukovou stopou.",
+                "sv-SE": "Klarar du av att överleva i de farliga pyramiderna? Gör en resa till Konungarnas dal, undvik livsfarliga fällor och utforska de underjordiska gravarna! Denna egyptiska mix är det fjärde paketet i vår mytologiserie och bjuder på texturer värdiga en farao, legendariska varelser, ett panteon av utseenden och ett maffigt soundtrack!",
+                "tr-TR": "Piramitlerin tehlikelerinden sağ çıkabilecek misiniz? Krallar Vadisi'nde yolculuk edin, ölümcül tuzaklardan kaçının ve yer altındaki eski mezarları keşfedin! Mitoloji serisinin dördüncü paketi olan bu Mısır Temalı Eklenti bir Firavuna uygun dokular, efsanevi moblar, bir dış görünüş tapınağı ve destansı bir müzikle birlikte geliyor!",
+                "uk-UA": "Чи виживете ви в небезпечних Пірамідах? Перейдіть Долину королів, уникаючи смертельних пасток і досліджуючи стародавні гробниці під землею! Цей збірний пакет у єгипетському стилі, четвертий у міфологічній серії, містить текстури для Фараона, легендарних мобів, пантеон скінів і епічний саундтрек!",
+                "zh-CN": "您能在金字塔的重重危险中幸存吗？踏上穿越帝王谷的旅程，避开致命的陷阱并探索地下古墓！作为神话系列中的第四个包，这个埃及主题的混搭包拥有着能让您成为法老的纹理、传奇的生物、古埃及众神的皮肤以及史诗级的原声音乐！",
+                "zh-TW": "您是否可在危險的金字塔中存活下來？穿越王之谷、躲過死亡陷阱並探索下方古老的墳墓！此埃及主題混搭是「神話」系列中的第四個，內有法老王、傳奇生物、萬神殿的外觀，還有史詩級的配樂！",
+                "neutral": "Will you survive the perils of the Pyramids? Journey through the Valley of the Kings, dodge deadly traps and explore the ancient tombs below! The fourth pack in the Mythology series, this Egyptian-themed Mash-up comes with textures fit for a Pharaoh, legendary mobs, a pantheon of skins and an epic soundtrack!"
+            },
+            "Keywords": {
+                "NEUTRAL": {
+                    "Values": [
+                        "Survival",
+                        "Open World",
+                        "Exploration",
+                        "Mythology",
+                        "Historical"
+                    ]
+                },
+                "bg-BG": {
+                    "Values": [
+                        "Оцеляване",
+                        "Отворен свят",
+                        "Изследване",
+                        "Митология",
+                        "Исторически"
+                    ]
+                },
+                "cs-CZ": {
+                    "Values": [
+                        "Hry o přežití",
+                        "Otevřený svět",
+                        "Průzkum",
+                        "Mytologie",
+                        "Historické"
+                    ]
+                },
+                "da-DK": {
+                    "Values": [
+                        "Overlevelse",
+                        "Åben verden",
+                        "Udforskning",
+                        "Mytologi",
+                        "Historisk"
+                    ]
+                },
+                "de-DE": {
+                    "Values": [
+                        "Survival",
+                        "Open World",
+                        "Erkundung",
+                        "Mythologie",
+                        "Historisch"
+                    ]
+                },
+                "el-GR": {
+                    "Values": [
+                        "Επιβίωση",
+                        "Ανοιχτός κόσμος",
+                        "Εξερεύνηση",
+                        "Μυθολογία",
+                        "Ιστορικό"
+                    ]
+                },
+                "en-GB": {
+                    "Values": [
+                        "Survival",
+                        "Open World",
+                        "Exploration",
+                        "Mythology",
+                        "Historical"
+                    ]
+                },
+                "en-US": {
+                    "Values": [
+                        "Survival",
+                        "Open World",
+                        "Exploration",
+                        "Mythology",
+                        "Historical"
+                    ]
+                },
+                "es-ES": {
+                    "Values": [
+                        "Supervivencia",
+                        "Mundo abierto",
+                        "Exploración",
+                        "Mitología",
+                        "Histórico"
+                    ]
+                },
+                "es-MX": {
+                    "Values": [
+                        "Supervivencia",
+                        "Mundo abierto",
+                        "Exploración",
+                        "Mitología",
+                        "Histórico"
+                    ]
+                },
+                "fi-FI": {
+                    "Values": [
+                        "Selviytyminen",
+                        "Avoin maailma",
+                        "Tutkimus",
+                        "Mytologiaa",
+                        "Historiallinen"
+                    ]
+                },
+                "fr-CA": {
+                    "Values": [
+                        "Survie",
+                        "Monde ouvert",
+                        "Exploration",
+                        "Mythologie",
+                        "Historique"
+                    ]
+                },
+                "fr-FR": {
+                    "Values": [
+                        "Survie",
+                        "Monde ouvert",
+                        "Exploration",
+                        "Mythologie",
+                        "Historique"
+                    ]
+                },
+                "hu-HU": {
+                    "Values": [
+                        "Túlélés",
+                        "Nyílt világ",
+                        "Felfedezés",
+                        "Mitológia",
+                        "Történelmi"
+                    ]
+                },
+                "id-ID": {
+                    "Values": [
+                        "Bertahan Hidup",
+                        "Dunia Terbuka",
+                        "Penjelajahan",
+                        "Mitologi",
+                        "Historis"
+                    ]
+                },
+                "it-IT": {
+                    "Values": [
+                        "Sopravvivenza",
+                        "Mondo aperto",
+                        "Esplorazione",
+                        "Mitologia",
+                        "Storico"
+                    ]
+                },
+                "ja-JP": {
+                    "Values": [
+                        "サバイバル",
+                        "オープン ワールド",
+                        "探検",
+                        "神話",
+                        "歴史的"
+                    ]
+                },
+                "ko-KR": {
+                    "Values": [
+                        "서바이벌",
+                        "오픈 월드",
+                        "탐험",
+                        "신화",
+                        "역사적인"
+                    ]
+                },
+                "nb-NO": {
+                    "Values": [
+                        "Overlevelse",
+                        "Åpen verden",
+                        "Utforskning",
+                        "Mytologi",
+                        "Historisk"
+                    ]
+                },
+                "nl-NL": {
+                    "Values": [
+                        "Survival",
+                        "Open wereld",
+                        "Verkenning",
+                        "Mythologie",
+                        "Historisch"
+                    ]
+                },
+                "pl-PL": {
+                    "Values": [
+                        "Przetrwanie",
+                        "Otwarty świat",
+                        "Eksploracja",
+                        "Mitologia",
+                        "Historyczny"
+                    ]
+                },
+                "pt-BR": {
+                    "Values": [
+                        "Sobrevivência",
+                        "Mundo Aberto",
+                        "Exploração",
+                        "Mitologia",
+                        "Histórico"
+                    ]
+                },
+                "pt-PT": {
+                    "Values": [
+                        "Sobrevivência",
+                        "Mundo Aberto",
+                        "Exploração",
+                        "Mitologia",
+                        "Histórico"
+                    ]
+                },
+                "ru-RU": {
+                    "Values": [
+                        "Выживание",
+                        "Открытый мир",
+                        "Исследование",
+                        "Мифология",
+                        "Исторический"
+                    ]
+                },
+                "sk-SK": {
+                    "Values": [
+                        "Prežitie",
+                        "Otvorený svet",
+                        "Prieskum",
+                        "Mytológia",
+                        "Historické"
+                    ]
+                },
+                "sv-SE": {
+                    "Values": [
+                        "Överlevnad",
+                        "Öppen värld",
+                        "Utforskning",
+                        "Mytologi",
+                        "Historisk"
+                    ]
+                },
+                "tr-TR": {
+                    "Values": [
+                        "Hayatta Kalma",
+                        "Açık Dünya",
+                        "Keşif",
+                        "Mitoloji",
+                        "Tarihsel"
+                    ]
+                },
+                "uk-UA": {
+                    "Values": [
+                        "Виживання",
+                        "Відкритий світ",
+                        "Дослідження",
+                        "Міфологія",
+                        "Історичний"
+                    ]
+                },
+                "zh-CN": {
+                    "Values": [
+                        "生存",
+                        "开放世界",
+                        "探索",
+                        "神话",
+                        "历史"
+                    ]
+                },
+                "zh-TW": {
+                    "Values": [
+                        "生存",
+                        "開放世界",
+                        "勘探",
+                        "神話",
+                        "歷史"
+                    ]
+                },
+                "neutral": {
+                    "Values": [
+                        "Survival",
+                        "Open World",
+                        "Exploration",
+                        "Mythology",
+                        "Historical"
+                    ]
+                }
+            },
+            "ContentType": "MarketplaceDurableCatalog_V1.2",
+            "CreatorEntityKey": {
+                "Id": "301F442C3B63DC20",
+                "Type": "master_player_account",
+                "TypeString": "master_player_account"
+            },
+            "CreatorEntity": {
+                "Id": "301F442C3B63DC20",
+                "Type": "master_player_account",
+                "TypeString": "master_player_account"
+            },
+            "IsStackable": false,
+            "Platforms": [
+                "android.amazonappstore",
+                "android.googleplay",
+                "b.store",
+                "ios.store",
+                "nx.store",
+                "oculus.store.gearvr",
+                "oculus.store.rift",
+                "uwp.store",
+                "uwp.store.mobile",
+                "xboxone.store",
+                "title.bedrockvanilla",
+                "title.earth",
+                "nx2.store",
+                "ps5.store"
+            ],
+            "Tags": [
+                "157e815f-46ce-41c2-baa1-e702b9d15648",
+                "d586b224-fb4d-4660-94f1-d23521616acc",
+                "56649346-d98d-4a13-8dcf-22eb718c14e8",
+                "03a2c60e-a3c1-4a30-a0de-9d870919849b",
+                "mashup",
+                "has_skinpack",
+                "survival_spawn_world",
+                "genre.survival",
+                "subgenre.open_world",
+                "playercount.1-4",
+                "tag.exploration",
+                "tag.mythology",
+                "tag.historical",
+                "video_trailer",
+                "1P"
+            ],
+            "CreationDate": "2018-07-31T20:51:39.722Z",
+            "LastModifiedDate": "2026-06-10T23:48:10.451Z",
+            "StartDate": "2019-12-01T18:00:00Z",
+            "Contents": [
+                {
+                    "Id": "fdb5315c-8e39-48a6-adb6-0be1c57e9d4b",
+                    "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/fdb5315c-8e39-48a6-adb6-0be1c57e9d4b/primary.zip",
+                    "MaxClientVersion": "65535.65535.65535",
+                    "MinClientVersion": "1.4.1",
+                    "Tags": [],
+                    "Type": "resourcebinary"
+                },
+                {
+                    "Id": "8878e92e-5d25-4761-b7a1-3829d4bc0322",
+                    "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/8878e92e-5d25-4761-b7a1-3829d4bc0322/secondary.zip",
+                    "MaxClientVersion": "65535.65535.65535",
+                    "MinClientVersion": "1.4.1",
+                    "Tags": [],
+                    "Type": "skinbinary"
+                }
+            ],
+            "Images": [
+                {
+                    "Id": "aa82349c-7eb3-4032-8c4a-5dbf5cfeacd2",
+                    "Tag": "packicon",
+                    "Type": "Screenshot",
+                    "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/aa82349c-7eb3-4032-8c4a-5dbf5cfeacd2/EgyptianMythology_packicon_0.jpg"
+                },
+                {
+                    "Id": "038ba65d-1430-4379-9494-8aaa5ae8eef7",
+                    "Tag": "panorama",
+                    "Type": "Screenshot",
+                    "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/038ba65d-1430-4379-9494-8aaa5ae8eef7/EgyptianMythology_panorama_0.jpg"
+                },
+                {
+                    "Id": "3e41a7d3-0151-4f79-9703-ce5a273b406d",
+                    "Tag": "screenshot",
+                    "Type": "Screenshot",
+                    "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/3e41a7d3-0151-4f79-9703-ce5a273b406d/EgyptianMythology_Screenshot_1.jpg"
+                },
+                {
+                    "Id": "42a895d9-e482-4082-8867-69db74b05e03",
+                    "Tag": "screenshot",
+                    "Type": "Screenshot",
+                    "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/42a895d9-e482-4082-8867-69db74b05e03/EgyptianMythology_Screenshot_2.jpg"
+                },
+                {
+                    "Id": "8239fdf8-7959-4439-bcd4-c31fcc524ed6",
+                    "Tag": "screenshot",
+                    "Type": "Screenshot",
+                    "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/8239fdf8-7959-4439-bcd4-c31fcc524ed6/EgyptianMythology_Screenshot_3.jpg"
+                },
+                {
+                    "Id": "b787398a-3cea-414b-b7c5-15dee37bc7f5",
+                    "Tag": "screenshot",
+                    "Type": "Screenshot",
+                    "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/b787398a-3cea-414b-b7c5-15dee37bc7f5/EgyptianMythology_Screenshot_4.jpg"
+                },
+                {
+                    "Id": "7b7fd8b7-f356-45d7-9ccf-d10a55624e81",
+                    "Tag": "screenshot",
+                    "Type": "Screenshot",
+                    "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/7b7fd8b7-f356-45d7-9ccf-d10a55624e81/EgyptianMythology_Screenshot_5.jpg"
+                },
+                {
+                    "Id": "e4ded0f8-2be3-441f-be60-455aed28702b",
+                    "Tag": "Thumbnail",
+                    "Type": "Thumbnail",
+                    "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/e4ded0f8-2be3-441f-be60-455aed28702b/EgyptianMythology_thumbnail_800x450.jpg"
+                }
+            ],
+            "ItemReferences": [
+                {
+                    "Id": "1af693fd-e2b5-4069-a2a3-bf529d84ee7b",
+                    "Amount": 1
+                },
+                {
+                    "Id": "4158d2be-af59-47e4-aa44-f808bb49ad6d",
+                    "Amount": 1
+                },
+                {
+                    "Id": "535136bc-2e92-4976-b664-c479a0b48876",
+                    "Amount": 1
+                }
+            ],
+            "Price": {
+                "Prices": [
+                    {
+                        "Amounts": [
+                            {
+                                "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                "Amount": 990
+                            }
+                        ]
+                    },
+                    {
+                        "Amounts": [
+                            {
+                                "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                "Amount": 990
+                            }
+                        ]
+                    }
+                ],
+                "RealPrices": []
+            },
+            "PriceOptions": {
+                "Prices": [
+                    {
+                        "Amounts": [
+                            {
+                                "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                "Amount": 990
+                            }
+                        ]
+                    },
+                    {
+                        "Amounts": [
+                            {
+                                "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                "Amount": 990
+                            }
+                        ]
+                    }
+                ],
+                "RealPrices": []
+            },
+            "Rating": {
+                "Average": 4.7,
+                "TotalCount": 9205,
+                "Count5Star": 7804,
+                "Count4Star": 665,
+                "Count3Star": 257,
+                "Count2Star": 99,
+                "Count1Star": 380
+            },
+            "DeepLinks": [],
+            "DisplayProperties": {
+                "creatorName": "Minecraft",
+                "offerId": "56422834-6fb7-4bf9-a1bd-e85036716982",
+                "originalCreatorId": "2535448579972708",
+                "price": 990,
+                "purchasable": true,
+                "packIdentity": [
+                    {
+                        "type": "skinpack",
+                        "uuid": "d586b224-fb4d-4660-94f1-d23521616acc",
+                        "version": "1.0.65"
+                    },
+                    {
+                        "type": "resourcepack",
+                        "uuid": "56649346-d98d-4a13-8dcf-22eb718c14e8",
+                        "version": "1.0.65"
+                    },
+                    {
+                        "type": "worldtemplate",
+                        "uuid": "03a2c60e-a3c1-4a30-a0de-9d870919849b",
+                        "version": "1.0.65"
+                    }
+                ],
+                "skinPack": {
+                    "count": 38
+                },
+                "publicChangelog": {
+                    "neutral": "",
+                    "en-US": "",
+                    "bg-BG": "",
+                    "cs-CZ": "",
+                    "da-DK": "",
+                    "de-DE": "",
+                    "el-GR": "",
+                    "en-GB": "",
+                    "es-ES": "",
+                    "es-MX": "",
+                    "fi-FI": "",
+                    "fr-CA": "",
+                    "fr-FR": "",
+                    "hu-HU": "",
+                    "id-ID": "",
+                    "it-IT": "",
+                    "ja-JP": "",
+                    "ko-KR": "",
+                    "nb-NO": "",
+                    "nl-NL": "",
+                    "pl-PL": "",
+                    "pt-BR": "",
+                    "pt-PT": "",
+                    "ru-RU": "",
+                    "sk-SK": "",
+                    "sv-SE": "",
+                    "tr-TR": "",
+                    "uk-UA": "",
+                    "zh-CN": "",
+                    "zh-TW": ""
+                },
+                "lastUpdated": "1.19.51",
+                "minPerformanceTier": 2,
+                "videoUrl": "https://www.youtube.com/watch?v=-1bO3OIDrfM"
+            },
+            "ETag": "\"13024bdb-0000-0800-0000-6ac1846e0000\""
+        }
+    }
+}
