@@ -257,6 +257,19 @@
     "total_bytes": 85528357,
     "version": "1.0.89"
   },
+  "bb984328-6fa2-4774-aa1d-237709c02ffc": {
+    "change_file": "data/changes/Fantasy Texture Pack-1.0.66.json",
+    "etag": "\"6700dfdd-0000-0800-0000-6ac47c7a0000\"",
+    "file_count": 3161,
+    "icon_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/d1c3d19e-b4fe-4c62-ad13-bdef498790ca/FantasyTexturePack_packicon_0.jpg",
+    "last_checked": "2026-10-06T09:26:25.490377Z",
+    "manifest_file": "data/manifests/Fantasy Texture Pack.json",
+    "safe_name": "Fantasy Texture Pack",
+    "thumbnail_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/fddedd74-cdae-4e92-844d-78d32f8202af/FantasyTexturePack_Thumbnail_0.jpg",
+    "title": "Fantasy Texture Pack",
+    "total_bytes": 99714879,
+    "version": "1.0.66"
+  },
   "d858a668-0db7-4440-aa9c-cf1aab5e7553": {
     "change_file": "data/changes/Chinese Mythology Mash-up-1.0.64.json",
     "etag": "\"af0374ff-0000-0800-0000-6ac3d30f0000\"",

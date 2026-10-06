@@ -143,6 +143,19 @@
     "version": "1.0.75"
   },
   {
+    "change_file": "data/changes/Pattern Texture Pack-1.0.51.json",
+    "etag": "\"fb00a0c8-0000-0800-0000-6abc23060000\"",
+    "file_count": 2444,
+    "icon_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/16275bbf-a6b3-4f46-8a20-16be45cfa332/MC_Pattern_packicon_0.jpg",
+    "last_checked": "2026-10-06T09:26:23.223858Z",
+    "manifest_file": "data/manifests/Pattern Texture Pack.json",
+    "safe_name": "Pattern Texture Pack",
+    "thumbnail_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/2741a5fc-551d-4632-9bba-74c3bf848145/MC_Pattern_Thumbnail_0.jpg",
+    "title": "Pattern Texture Pack",
+    "total_bytes": 16748402,
+    "version": "1.0.51"
+  },
+  {
     "change_file": "data/changes/Super Mario\u2122 Mash-Up Pack-1.0.5.json",
     "etag": "\"f708740a-0000-0800-0000-6ac3dba90000\"",
     "icon_url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/84a5e266-d2c9-4644-a916-5ac4ffb3ed2f/MC_MarioVV_packicon_0.jpg",
@@ -284,16 +297,16 @@
     "version": "1.0.80"
   },
   {
-    "change_file": "data/changes/Pattern Texture Pack-1.0.51.json",
-    "etag": "\"fb00a0c8-0000-0800-0000-6abc23060000\"",
-    "file_count": 2444,
-    "icon_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/16275bbf-a6b3-4f46-8a20-16be45cfa332/MC_Pattern_packicon_0.jpg",
-    "last_checked": "2026-10-06T09:26:23.223858Z",
-    "manifest_file": "data/manifests/Pattern Texture Pack.json",
-    "safe_name": "Pattern Texture Pack",
-    "thumbnail_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/2741a5fc-551d-4632-9bba-74c3bf848145/MC_Pattern_Thumbnail_0.jpg",
-    "title": "Pattern Texture Pack",
-    "total_bytes": 16748402,
-    "version": "1.0.51"
+    "change_file": "data/changes/Fantasy Texture Pack-1.0.66.json",
+    "etag": "\"6700dfdd-0000-0800-0000-6ac47c7a0000\"",
+    "file_count": 3161,
+    "icon_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/d1c3d19e-b4fe-4c62-ad13-bdef498790ca/FantasyTexturePack_packicon_0.jpg",
+    "last_checked": "2026-10-06T09:26:25.490377Z",
+    "manifest_file": "data/manifests/Fantasy Texture Pack.json",
+    "safe_name": "Fantasy Texture Pack",
+    "thumbnail_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/fddedd74-cdae-4e92-844d-78d32f8202af/FantasyTexturePack_Thumbnail_0.jpg",
+    "title": "Fantasy Texture Pack",
+    "total_bytes": 99714879,
+    "version": "1.0.66"
   }
 ]
