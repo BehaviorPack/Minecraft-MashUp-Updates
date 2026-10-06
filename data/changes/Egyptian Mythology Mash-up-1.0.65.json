@@ -2590,15 +2590,16 @@
     "world_icon.jpeg",
     "world_resource_packs.json"
   ],
-  "detected_at": "2026-10-06T08:55:49.641952Z",
-  "engine": "1.19.50",
+  "detected_at": "2026-10-06T09:25:30.746232Z",
   "etag": "\"13024bdb-0000-0800-0000-6ac1846e0000\"",
   "icon_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/aa82349c-7eb3-4032-8c4a-5dbf5cfeacd2/EgyptianMythology_packicon_0.jpg",
+  "modified": [],
   "pack": "Egyptian Mythology Mash-up",
   "previous_version": null,
   "removed": [],
   "thumbnail_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/e4ded0f8-2be3-441f-be60-455aed28702b/EgyptianMythology_thumbnail_800x450.jpg",
-  "total_files": 2620,
+  "total_bytes": 178008180,
+  "total_files": 2589,
   "uuid": "157e815f-46ce-41c2-baa1-e702b9d15648",
   "version": "1.0.65"
 }
