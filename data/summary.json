@@ -63,6 +63,19 @@
     "version": "1.0.86"
   },
   {
+    "change_file": "data/changes/Norse Mythology Mash-Up-1.0.63.json",
+    "etag": "\"f307113e-0000-0800-0000-6ac29e590000\"",
+    "file_count": 2890,
+    "icon_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/b88fb3ea-df47-4915-9b94-603e444ab747/NorseMythology_packicon_0.jpg",
+    "last_checked": "2026-10-06T09:25:50.046078Z",
+    "manifest_file": "data/manifests/Norse Mythology Mash-Up.json",
+    "safe_name": "Norse Mythology Mash-Up",
+    "thumbnail_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/84c7e38d-68fc-4593-af92-8b064e1a07c8/NorseMythology_thumbnail_800x450.jpg",
+    "title": "Norse Mythology Mash-Up",
+    "total_bytes": 86824397,
+    "version": "1.0.63"
+  },
+  {
     "change_file": "data/changes/Chinese Mythology Mash-up-1.0.64.json",
     "etag": "\"af0374ff-0000-0800-0000-6ac3d30f0000\"",
     "file_count": 2500,
@@ -102,16 +115,16 @@
     "version": "1.0.80"
   },
   {
-    "change_file": "data/changes/Norse Mythology Mash-Up-1.0.63.json",
-    "etag": "\"f307113e-0000-0800-0000-6ac29e590000\"",
-    "file_count": 2890,
-    "icon_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/b88fb3ea-df47-4915-9b94-603e444ab747/NorseMythology_packicon_0.jpg",
-    "last_checked": "2026-10-06T09:25:50.046078Z",
-    "manifest_file": "data/manifests/Norse Mythology Mash-Up.json",
-    "safe_name": "Norse Mythology Mash-Up",
-    "thumbnail_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/84c7e38d-68fc-4593-af92-8b064e1a07c8/NorseMythology_thumbnail_800x450.jpg",
-    "title": "Norse Mythology Mash-Up",
-    "total_bytes": 86824397,
-    "version": "1.0.63"
+    "change_file": "data/changes/Halloween Mash-up-1.0.76.json",
+    "etag": "\"1d0750ff-0000-0800-0000-6ac4987b0000\"",
+    "file_count": 3161,
+    "icon_url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/ab857116-12c1-49de-b519-22e33cab106d/Halloween_packicon_0.jpg",
+    "last_checked": "2026-10-06T09:25:52.457214Z",
+    "manifest_file": "data/manifests/Halloween Mash-up.json",
+    "safe_name": "Halloween Mash-up",
+    "thumbnail_url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/d3ce4a51-7f02-450d-ad90-098c190b84a2/Halloween_Thumbnail_0.jpg",
+    "title": "Halloween Mash-up",
+    "total_bytes": 152771807,
+    "version": "1.0.76"
   }
 ]
