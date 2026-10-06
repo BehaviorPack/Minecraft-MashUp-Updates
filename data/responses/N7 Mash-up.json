@@ -1,0 +1,625 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "Item": {
+            "SourceEntity": {
+                "Id": "B63A0803D3653643",
+                "Type": "namespace",
+                "TypeString": "namespace"
+            },
+            "SourceEntityKey": {
+                "Id": "B63A0803D3653643",
+                "Type": "namespace",
+                "TypeString": "namespace"
+            },
+            "Id": "ef8b11e0-7b10-41ac-81f4-2a4b02d25727",
+            "Type": "bundle",
+            "AlternateIds": [
+                {
+                    "Type": "FriendlyId",
+                    "Value": "41b350da-05e8-4fbe-a432-f71bb0c99d59"
+                }
+            ],
+            "FriendlyId": "41b350da-05e8-4fbe-a432-f71bb0c99d59",
+            "Title": {
+                "NEUTRAL": "N7 Mash-up",
+                "bg-BG": "Пакет с гости N7",
+                "cs-CZ": "Mash-up N7",
+                "da-DK": "N7 – mashup",
+                "de-DE": "N7 Mash-up",
+                "el-GR": "Συνδυαστικό πακέτο N7",
+                "en-GB": "N7 Mash-up",
+                "en-US": "N7 Mash-up",
+                "es-ES": "Popurrí N7",
+                "es-MX": "Popurrí N7",
+                "fi-FI": "N7-yhdistelmä",
+                "fr-CA": "Mash-up N7",
+                "fr-FR": "Mash-up N7",
+                "hu-HU": "N7 mix",
+                "id-ID": "Perpaduan N7",
+                "it-IT": "Mash-up N7",
+                "ja-JP": "N7 マッシュアップ",
+                "ko-KR": "N7 매시업",
+                "nb-NO": "N7-mash-up",
+                "nl-NL": "Mashup N7",
+                "pl-PL": "N7 – miks",
+                "pt-BR": "Mash-up de N7",
+                "pt-PT": "Mash-Up N7",
+                "ru-RU": "Микс-набор «N7»",
+                "sk-SK": "Mash-up N7",
+                "sv-SE": "N7-mix",
+                "tr-TR": "N7 Karışımı",
+                "uk-UA": "Збірний пакет \"N7\"",
+                "zh-CN": "N7 混搭包",
+                "zh-TW": "N7 混搭套件",
+                "neutral": "N7 Mash-up"
+            },
+            "Description": {
+                "NEUTRAL": "Shape the fate of your Minecraft galaxy with this amazing Mash-up: includes thirty-six character skins, bespoke game textures, themed menus, a dedicated world filled with iconic locations and original soundtrack compilation to set the mood.",
+                "bg-BG": "Определете съдбата на своята галактика в Minecraft с този невероятен пакет с гости: включва тридесет и шест скина на персонажи, направени по поръчка текстури в играта, тематични менюта, специален свят, пълен с емблематични места, както и оригинална компилация от музика, която да създаде правилното настроение.",
+                "cs-CZ": "Utvářejte osud své galaxie v Minecraftu díky tomuto úžasnému mash-upu: obsahuje třicet šest skinů postav, na míru upravené herní textury, tematické nabídky, speciální svět plný ikonických lokací a originální kompilaci soundtracku pro nastavení odpovídající nálady.",
+                "da-DK": "Tag din Minecraft-galakses skæbne i egne hænder med en fantastisk mashup. Du får 36 karakterskins, skræddersyede spilteksturer, temamenuer, en dedikeret verden fyldt med ikoniske lokaliteter og originale soundtracks til at sætte stemningen.",
+                "de-DE": "Das Schicksal deiner Minecraft-Galaxie liegt in deinen Händen dank dieses fantastischen Mash-ups: Enthalten sind 36 Figurenskins, brandneue Texturen sowie Menüs, und außerdem eine Welt voller bekannter Orte und dem Original-Soundtrack, damit die Atmosphäre stimmt.",
+                "el-GR": "Διαμόρφωσε τη μοίρα του γαλαξία στο Minecraft με αυτό το εκπληκτικό Συνδυαστικό πακέτο: περιλαμβάνει τριάντα έξι εμφανίσεις χαρακτήρων, προσαρμοσμένες υφές παιχνιδιού, θεματικά μενού, έναν αποκλειστικό κόσμο γεμάτο με εμβληματικές τοποθεσίες και πρωτότυπη μουσική συλλογή για να φτιάξουμε την κατάλληλη... ατμόσφαιρα.",
+                "en-GB": "Shape the fate of your Minecraft galaxy with this amazing Mash-up: includes thirty-six character skins, bespoke game textures, themed menus, a dedicated world filled with iconic locations and original soundtrack compilation to set the mood.",
+                "en-US": "Shape the fate of your Minecraft galaxy with this amazing Mash-up: includes thirty-six character skins, bespoke game textures, themed menus, a dedicated world filled with iconic locations and original soundtrack compilation to set the mood.",
+                "es-ES": "Forja el destino de tu galaxia de Minecraft con este increíble popurrí que contiene 36 aspectos de personajes, texturas del juego personalizadas, menús temáticos, un mundo repleto de emblemáticos lugares y una recopilación de la banda sonora para que te ambientes.",
+                "es-MX": "Elige el destino de tu galaxia de Minecraft con este increíble popurrí, que incluye 36 aspectos de personajes, texturas de juego personalizadas, menús temáticos, un mundo especial lleno de ubicaciones emblemáticas y una compilación de la banda sonora original.",
+                "fi-FI": "Muovaa Minecraft-maailmankaikkeutta tällä upealla yhdistelmäpaketilla. Siinä on mukana 36 olemusta, upouusia tekstuureja, teemavalikkoja, ainutkertainen maailma ikonisine paikkoineen sekä alkuperäinen ääniraitakokoelma tuomaan tunnelmaa.",
+                "fr-CA": "Façonnez le destin de votre galaxie Minecraft avec cet incroyable mash-up qui comprend trente-six skins de personnages, des textures en jeu sur mesure, des menus thématiques, un monde dédié rempli de lieux emblématiques et une compilation de bandes sonores originales pour créer l’ambiance.",
+                "fr-FR": "Modelez le destin de votre galaxie Minecraft avec cet incroyable Mash-up ! Il comprend trente-six skins de personnages, des textures de jeu sur mesure, des menus thématiques, un monde dédié rempli de lieux emblématiques et une compilation de bandes sonores originales pour créer l’ambiance.",
+                "hu-HU": "Ezzel a lenyűgöző mixszel te alakíthatod a saját Minecraft-galaxisod sorsát: a csomagban harminchat karakterfelületet, egyedi játéktextúrákat, a témához illő menüket találsz, és egy egyedi világot, amelyben felkeresheted a legendás helyszíneket, az eredeti aláfestő zenék pedig csak tovább fokozzák a hangulatot.",
+                "id-ID": "Tentukan nasib galaksi Minecraft dengan Perpaduan yang menakjubkan ini: termasuk tiga puluh enam skin karakter, tekstur permainan khusus, menu bertema, dunia khusus yang penuh dengan lokasi ikonis, dan kompilasi lagu tema asli untuk menyesuaikan suasananya.",
+                "it-IT": "Dai forma al destino della tua galassia di Minecraft con questo fantastico mash-up: include trentasei skin di personaggi, texture di gioco su misura, menu a tema, un mondo dedicato pieno di luoghi iconici e una compilation di colonne sonore originali per creare l'atmosfera.",
+                "ja-JP": "この素敵なマッシュアップで Minecraft の宇宙に壮大な世界を築きましょう。36 種類のキャラクター スキンにオリジナルのゲーム テクスチャ、テーマ性あふれるメニュー、盛りだくさんの名場面や素晴らしいサウンドトラックで宇宙を存分に堪能できます。",
+                "ko-KR": "이 놀라운 매시업 팩으로 Minecraft 은하계의 운명을 개척하세요. 36명의 캐릭터 스킨, 맞춤형 게임 텍스처, 테마 메뉴, 상징적인 장소로 채워진 전용 월드와 오리지널 사운드트랙 모음까지 완벽합니다.",
+                "nb-NO": "Bestem skjebnen til Minecraft-galaksen din med denne fantastiske mash-up-en. Her får du trettiseks figurskall, spesiallagde spillteksturer, temabaserte menyer, en dedikert verden fylt av ikoniske steder og originale lydspor for å få den riktige stemningen.",
+                "nl-NL": "Vorm het lot van je Minecraft-universum met deze fantastische mashup: inclusief 36 personageskins, speciale speltextures, menu's met thema, een speciale wereld boordevol iconische locaties en een originele soundtrack voor een geweldige sfeer.",
+                "pl-PL": "Kształtuj losy swojej galaktyki w grze Minecraft za pomocą tego niesamowitego miksu: zawiera trzydzieści sześć skórek postaci, specjalne tekstury gier, menu tematyczne, dedykowany świat wypełniony kultowymi lokalizacjami i oryginalną kompilację ścieżki dźwiękowej, wprowadzającą odpowiedni nastrój.",
+                "pt-BR": "Molde o destino de sua galáxia Minecraft com este incrível Mash-up: inclui 36 capas de personagens, texturas de jogo sob medida, menus temáticos, um mundo dedicado cheio de locais icônicos e compilação de trilha sonora original para entrar no clima.",
+                "pt-PT": "Molda o destino da tua galáxia Minecraft com este incrível Mash-Up: inclui trinta e seis skins de personagens, texturas de jogos à medida, menus temáticos, um mundo dedicado repleto de locais icónicos e compilação original da banda sonora para definir o ambiente.",
+                "ru-RU": "Вершите судьбу своей галактики Minecraft, используя этот удивительный микс-набор, содержащий тридцать шесть скинов персонажей, уникальные игровые текстуры, тематические меню, специальный мир, полный знаменитых мест, а также оригинальный саундтрек, создающий нужное настроение.",
+                "sk-SK": "Usmernite osud galaxie v hre Minecraft pomocou tohto úžasného balíka Mash-up: obsahuje 36 vzhľadov postáv, herné textúry na mieru, tematické ponuky, špeciálny svet plný charakteristických lokalít a kompiláciu pôvodných zvukových stôp na navodenie atmosféry.",
+                "sv-SE": "Avgör din Minecraft-galax öde med den här grymma mixen: 36 karaktärsutseenden, anpassade speltexturer, temamenyer, en dedikerad värld full av ikoniska platser och originalljud som sätter stämningen.",
+                "tr-TR": "Bu şaşırtıcı Karışım ile Minecraft galaksinizin kaderini şekillendirin: otuz altı karakter dış görünüşü, ısmarlama oyun dokuları, temalı menüler, ikonik konumlarla dolu özel bir dünya ve ruh halini ayarlamak için orijinal film müziği derlemesi içerir.",
+                "uk-UA": "Визначте долю своєї галактики Minecraft, скориставшись цим неймовірним збірним пакетом: містить тридцять шість скінів персонажів, відомі ігрові текстури, тематичні меню, виділений світ зі знаковими місцями й оригінальним саундтреком, що створюють потрібний настрій.",
+                "zh-CN": "利用这个令人惊奇的混搭包，创造属于您的《我的世界》星系命运：包含有 36 种人物外观、定制的游戏纹理、主题菜单、一个拥有大量经典地点和原作配乐来营造氛围的专属世界。",
+                "zh-TW": "利用這款驚人的混搭套件，形塑 Minecraft 星系的命運：包括 36 款角色外觀，自訂遊戲材質、主題功能表、充滿招牌地點的專屬世界，和營造氣氛的原版配樂精選。",
+                "neutral": "Shape the fate of your Minecraft galaxy with this amazing Mash-up: includes thirty-six character skins, bespoke game textures, themed menus, a dedicated world filled with iconic locations and original soundtrack compilation to set the mood."
+            },
+            "Keywords": {
+                "NEUTRAL": {
+                    "Values": [
+                        "Roleplaying Game",
+                        "Action-Adventure",
+                        "Exploration",
+                        "Science Fiction",
+                        "Space"
+                    ]
+                },
+                "bg-BG": {
+                    "Values": [
+                        "Ролева игра",
+                        "Екшън-приключение",
+                        "Изследване",
+                        "Научна фантастика",
+                        "Космос"
+                    ]
+                },
+                "cs-CZ": {
+                    "Values": [
+                        "Hraní rolí",
+                        "Akční dobrodružství",
+                        "Průzkum",
+                        "Sci-fi",
+                        "Vesmír"
+                    ]
+                },
+                "da-DK": {
+                    "Values": [
+                        "Rollespil",
+                        "Action-adventure",
+                        "Udforskning",
+                        "Science fiction",
+                        "Rummet"
+                    ]
+                },
+                "de-DE": {
+                    "Values": [
+                        "Rollenspiel",
+                        "Action-Abenteuer",
+                        "Erkundung",
+                        "Science-Fiction",
+                        "Weltraum"
+                    ]
+                },
+                "el-GR": {
+                    "Values": [
+                        "Παιχνίδι ρόλων",
+                        "Δράση-Περιπέτεια",
+                        "Εξερεύνηση",
+                        "Επιστημονική φαντασία",
+                        "Διάστημα"
+                    ]
+                },
+                "en-GB": {
+                    "Values": [
+                        "Roleplaying Game",
+                        "Action-Adventure",
+                        "Exploration",
+                        "Science Fiction",
+                        "Space"
+                    ]
+                },
+                "en-US": {
+                    "Values": [
+                        "Roleplaying Game",
+                        "Action-Adventure",
+                        "Exploration",
+                        "Science Fiction",
+                        "Space"
+                    ]
+                },
+                "es-ES": {
+                    "Values": [
+                        "Juego de rol",
+                        "Acción y aventura",
+                        "Exploración",
+                        "Ciencia ficción",
+                        "Espacio"
+                    ]
+                },
+                "es-MX": {
+                    "Values": [
+                        "Juego de roles",
+                        "Acción y aventura",
+                        "Exploración",
+                        "Ciencia ficción",
+                        "Espacio"
+                    ]
+                },
+                "fi-FI": {
+                    "Values": [
+                        "Roolipeli",
+                        "Toimintaseikkailu",
+                        "Tutkimus",
+                        "Scifiä",
+                        "Avaruus"
+                    ]
+                },
+                "fr-CA": {
+                    "Values": [
+                        "Jeu de rôle",
+                        "Action-aventure",
+                        "Exploration",
+                        "Science-fiction",
+                        "Espace"
+                    ]
+                },
+                "fr-FR": {
+                    "Values": [
+                        "Jeu de rôle",
+                        "Action-Aventure",
+                        "Exploration",
+                        "Science-fiction",
+                        "Espace"
+                    ]
+                },
+                "hu-HU": {
+                    "Values": [
+                        "Szerepjáték",
+                        "Akció-kaland",
+                        "Felfedezés",
+                        "Tudományos-fantasztikus",
+                        "Űr"
+                    ]
+                },
+                "id-ID": {
+                    "Values": [
+                        "Permainan Peran",
+                        "Petualangan Aksi",
+                        "Penjelajahan",
+                        "Fiksi Ilmiah",
+                        "Luar Angkasa"
+                    ]
+                },
+                "it-IT": {
+                    "Values": [
+                        "Partita di gioco di ruolo",
+                        "Azione-Avventura",
+                        "Esplorazione",
+                        "Fantascienza",
+                        "Spazio"
+                    ]
+                },
+                "ja-JP": {
+                    "Values": [
+                        "ロールプレイング ゲーム",
+                        "アクション アドベンチャー",
+                        "探検",
+                        "サイエンス フィクション",
+                        "Space"
+                    ]
+                },
+                "ko-KR": {
+                    "Values": [
+                        "롤플레잉 게임",
+                        "액션 어드벤처",
+                        "탐험",
+                        "공상과학",
+                        "우주"
+                    ]
+                },
+                "nb-NO": {
+                    "Values": [
+                        "Rollespilling",
+                        "Actioneventyr",
+                        "Utforskning",
+                        "Science Fiction",
+                        "Verdensrommet"
+                    ]
+                },
+                "nl-NL": {
+                    "Values": [
+                        "Rollenspel",
+                        "Actie-avontuur",
+                        "Verkenning",
+                        "Sciencefiction",
+                        "Ruimte"
+                    ]
+                },
+                "pl-PL": {
+                    "Values": [
+                        "Gra fabularna",
+                        "Akcja i przygoda",
+                        "Eksploracja",
+                        "Science fiction",
+                        "Kosmos"
+                    ]
+                },
+                "pt-BR": {
+                    "Values": [
+                        "Jogo de roleplay",
+                        "Ação e Aventura",
+                        "Exploração",
+                        "Ficção Científica",
+                        "Espaço"
+                    ]
+                },
+                "pt-PT": {
+                    "Values": [
+                        "Jogo de Simulação",
+                        "Ação-Aventura",
+                        "Exploração",
+                        "Ficção Científica",
+                        "Espaço"
+                    ]
+                },
+                "ru-RU": {
+                    "Values": [
+                        "Ролевая игра",
+                        "Остросюжетные приключения",
+                        "Исследование",
+                        "Научная фантастика",
+                        "Космос"
+                    ]
+                },
+                "sk-SK": {
+                    "Values": [
+                        "Hra na hranie rolí",
+                        "Akcia-Dobrodružstvo",
+                        "Prieskum",
+                        "Vedecko-fantastické",
+                        "Vesmír"
+                    ]
+                },
+                "sv-SE": {
+                    "Values": [
+                        "Rollspel",
+                        "Actionäventyr",
+                        "Utforskning",
+                        "Science fiction",
+                        "Rymden"
+                    ]
+                },
+                "tr-TR": {
+                    "Values": [
+                        "Rol Yapma Oyunu",
+                        "Aksiyon-Macera",
+                        "Keşif",
+                        "Bilim Kurgu",
+                        "Uzay"
+                    ]
+                },
+                "uk-UA": {
+                    "Values": [
+                        "Рольова гра",
+                        "Екшн-пригода",
+                        "Дослідження",
+                        "Наукова фантастика",
+                        "Космос"
+                    ]
+                },
+                "zh-CN": {
+                    "Values": [
+                        "角色扮演游戏",
+                        "动作冒险",
+                        "探索",
+                        "科幻小说",
+                        "太空"
+                    ]
+                },
+                "zh-TW": {
+                    "Values": [
+                        "角色扮演遊戲",
+                        "動作冒險",
+                        "勘探",
+                        "科幻",
+                        "太空"
+                    ]
+                },
+                "neutral": {
+                    "Values": [
+                        "Roleplaying Game",
+                        "Action-Adventure",
+                        "Exploration",
+                        "Science Fiction",
+                        "Space"
+                    ]
+                }
+            },
+            "ContentType": "MarketplaceDurableCatalog_V1.2",
+            "CreatorEntityKey": {
+                "Id": "301F442C3B63DC20",
+                "Type": "master_player_account",
+                "TypeString": "master_player_account"
+            },
+            "CreatorEntity": {
+                "Id": "301F442C3B63DC20",
+                "Type": "master_player_account",
+                "TypeString": "master_player_account"
+            },
+            "IsStackable": false,
+            "Platforms": [
+                "android.amazonappstore",
+                "android.googleplay",
+                "b.store",
+                "ios.store",
+                "nx.store",
+                "oculus.store.gearvr",
+                "oculus.store.rift",
+                "uwp.store",
+                "uwp.store.mobile",
+                "xboxone.store",
+                "title.bedrockvanilla",
+                "title.earth",
+                "nx2.store",
+                "ps5.store"
+            ],
+            "Tags": [
+                "ef8b11e0-7b10-41ac-81f4-2a4b02d25727",
+                "fdcb1aa3-45d5-4156-bdec-1d7ef6c6de5f",
+                "98624799-68de-4c73-95ca-2cc97b8483a3",
+                "4e17da16-f777-4279-ab1a-9c5dcd5ea099",
+                "mashup",
+                "has_skinpack",
+                "survival_spawn_world",
+                "genre.roleplaying_game",
+                "subgenre.action_adventure",
+                "playercount.1-4",
+                "tag.exploration",
+                "tag.science_fiction",
+                "tag.space",
+                "1P"
+            ],
+            "CreationDate": "2018-07-31T20:53:58.337Z",
+            "LastModifiedDate": "2026-06-10T23:48:10.038Z",
+            "StartDate": "2020-02-25T18:00:00Z",
+            "Contents": [
+                {
+                    "Id": "1b13aa83-2d55-46b2-9c96-c6ede3aa9f02",
+                    "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/1b13aa83-2d55-46b2-9c96-c6ede3aa9f02/primary.zip",
+                    "MaxClientVersion": "65535.65535.65535",
+                    "MinClientVersion": "1.2.0",
+                    "Tags": [],
+                    "Type": "resourcebinary"
+                },
+                {
+                    "Id": "692a2e95-20c7-45e9-9b80-9a5971e6500b",
+                    "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/692a2e95-20c7-45e9-9b80-9a5971e6500b/secondary.zip",
+                    "MaxClientVersion": "65535.65535.65535",
+                    "MinClientVersion": "1.2.0",
+                    "Tags": [],
+                    "Type": "skinbinary"
+                }
+            ],
+            "Images": [
+                {
+                    "Id": "3823889e-548e-4175-a7f0-2403fad04af6",
+                    "Tag": "packicon",
+                    "Type": "Screenshot",
+                    "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/3823889e-548e-4175-a7f0-2403fad04af6/MassEffect_packicon_0.jpg"
+                },
+                {
+                    "Id": "c3d913f2-d4cb-4b46-b4b9-d8a8263a396b",
+                    "Tag": "panorama",
+                    "Type": "Screenshot",
+                    "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c3d913f2-d4cb-4b46-b4b9-d8a8263a396b/MassEffect_panorama_0.jpg"
+                },
+                {
+                    "Id": "00b8d9d1-3d2e-417b-aa26-b1f2d30cdc96",
+                    "Tag": "screenshot",
+                    "Type": "Screenshot",
+                    "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/00b8d9d1-3d2e-417b-aa26-b1f2d30cdc96/MassEffect_Screenshot_1.jpg"
+                },
+                {
+                    "Id": "a3af4368-fdeb-4ec9-959e-b1c3c10fda4d",
+                    "Tag": "screenshot",
+                    "Type": "Screenshot",
+                    "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/a3af4368-fdeb-4ec9-959e-b1c3c10fda4d/MassEffect_Screenshot_2.jpg"
+                },
+                {
+                    "Id": "a96d94f6-5c58-4006-ba24-5e8bfd107758",
+                    "Tag": "screenshot",
+                    "Type": "Screenshot",
+                    "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/a96d94f6-5c58-4006-ba24-5e8bfd107758/MassEffect_Screenshot_3.jpg"
+                },
+                {
+                    "Id": "ddff1e8c-9304-452c-b0cd-db27ad164916",
+                    "Tag": "screenshot",
+                    "Type": "Screenshot",
+                    "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/ddff1e8c-9304-452c-b0cd-db27ad164916/MassEffect_Screenshot_4.jpg"
+                },
+                {
+                    "Id": "80ca47c4-fd6b-4529-b7cb-f6a58a67d9a1",
+                    "Tag": "screenshot",
+                    "Type": "Screenshot",
+                    "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/80ca47c4-fd6b-4529-b7cb-f6a58a67d9a1/MassEffect_Screenshot_5.jpg"
+                },
+                {
+                    "Id": "a0cc639d-ee13-4298-9029-e339e7eaad9a",
+                    "Tag": "Thumbnail",
+                    "Type": "Thumbnail",
+                    "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/a0cc639d-ee13-4298-9029-e339e7eaad9a/MassEffect_Thumbnail_0.jpg"
+                }
+            ],
+            "ItemReferences": [
+                {
+                    "Id": "ca6c1eaf-87b8-41e4-9132-024a6e377f05",
+                    "Amount": 1
+                },
+                {
+                    "Id": "543d8948-a63b-4233-a84d-c8f748c6a072",
+                    "Amount": 1
+                },
+                {
+                    "Id": "b01affd5-bef1-455d-907b-1c91bbf1cc4a",
+                    "Amount": 1
+                }
+            ],
+            "Price": {
+                "Prices": [
+                    {
+                        "Amounts": [
+                            {
+                                "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                "Amount": 990
+                            }
+                        ]
+                    },
+                    {
+                        "Amounts": [
+                            {
+                                "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                "Amount": 990
+                            }
+                        ]
+                    }
+                ],
+                "RealPrices": []
+            },
+            "PriceOptions": {
+                "Prices": [
+                    {
+                        "Amounts": [
+                            {
+                                "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                "Amount": 990
+                            }
+                        ]
+                    },
+                    {
+                        "Amounts": [
+                            {
+                                "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                "Amount": 990
+                            }
+                        ]
+                    }
+                ],
+                "RealPrices": []
+            },
+            "Rating": {
+                "Average": 4.6,
+                "TotalCount": 3083,
+                "Count5Star": 2556,
+                "Count4Star": 210,
+                "Count3Star": 102,
+                "Count2Star": 44,
+                "Count1Star": 171
+            },
+            "DeepLinks": [],
+            "DisplayProperties": {
+                "creatorName": "Minecraft",
+                "offerId": "41b350da-05e8-4fbe-a432-f71bb0c99d59",
+                "originalCreatorId": "2535448579972708",
+                "price": 990,
+                "purchasable": true,
+                "packIdentity": [
+                    {
+                        "type": "skinpack",
+                        "uuid": "fdcb1aa3-45d5-4156-bdec-1d7ef6c6de5f",
+                        "version": "1.0.53"
+                    },
+                    {
+                        "type": "resourcepack",
+                        "uuid": "98624799-68de-4c73-95ca-2cc97b8483a3",
+                        "version": "1.0.53"
+                    },
+                    {
+                        "type": "worldtemplate",
+                        "uuid": "4e17da16-f777-4279-ab1a-9c5dcd5ea099",
+                        "version": "1.0.53"
+                    }
+                ],
+                "skinPack": {
+                    "count": 36
+                },
+                "publicChangelog": {
+                    "neutral": "",
+                    "en-US": "",
+                    "bg-BG": "",
+                    "cs-CZ": "",
+                    "da-DK": "",
+                    "de-DE": "",
+                    "el-GR": "",
+                    "en-GB": "",
+                    "es-ES": "",
+                    "es-MX": "",
+                    "fi-FI": "",
+                    "fr-CA": "",
+                    "fr-FR": "",
+                    "hu-HU": "",
+                    "id-ID": "",
+                    "it-IT": "",
+                    "ja-JP": "",
+                    "ko-KR": "",
+                    "nb-NO": "",
+                    "nl-NL": "",
+                    "pl-PL": "",
+                    "pt-BR": "",
+                    "pt-PT": "",
+                    "ru-RU": "",
+                    "sk-SK": "",
+                    "sv-SE": "",
+                    "tr-TR": "",
+                    "uk-UA": "",
+                    "zh-CN": "",
+                    "zh-TW": ""
+                },
+                "lastUpdated": "1.19.51",
+                "minPerformanceTier": 2
+            },
+            "ETag": "\"87018a57-0000-0800-0000-6ac1d8fd0000\""
+        }
+    }
+}
