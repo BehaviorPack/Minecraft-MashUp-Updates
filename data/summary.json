@@ -258,6 +258,19 @@
     "version": "1.0.89"
   },
   {
+    "change_file": "data/changes/Fantasy Texture Pack-1.0.66.json",
+    "etag": "\"6700dfdd-0000-0800-0000-6ac47c7a0000\"",
+    "file_count": 3161,
+    "icon_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/d1c3d19e-b4fe-4c62-ad13-bdef498790ca/FantasyTexturePack_packicon_0.jpg",
+    "last_checked": "2026-10-06T09:26:25.490377Z",
+    "manifest_file": "data/manifests/Fantasy Texture Pack.json",
+    "safe_name": "Fantasy Texture Pack",
+    "thumbnail_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/fddedd74-cdae-4e92-844d-78d32f8202af/FantasyTexturePack_Thumbnail_0.jpg",
+    "title": "Fantasy Texture Pack",
+    "total_bytes": 99714879,
+    "version": "1.0.66"
+  },
+  {
     "change_file": "data/changes/Chinese Mythology Mash-up-1.0.64.json",
     "etag": "\"af0374ff-0000-0800-0000-6ac3d30f0000\"",
     "file_count": 2500,
@@ -297,16 +310,16 @@
     "version": "1.0.80"
   },
   {
-    "change_file": "data/changes/Fantasy Texture Pack-1.0.66.json",
-    "etag": "\"6700dfdd-0000-0800-0000-6ac47c7a0000\"",
-    "file_count": 3161,
-    "icon_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/d1c3d19e-b4fe-4c62-ad13-bdef498790ca/FantasyTexturePack_packicon_0.jpg",
-    "last_checked": "2026-10-06T09:26:25.490377Z",
-    "manifest_file": "data/manifests/Fantasy Texture Pack.json",
-    "safe_name": "Fantasy Texture Pack",
-    "thumbnail_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/fddedd74-cdae-4e92-844d-78d32f8202af/FantasyTexturePack_Thumbnail_0.jpg",
-    "title": "Fantasy Texture Pack",
-    "total_bytes": 99714879,
-    "version": "1.0.66"
+    "change_file": "data/changes/Super Cute Texture Pack-1.0.58.json",
+    "etag": "\"c5008fe0-0000-0800-0000-6abd74090000\"",
+    "file_count": 2984,
+    "icon_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/4510e0c8-5bb5-41c7-81f9-35720e7d8ea3/SuperCuteTexturePack_packicon_0.jpg",
+    "last_checked": "2026-10-06T09:26:27.207288Z",
+    "manifest_file": "data/manifests/Super Cute Texture Pack.json",
+    "safe_name": "Super Cute Texture Pack",
+    "thumbnail_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/bca26e40-a258-430f-aa4e-f819918a7030/SuperCuteTexturePack_Thumbnail_0.jpg",
+    "title": "Super Cute Texture Pack",
+    "total_bytes": 13418544,
+    "version": "1.0.58"
   }
 ]
