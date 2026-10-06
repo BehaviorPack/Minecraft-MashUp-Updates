@@ -15,12 +15,14 @@
   {
     "change_file": "data/changes/Dragonborn Mash-up-1.0.60.json",
     "etag": "\"b903c89a-0000-0800-0000-6ac3d30e0000\"",
+    "file_count": 2430,
     "icon_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/da2729a6-3bd5-4033-8bb4-acbc09008f05/skyrim_packicon.jpg",
-    "last_checked": "2026-10-06T08:57:29.720970Z",
-    "pack_dir": "data/packs/Dragonborn Mash-up",
+    "last_checked": "2026-10-06T09:25:35.048906Z",
+    "manifest_file": "data/manifests/Dragonborn Mash-up.json",
     "safe_name": "Dragonborn Mash-up",
     "thumbnail_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a0c4e312-8bd3-4c09-b9ee-bf5f2a8fab24/skyrim_thumbnail_800x450.jpg",
     "title": "Dragonborn Mash-up",
+    "total_bytes": 58298479,
     "version": "1.0.60"
   },
   {
