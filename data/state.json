@@ -182,11 +182,11 @@
     "version": "1.0.51"
   },
   "523e1367-4547-409d-9f71-d11bdf93c382": {
-    "change_file": "data/changes/Super Mario\u2122 Mash-Up Pack-1.0.5.json",
-    "etag": "\"f708740a-0000-0800-0000-6ac3dba90000\"",
+    "change_file": null,
+    "etag": "\"090a5eeb-0000-0800-0000-6ac562d90000\"",
     "file_count": 8944,
     "icon_url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/84a5e266-d2c9-4644-a916-5ac4ffb3ed2f/MC_MarioVV_packicon_0.jpg",
-    "last_checked": "2026-10-06T09:26:38.920135Z",
+    "last_checked": "2026-10-06T23:55:27.997061Z",
     "manifest_file": "data/manifests/Super Mario\u2122 Mash-Up Pack.json",
     "safe_name": "Super Mario\u2122 Mash-Up Pack",
     "thumbnail_url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/6c1e9db6-54a7-4815-911f-ef1e9257fe30/MC_MarioVV_Thumbnail_0.jpg",
