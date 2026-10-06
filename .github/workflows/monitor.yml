@@ -43,7 +43,7 @@ jobs:
           CUSTOM_ID: ${{ secrets.CUSTOM_ID }}
           WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
         working-directory: src
-        run: python mashup_monitor.py
+        run: python scan_pack.py
 
       - name: Update README
         working-directory: src
