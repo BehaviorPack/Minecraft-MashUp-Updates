@@ -1,2 +1,3 @@
 src/download_one.py
 src/.env
+*.pyc
