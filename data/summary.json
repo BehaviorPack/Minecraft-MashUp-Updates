@@ -52,11 +52,11 @@
     "version": "1.0.91"
   },
   {
-    "change_file": "data/changes/Cartoon Texture Pack-1.0.49.json",
-    "etag": "\"7601b435-0000-0800-0000-6abd90b50000\"",
+    "change_file": null,
+    "etag": "\"4201eaa5-0000-0800-0000-6ac5b12e0000\"",
     "file_count": 2490,
     "icon_url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/7c6aa27e-736b-4a0d-842a-a30346ed77af/CartoonTexturePack_packicon_0.jpg",
-    "last_checked": "2026-10-06T09:26:31.642656Z",
+    "last_checked": "2026-10-07T04:31:42.704059Z",
     "manifest_file": "data/manifests/Cartoon Texture Pack.json",
     "safe_name": "Cartoon Texture Pack",
     "thumbnail_url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/93ebf0ca-9149-41c2-973d-59cb77e31c8b/CartoonTexturePack_Thumbnail_0.jpg",
