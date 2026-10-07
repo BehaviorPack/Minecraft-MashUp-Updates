@@ -274,10 +274,10 @@
   },
   "aedadd28-b7bb-46b4-a367-f31e203a7c77": {
     "change_file": null,
-    "etag": "\"cb032a8a-0000-0800-0000-6ac579840000\"",
+    "etag": "\"ce03020f-0000-0800-0000-6ac5b12f0000\"",
     "file_count": 3754,
     "icon_url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/3ebf0033-8fd9-412a-8407-aa547f5d3f4d/PlasticTexturePack_packicon_0.jpg",
-    "last_checked": "2026-10-06T23:55:09.440740Z",
+    "last_checked": "2026-10-07T04:31:33.746631Z",
     "manifest_file": "data/manifests/Plastic Texture Pack.json",
     "safe_name": "Plastic Texture Pack",
     "thumbnail_url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/21c77a7d-fe3c-4020-9d8d-9d887487b6bb/PlasticTexturePack_Thumbnail_0.jpg",
