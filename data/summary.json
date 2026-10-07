@@ -169,11 +169,11 @@
     "version": "1.0.78"
   },
   {
-    "change_file": "data/changes/Pattern Texture Pack-1.0.51.json",
-    "etag": "\"fb00a0c8-0000-0800-0000-6abc23060000\"",
+    "change_file": null,
+    "etag": "\"bc00ba22-0000-0800-0000-6ac5b12f0000\"",
     "file_count": 2444,
     "icon_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/16275bbf-a6b3-4f46-8a20-16be45cfa332/MC_Pattern_packicon_0.jpg",
-    "last_checked": "2026-10-06T09:26:23.223858Z",
+    "last_checked": "2026-10-07T04:31:38.564701Z",
     "manifest_file": "data/manifests/Pattern Texture Pack.json",
     "safe_name": "Pattern Texture Pack",
     "thumbnail_url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/2741a5fc-551d-4632-9bba-74c3bf848145/MC_Pattern_Thumbnail_0.jpg",
