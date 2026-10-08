@@ -196,10 +196,10 @@
   },
   {
     "change_file": null,
-    "etag": "\"2e02aff9-0000-0800-0000-6ac5091a0000\"",
+    "etag": "\"a202cfc4-0000-0800-0000-6ac6e6e00000\"",
     "file_count": 3643,
     "icon_url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/861a22de-bbc7-4c50-98bc-7c572add6a8d/ToyStory_packicon_0.jpg",
-    "last_checked": "2026-10-06T23:54:59.861259Z",
+    "last_checked": "2026-10-08T03:51:53.883732Z",
     "manifest_file": "data/manifests/Toy Story Mash-up.json",
     "safe_name": "Toy Story Mash-up",
     "thumbnail_url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/c893c612-dd42-44c5-9617-3bcd6fd5c2c8/ToyStory_Thumbnail_0.jpg",
