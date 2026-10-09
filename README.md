@@ -3,7 +3,7 @@
 Auto-updated by GitHub Actions. Tracks Minecraft Marketplace mash-up packs via the
 PlayFab `Catalog/GetPublishedItem` endpoint.
 
-**Last updated:** `2026-10-08T04:42:04.347434Z`
+**Last updated:** `2026-10-09T04:46:14.014018Z`
 
 ## Tracked Packs
 
@@ -25,7 +25,7 @@ PlayFab `Catalog/GetPublishedItem` endpoint.
 | <img src="https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/0e9a47c7-eaeb-4589-8df2-da828e630647/MCHalo_packicon_0.jpg" width="20" height="20" alt=""> [Master Chief Mash-up](https://www.minecraft.net/en-us/marketplace/pdp?id=a9725e69-66b2-4002-805a-c26867fe467b) | `1.0.79` | 0 | - | - |
 | <img src="https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/3823889e-548e-4175-a7f0-2403fad04af6/MassEffect_packicon_0.jpg" width="20" height="20" alt=""> [N7 Mash-up](https://www.minecraft.net/en-us/marketplace/pdp?id=ef8b11e0-7b10-41ac-81f4-2a4b02d25727) | `1.0.53` | 0 | - | - |
 | <img src="https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/8115fc83-5db4-4ee7-a56a-02df8fd0af54/NaturalTexturePack_packicon_0.jpg" width="20" height="20" alt=""> [Natural Texture Pack](https://www.minecraft.net/en-us/marketplace/pdp?id=167a11c3-759b-4eaa-b898-5d85dbbd7f5c) | `1.0.91` | 0 | - | - |
-| <img src="https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/b88fb3ea-df47-4915-9b94-603e444ab747/NorseMythology_packicon_0.jpg" width="20" height="20" alt=""> [Norse Mythology Mash-Up](https://www.minecraft.net/en-us/marketplace/pdp?id=a55390b7-33e6-45f9-8032-9037f464b27a) | `1.0.63` | 2890 | 2026-10-06 | [`Norse Mythology Mash-Up-1.0.63.json`](data/changes/Norse Mythology Mash-Up-1.0.63.json) |
+| <img src="https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/b88fb3ea-df47-4915-9b94-603e444ab747/NorseMythology_packicon_0.jpg" width="20" height="20" alt=""> [Norse Mythology Mash-Up](https://www.minecraft.net/en-us/marketplace/pdp?id=a55390b7-33e6-45f9-8032-9037f464b27a) | `1.0.63` | 0 | - | - |
 | <img src="https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/16275bbf-a6b3-4f46-8a20-16be45cfa332/MC_Pattern_packicon_0.jpg" width="20" height="20" alt=""> [Pattern Texture Pack](https://www.minecraft.net/en-us/marketplace/pdp?id=4e3f765b-4893-486f-908e-09ebd55719d2) | `1.0.51` | 0 | - | - |
 | <img src="https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/20a4e7f9-2548-46ea-a79b-f5391b393a14/PiratesoftheCaribbean_packicon_0.jpg" width="20" height="20" alt=""> [Pirates of the Caribbean](https://www.minecraft.net/en-us/marketplace/pdp?id=805c7b50-8bf5-42b1-9b09-01818023f5af) | `1.0.86` | 3204 | 2026-10-06 | [`Pirates of the Caribbean-1.0.86.json`](data/changes/Pirates of the Caribbean-1.0.86.json) |
 | <img src="https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/3ebf0033-8fd9-412a-8407-aa547f5d3f4d/PlasticTexturePack_packicon_0.jpg" width="20" height="20" alt=""> [Plastic Texture Pack](https://www.minecraft.net/en-us/marketplace/pdp?id=aedadd28-b7bb-46b4-a367-f31e203a7c77) | `1.0.89` | 0 | - | - |
