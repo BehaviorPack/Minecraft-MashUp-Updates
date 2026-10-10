@@ -118,10 +118,10 @@
   },
   {
     "change_file": null,
-    "etag": "\"43024b74-0000-0800-0000-6ac854c20000\"",
+    "etag": "\"44027d84-0000-0800-0000-6ac8fcfe0000\"",
     "file_count": 3776,
     "icon_url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/e5175026-7cd0-46fd-89e1-40c087122045/CityTexturePack_packicon_0.jpg",
-    "last_checked": "2026-10-09T04:46:12.483389Z",
+    "last_checked": "2026-10-10T04:31:24.291221Z",
     "manifest_file": "data/manifests/City Texture Pack.json",
     "safe_name": "City Texture Pack",
     "thumbnail_url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/36f633e7-e1f0-4a1d-939e-871ebb10e66a/CityTexturePack_Thumbnail_0.jpg",
