@@ -157,10 +157,10 @@
   },
   {
     "change_file": null,
-    "etag": "\"0b000ff6-0000-0800-0000-6ac854c20000\"",
+    "etag": "\"2800aefa-0000-0800-0000-6ac8a8f90000\"",
     "file_count": 3713,
     "icon_url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/efd94165-2786-4897-8c0e-18b6eaf0a915/LittleBigPlanet_packicon_0.jpg",
-    "last_checked": "2026-10-09T04:45:46.079424Z",
+    "last_checked": "2026-10-10T04:30:55.916049Z",
     "manifest_file": "data/manifests/LittleBigPlanet\u2122 Mash-up.json",
     "safe_name": "LittleBigPlanet\u2122 Mash-up",
     "thumbnail_url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/a55a2401-3daa-42b9-9631-ddda964380ba/LittleBigPlanet_Thumbnail_0.jpg",
