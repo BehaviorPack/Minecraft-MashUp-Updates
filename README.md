@@ -3,7 +3,7 @@
 Auto-updated by GitHub Actions. Tracks Minecraft Marketplace mash-up packs via the
 PlayFab `Catalog/GetPublishedItem` endpoint.
 
-**Last updated:** `2026-10-20T03:35:46.338549Z`
+**Last updated:** `2026-10-21T03:29:14.504418Z`
 
 ## Tracked Packs
 
@@ -21,7 +21,7 @@ PlayFab `Catalog/GetPublishedItem` endpoint.
 | <img src="https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/b3a4a9b6-120b-4fb6-8589-ef45480f9c1c/MCPE_Greek_packicon_0.jpg" width="20" height="20" alt=""> [Greek Mythology Mash-up](https://www.minecraft.net/en-us/marketplace/pdp?id=32c1ef67-3cb2-4094-bd0d-92eb55b5ad75) | `1.0.89` | 0 | - | - |
 | <img src="https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/ab857116-12c1-49de-b519-22e33cab106d/Halloween_packicon_0.jpg" width="20" height="20" alt=""> [Halloween Mash-up](https://www.minecraft.net/en-us/marketplace/pdp?id=42df0f5d-7433-4253-91cf-766e83298afd) | `1.0.76` | 0 | - | - |
 | <img src="https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a1f6c62b-fb6f-4261-ac34-98039bbc5bc7/IceAge_packicon_0.jpg" width="20" height="20" alt=""> [Ice Age](https://www.minecraft.net/en-us/marketplace/pdp?id=09e4d8b4-e02f-4c8b-a982-aefc3e393cde) | `1.0.50` | 0 | - | - |
-| <img src="https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/45d91bc5-6e60-4e04-8996-941cc8761f6c/LittleBigPlanet_packicon_0.jpg" width="20" height="20" alt=""> [LittleBigPlanet™ Mash-up](https://www.minecraft.net/en-us/marketplace/pdp?id=4d7590d6-8f7f-4f53-989a-2df76b6b015b) | `1.0.80` | 3713 | 2026-10-20 | [`LittleBigPlanet™ Mash-up-1.0.80.json`](data/changes/LittleBigPlanet™ Mash-up-1.0.80.json) |
+| <img src="https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/45d91bc5-6e60-4e04-8996-941cc8761f6c/LittleBigPlanet_packicon_0.jpg" width="20" height="20" alt=""> [LittleBigPlanet™ Mash-up](https://www.minecraft.net/en-us/marketplace/pdp?id=4d7590d6-8f7f-4f53-989a-2df76b6b015b) | `1.0.80` | 0 | - | - |
 | <img src="https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/0e9a47c7-eaeb-4589-8df2-da828e630647/MCHalo_packicon_0.jpg" width="20" height="20" alt=""> [Master Chief Mash-up](https://www.minecraft.net/en-us/marketplace/pdp?id=a9725e69-66b2-4002-805a-c26867fe467b) | `1.0.79` | 0 | - | - |
 | <img src="https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/3823889e-548e-4175-a7f0-2403fad04af6/MassEffect_packicon_0.jpg" width="20" height="20" alt=""> [N7 Mash-up](https://www.minecraft.net/en-us/marketplace/pdp?id=ef8b11e0-7b10-41ac-81f4-2a4b02d25727) | `1.0.53` | 0 | - | - |
 | <img src="https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/8115fc83-5db4-4ee7-a56a-02df8fd0af54/NaturalTexturePack_packicon_0.jpg" width="20" height="20" alt=""> [Natural Texture Pack](https://www.minecraft.net/en-us/marketplace/pdp?id=167a11c3-759b-4eaa-b898-5d85dbbd7f5c) | `1.0.91` | 0 | - | - |
