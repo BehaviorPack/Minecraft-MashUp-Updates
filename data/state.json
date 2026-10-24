@@ -208,17 +208,17 @@
     "version": "1.0.96"
   },
   "713a0d2f-29ff-4d5f-a2f6-aee8bdac0583": {
-    "change_file": null,
-    "etag": "\"12003fdb-0000-0800-0000-6adaad410000\"",
-    "file_count": 5176,
-    "icon_url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/e8e231d1-a8e5-4372-ae52-749dd2238373/Star_Wars_packicon_0.jpg",
-    "last_checked": "2026-10-23T03:33:15.781248Z",
-    "manifest_file": "data/manifests/STAR WARS.json",
-    "safe_name": "STAR WARS",
-    "thumbnail_url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/2dedf086-4687-4158-a8b3-4662fa9277c0/Star_Wars_Thumbnail_0.jpg",
-    "title": "STAR WARS",
-    "total_bytes": 203705017,
-    "version": "1.0.107"
+    "change_file": "data/changes/Star Wars-1.0.109.json",
+    "etag": "\"3e0090f8-0000-0800-0000-6adbe24d0000\"",
+    "file_count": 5293,
+    "icon_url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/87ff3874-68a3-4a2f-895c-a75aea7cb0bf/Star_Wars_packicon_0.jpg",
+    "last_checked": "2026-10-24T03:27:37.694266Z",
+    "manifest_file": "data/manifests/Star Wars.json",
+    "safe_name": "Star Wars",
+    "thumbnail_url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/2fe2fdd8-e51c-4b08-b201-2dc8e845f085/Star_Wars_Thumbnail_0.jpg",
+    "title": "Star Wars",
+    "total_bytes": 220893918,
+    "version": "1.0.109"
   },
   "805c7b50-8bf5-42b1-9b09-01818023f5af": {
     "change_file": null,
