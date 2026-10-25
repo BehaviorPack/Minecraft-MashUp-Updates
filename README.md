@@ -3,7 +3,7 @@
 Auto-updated by GitHub Actions. Tracks Minecraft Marketplace mash-up packs via the
 PlayFab `Catalog/GetPublishedItem` endpoint.
 
-**Last updated:** `2026-10-24T03:28:08.142753Z`
+**Last updated:** `2026-10-25T03:23:48.481927Z`
 
 ## Tracked Packs
 
@@ -29,7 +29,7 @@ PlayFab `Catalog/GetPublishedItem` endpoint.
 | <img src="https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/16275bbf-a6b3-4f46-8a20-16be45cfa332/MC_Pattern_packicon_0.jpg" width="20" height="20" alt=""> [Pattern Texture Pack](https://www.minecraft.net/en-us/marketplace/pdp?id=4e3f765b-4893-486f-908e-09ebd55719d2) | `1.0.51` | 0 | - | - |
 | <img src="https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/20a4e7f9-2548-46ea-a79b-f5391b393a14/PiratesoftheCaribbean_packicon_0.jpg" width="20" height="20" alt=""> [Pirates of the Caribbean](https://www.minecraft.net/en-us/marketplace/pdp?id=805c7b50-8bf5-42b1-9b09-01818023f5af) | `1.0.86` | 0 | - | - |
 | <img src="https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/3ebf0033-8fd9-412a-8407-aa547f5d3f4d/PlasticTexturePack_packicon_0.jpg" width="20" height="20" alt=""> [Plastic Texture Pack](https://www.minecraft.net/en-us/marketplace/pdp?id=aedadd28-b7bb-46b4-a367-f31e203a7c77) | `1.0.89` | 0 | - | - |
-| <img src="https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/87ff3874-68a3-4a2f-895c-a75aea7cb0bf/Star_Wars_packicon_0.jpg" width="20" height="20" alt=""> [Star Wars](https://www.minecraft.net/en-us/marketplace/pdp?id=713a0d2f-29ff-4d5f-a2f6-aee8bdac0583) | `1.0.109` | 5293 | 2026-10-24 | [`Star Wars-1.0.109.json`](data/changes/Star Wars-1.0.109.json) |
+| <img src="https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/87ff3874-68a3-4a2f-895c-a75aea7cb0bf/Star_Wars_packicon_0.jpg" width="20" height="20" alt=""> [Star Wars](https://www.minecraft.net/en-us/marketplace/pdp?id=713a0d2f-29ff-4d5f-a2f6-aee8bdac0583) | `1.0.109` | 0 | - | - |
 | <img src="https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/0e261042-bd46-47b2-a739-34ceb5b4982a/steampunktexturepack_packicon_0.jpg" width="20" height="20" alt=""> [Steampunk Texture Pack](https://www.minecraft.net/en-us/marketplace/pdp?id=15412212-f877-4ae5-aaf4-1416803ad5bb) | `1.0.52` | 0 | - | - |
 | <img src="https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/a025c1fb-7a2a-49f1-b167-38677009ed68/StevenUniverse_packicon_0.jpg" width="20" height="20" alt=""> [Steven Universe Mash-up](https://www.minecraft.net/en-us/marketplace/pdp?id=1814821e-1786-44a0-99f5-a950222fb6b3) | `1.0.80` | 0 | - | - |
 | <img src="https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/4510e0c8-5bb5-41c7-81f9-35720e7d8ea3/SuperCuteTexturePack_packicon_0.jpg" width="20" height="20" alt=""> [Super Cute Texture Pack](https://www.minecraft.net/en-us/marketplace/pdp?id=d03b426e-91aa-4761-b19e-cad5dfd3258b) | `1.0.58` | 0 | - | - |
