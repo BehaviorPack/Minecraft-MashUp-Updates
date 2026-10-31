@@ -209,10 +209,10 @@
   },
   {
     "change_file": null,
-    "etag": "\"41002f0a-0000-0800-0000-6ae404210000\"",
+    "etag": "\"41009a4f-0000-0800-0000-6ae555740000\"",
     "file_count": 5293,
     "icon_url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/87ff3874-68a3-4a2f-895c-a75aea7cb0bf/Star_Wars_packicon_0.jpg",
-    "last_checked": "2026-10-30T04:34:18.735838Z",
+    "last_checked": "2026-10-31T04:16:46.918014Z",
     "manifest_file": "data/manifests/Star Wars.json",
     "safe_name": "Star Wars",
     "thumbnail_url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/2fe2fdd8-e51c-4b08-b201-2dc8e845f085/Star_Wars_Thumbnail_0.jpg",
