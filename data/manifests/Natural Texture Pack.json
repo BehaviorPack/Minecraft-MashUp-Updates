@@ -1,5 +1,5 @@
 {
-  "etag": "\"9100e38f-0000-0800-0000-6ae6a6f20000\"",
+  "etag": "\"ac00ad5c-0000-0800-0000-6ae7f98a0000\"",
   "file_count": 3638,
   "files": {
     "biomes_client.json": {
@@ -14556,7 +14556,7 @@
     }
   },
   "icon_url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/8115fc83-5db4-4ee7-a56a-02df8fd0af54/NaturalTexturePack_packicon_0.jpg",
-  "last_scanned": "2026-11-01T04:37:09.979937Z",
+  "last_scanned": "2026-11-02T04:39:38.991088Z",
   "pack": "Natural Texture Pack",
   "thumbnail_url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/27861a4f-cc44-4f22-b7fe-266e96b1a1fe/NaturalTexturePack_Thumbnail_0.jpg",
   "total_bytes": 170576354,
