@@ -1,5 +1,5 @@
 {
-  "etag": "\"2a010d5e-0000-0800-0000-6b04f93a0000\"",
+  "etag": "\"58013d83-0000-0800-0000-6b05da190000\"",
   "file_count": 5293,
   "files": {
     "animation_controllers/child-ac.json": {
@@ -21176,7 +21176,7 @@
     }
   },
   "icon_url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/87ff3874-68a3-4a2f-895c-a75aea7cb0bf/Star_Wars_packicon_0.jpg",
-  "last_scanned": "2026-11-24T08:35:57.939675Z",
+  "last_scanned": "2026-11-25T07:10:05.044595Z",
   "pack": "Star Wars",
   "thumbnail_url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/2fe2fdd8-e51c-4b08-b201-2dc8e845f085/Star_Wars_Thumbnail_0.jpg",
   "total_bytes": 220893918,
