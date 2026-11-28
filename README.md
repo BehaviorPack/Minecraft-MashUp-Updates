@@ -3,7 +3,7 @@
 Auto-updated by GitHub Actions. Tracks Minecraft Marketplace mash-up packs via the
 PlayFab `Catalog/GetPublishedItem` endpoint.
 
-**Last updated:** `2026-11-27T06:54:51.951364Z`
+**Last updated:** `2026-11-28T06:29:39.663568Z`
 
 ## Tracked Packs
 
